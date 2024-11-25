@@ -1,0 +1,855 @@
+Product Name,Color,Size,SKU,Barcode,Category,Type,Brand,piece/s per box/s,Minimum,Quantity,No. of box/s,Pending Qty In,Pending Qty Out,Actual Qty,Actual No. of box/s,LxWxH,Cargo Cost,Total Cargo,Cost,Retail,Wholesale,Markup
+ZS10 Pro,Black,N/A,GH-ZS10PRO-BLACK-UNIT,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 pcs,0,2,-2.00 pcs,-2.00 pcs,0.00x0.00x0.00,0,?0.00,"?1,311.00","?1,839.00","?1,700.00",40.00%
+ZS10 Pro,Blue,N/A,GH-ZS10PRO-BLUE-UNIT,190723220,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,"?1,311.00","?1,839.00","?1,700.00",40.00%
+ZS10 Pro,Purple,N/A,GH-ZS10PRO-PURPLE-UNIT,190723222,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,"?1,311.00","?1,839.00","?1,700.00",40.00%
+ZS10 Pro,Glare Blue,N/A,GH-ZS10PRO-GLAREBLUE-UNIT,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,"?1,311.00","?1,839.00","?1,700.00",40.00%
+ZS10 Pro,Glare Gold,N/A,GH-ZS10PRO-GLAREGOLD-UNIT,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,"?1,311.00","?1,839.00","?1,700.00",40.00%
+Mi Band 4,Black,N/A,GH-XIAOMI-MB4-BLK,6.93418E+12,Wearables,Fitness Tracker,Xiaomi,100,200,449.00 pcs,4.49 box/s,0,2,447.00 pcs,4.47 box/s,0.00x0.00x0.00,0,?0.00,?882.00,"?1,528.00","?1,480.00",73.00%
+Mi Band 4,Wine Red,N/A,GH-XIAOMI-MB4-WineRed,N/A,Wearables,Fitness Tracker,Xiaomi,100,0,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?882.00,"?1,699.00","?1,600.00",93.00%
+Redmi Airdots,Black,N/A,GH-REDMIAIRDOTS-BLK,6.93418E+12,Audio,Airbuds,Xiaomi,100,200,2.00 pcs,0.02 box/s,0,0,2.00 pcs,0.02 box/s,0.00x0.00x0.00,0,?0.00,?739.00,?958.00,?940.00,30.00%
+Piston Fresh,Black,N/A,GH-PISTONFRESH-BLK,6.97024E+12,Audio,In-Ear Earphones,Xiaomi,180,0,"1,458.00 pcs",8.10 box/s,0,1,"1,457.00 pcs",8.09 box/s,0.00x0.00x0.00,0,?0.00,?156.00,?225.00,?200.00,44.00%
+Piston Fresh,Blue,N/A,GH-PISTONFRESH-BLUE,6.97024E+12,Audio,In-Ear Earphones,Xiaomi,180,0,17.00 pcs,0.09 box/s,0,0,17.00 pcs,0.09 box/s,0.00x0.00x0.00,0,?0.00,?156.00,?225.00,?200.00,44.00%
+Piston Fresh,Purple,N/A,GH-PISTONFRESH-PPLE,6.97024E+12,Audio,In-Ear Earphones,Xiaomi,180,0,65.00 pcs,0.36 box/s,0,0,65.00 pcs,0.36 box/s,0.00x0.00x0.00,0,?0.00,?156.00,?225.00,?200.00,44.00%
+Piston Fresh,Silver,N/A,GH-PISTONFRESH-SLVR,6.97024E+12,Audio,In-Ear Earphones,Xiaomi,180,0,691.00 pcs,3.84 box/s,0,4,687.00 pcs,3.82 box/s,0.00x0.00x0.00,0,?0.00,?156.00,?225.00,?200.00,44.00%
+Piston Fresh,Pink,N/A,GH-PISTONFRESH-PINK,6.97024E+12,Audio,In-Ear Earphones,Xiaomi,180,0,243.00 pcs,1.35 box/s,0,1,242.00 pcs,1.34 box/s,0.00x0.00x0.00,0,?0.00,?156.00,?225.00,?200.00,44.00%
+ZS3,N/A,N/A,GH-KZ-ZS3,6.97049E+12,Audio,In-Ear Earphones,KZ,100,0,1.00 pcs,0.01 box/s,0,0,1.00 pcs,0.01 box/s,0.00x0.00x0.00,0,?0.00,?312.00,?389.00,?360.00,25.00%
+Edon Handheld Mini Fan,White,N/A,GH-EDON-WHITE,190723101,Appliances,Small Appliances,Edon,1,0,10.00 pcs,10.00 box/s,0,0,10.00 pcs,10.00 box/s,0.00x0.00x0.00,0,?0.00,?197.00,?399.00,?350.00,103.00%
+Edon Handheld Mini Fan,Green,N/A,GH-EDON-GREEN,190723102,Appliances,Small Appliances,Edon,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?197.00,?399.00,?350.00,103.00%
+Edon Handheld Mini Fan,Pink,N/A,GH-EDON-PINK,190723103,Appliances,Small Appliances,Edon,1,0,19.00 pcs,19.00 box/s,0,0,19.00 pcs,19.00 box/s,0.00x0.00x0.00,0,?0.00,?197.00,?399.00,?350.00,103.00%
+X12 Pro,Black,N/A,GH-SABBAT-X12-BLACK,190722001,Audio,Airbuds,Sabbat,1,0,179.00 pcs,179.00 box/s,0,0,179.00 pcs,179.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,385.00","?1,765.00","?1,600.00",27.00%
+X12 Pro,White,N/A,GH-SABBAT-X12-WHITE,190722003,Audio,Airbuds,Sabbat,1,0,71.00 pcs,71.00 box/s,0,0,71.00 pcs,71.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,385.00","?1,765.00","?1,600.00",27.00%
+X12 Pro,Red,N/A,GH-SABBAT-X12-RED,190722002,Audio,Airbuds,Sabbat,1,0,58.00 pcs,58.00 box/s,0,0,58.00 pcs,58.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,385.00","?1,765.00","?1,600.00",27.00%
+X12 Pro,Blue,N/A,GH-SABBAT-X12-BLUE,190722004,Audio,Airbuds,Sabbat,1,0,53.00 pcs,53.00 box/s,0,0,53.00 pcs,53.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,385.00","?1,765.00","?1,600.00",27.00%
+X12 Pro,Green,N/A,GH-SABBAT-X12-GREEN,190722005,Audio,Airbuds,Sabbat,1,0,106.00 pcs,106.00 box/s,0,0,106.00 pcs,106.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,385.00","?1,765.00","?1,600.00",27.00%
+X12 Pro,Pink,N/A,GH-SABBAT-X12-PINK,190722006,Audio,Airbuds,Sabbat,1,0,194.00 pcs,194.00 box/s,0,0,194.00 pcs,194.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,385.00","?1,765.00","?1,600.00",27.00%
+X12 Pro,Dancer,N/A,GH-SABBAT-X12-DANCER,DNC,Audio,Airbuds,Sabbat,1,0,124.00 pcs,124.00 box/s,0,0,124.00 pcs,124.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,385.00","?1,765.00","?1,600.00",27.00%
+X12 Pro,Flame,N/A,GH-SABBAT-X12-FLAME,190722008,Audio,Airbuds,Sabbat,1,0,337.00 pcs,337.00 box/s,0,0,337.00 pcs,337.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,385.00","?1,765.00","?1,600.00",27.00%
+X12 Pro,Blooming,N/A,GH-SABBAT-X12-BLOOMING,BLM,Audio,Airbuds,Sabbat,1,0,167.00 pcs,167.00 box/s,0,0,167.00 pcs,167.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,385.00","?1,765.00","?1,600.00",27.00%
+X12 Pro,Here With You,N/A,GH-SABBAT-X12-HWY,HWY,Audio,Airbuds,Sabbat,1,0,130.00 pcs,130.00 box/s,0,0,130.00 pcs,130.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,385.00","?1,765.00","?1,600.00",27.00%
+X12 Pro,Ice Soul,N/A,GH-SABBAT-X12-ICESOUL,ISL,Audio,Airbuds,Sabbat,1,0,98.00 pcs,98.00 box/s,0,0,98.00 pcs,98.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,385.00","?1,765.00","?1,600.00",27.00%
+X12 Pro,Fantacy,N/A,GH-SABBAT-X12-FANTACY,FNT,Audio,Airbuds,Sabbat,1,0,119.00 pcs,119.00 box/s,0,0,119.00 pcs,119.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,385.00","?1,765.00","?1,600.00",27.00%
+Xiaomi Alkaline AA Battery,N/A,N/A,AA Battery,6.93426E+12,Camera Accessories,N/A,Xiaomi,0,0,483.00 pcs,0.00 pcs,"2,000.00",0,"2,483.00 pcs",,0.00x0.00x0.00,0,?0.00,?72.00,?135.00,?120.00,88.00%
+Xiaomi Alkaline AAA Battery,N/A,N/A,AAA Battery,6.93426E+12,Camera Accessories,N/A,Xiaomi,0,0,449.00 pcs,0.00 pcs,628,0,"1,077.00 pcs",,0.00x0.00x0.00,0,?0.00,?72.00,?135.00,?120.00,88.00%
+Xiaomi Amplifier Repeater Pro ,N/A,N/A,Amplifier Pro,6.95418E+12,N/A,N/A,Xiaomi,0,0,"4,106.00 pcs",0.00 pcs,"3,400.00",46,"7,460.00 pcs",,0.00x0.00x0.00,0,?0.00,?429.00,?559.00,?500.00,30.00%
+Xiaomi Foldable Monopod Tripod,N/A,N/A,Mi Bluetooth Tripod,6.95418E+12,Camera Accessories,N/A,Xiaomi,0,0,232.00 pcs,0.00 pcs,0,1,231.00 pcs,,0.00x0.00x0.00,0,?0.00,?533.00,?799.00,?750.00,50.00%
+XIAOFANG CAMERA,N/A,N/A,GH-XIAOFANG-CAMERA,6.93025E+12,Electronic Device,Security Cameras,Xiaomi,0,1,184.00 pcs,0.00 box/s,0,0,184.00 pcs,,0.00x0.00x0.00,0,?0.00,?652.00,?929.00,?900.00,42.00%
+PLEXTONE G30,Black,N/A,GH-G30-BLACK,6.97114E+12,Audio,Headset,Plextone,1,0,134.00 pcs,134.00 box/s,0,0,134.00 pcs,134.00 box/s,0.00x0.00x0.00,0,?0.00,?424.00,?575.00,?550.00,36.00%
+PLEXTONE G30,Red,N/A,GH-G30-RED,6.97114E+12,Audio,Headset,Plextone,1,0,109.00 pcs,109.00 box/s,0,0,109.00 pcs,109.00 box/s,0.00x0.00x0.00,0,?0.00,?424.00,?575.00,?550.00,36.00%
+PLEXTONE G30,Green,N/A,GH-G30-GREEN,6.97114E+12,Audio,Headset,Plextone,1,0,49.00 pcs,49.00 box/s,0,0,49.00 pcs,49.00 box/s,0.00x0.00x0.00,0,?0.00,?424.00,?575.00,?550.00,36.00%
+XIAOMI SMART SOCKET,N/A,N/A,GH-SMART-SOCKET-BASIC,6.93418E+12,Electronic Device,Sockets,Xiaomi,1,0,167.00 pcs,167.00 box/s,0,0,167.00 pcs,167.00 box/s,0.00x0.00x0.00,0,?0.00,?319.00,?600.00,?550.00,88.00%
+PLEXTONE G20,Black,N/A,G20-BLACK,6.97114E+12,Audio,In-Ear Earphones,Plextone,1,0,354.00 pcs,354.00 box/s,0,7,347.00 pcs,347.00 box/s,0.00x0.00x0.00,0,?0.00,?230.00,?330.00,?300.00,43.00%
+PLEXTONE G20,Red,N/A,G20-RED,6.97114E+12,Audio,In-Ear Earphones,Plextone,1,0,167.00 pcs,167.00 box/s,0,2,165.00 pcs,165.00 box/s,0.00x0.00x0.00,0,?0.00,?230.00,?330.00,?300.00,43.00%
+PLEXTONE G20,Green,N/A,G20-GREEN,6.97114E+12,Audio,In-Ear Earphones,Plextone,1,0,169.00 pcs,169.00 box/s,100,0,269.00 pcs,269.00 box/s,0.00x0.00x0.00,0,?0.00,?230.00,?330.00,?300.00,43.00%
+ZST PRO,Black,N/A,ZST PRO BLK,190728101,Audio,In-Ear Earphones,KZ,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?510.00,?689.00,?650.00,35.00%
+ZST PRO,Purple,N/A,ZST PRO PURPLE,6.97049E+12,Audio,In-Ear Earphones,KZ,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?510.00,?689.00,?650.00,35.00%
+Xiaomi 3-USB Mini Power Strip with 3 Sockets,Black,N/A,XIAOMI-3USB-MINI-POWERSTRIP-BLACK,6.93418E+12,Electronic Device,Sockets,Xiaomi,1,0,107.00 pcs,107.00 box/s,0,0,107.00 pcs,107.00 box/s,0.00x0.00x0.00,0,?0.00,?328.00,?499.00,?450.00,52.00%
+Xiaomi 3-USB Mini Power Strip with 3 Sockets,White,N/A,XIAOMI-3USB-MINI-POWERSTRIP-WHITE,6.93418E+12,Electronic Device,Sockets,Xiaomi,1,0,16.00 pcs,16.00 box/s,100,0,116.00 pcs,116.00 box/s,0.00x0.00x0.00,0,?0.00,?328.00,?499.00,?450.00,52.00%
+2.1A Fast Charging 3 Usb 6 Sockets,N/A,N/A,XIAOMI-2.1A-POWERSTRIP-6SOCKET-3USB,6.93418E+12,Electronic Device,Sockets,Xiaomi,1,0,96.00 pcs,96.00 box/s,0,0,96.00 pcs,96.00 box/s,0.00x0.00x0.00,0,?0.00,?547.00,?850.00,?800.00,55.00%
+CK5,Red,N/A,CK5-RED,190722104,Audio,In-Ear Earphones,Qkz,1,0,"3,507.00 pcs","3,507.00 box/s",0,0,"3,507.00 pcs","3,507.00 box/s",0.00x0.00x0.00,0,?0.00,?79.00,?125.00,?110.00,58.00%
+CK5,Blue,N/A,CK5-BLUE,190722103,Audio,In-Ear Earphones,Qkz,1,0,"2,503.00 pcs","2,503.00 box/s",0,0,"2,503.00 pcs","2,503.00 box/s",0.00x0.00x0.00,0,?0.00,?79.00,?125.00,?110.00,58.00%
+CK5,Green,N/A,CK5-GREEN,190722106,Audio,In-Ear Earphones,Qkz,1,0,"1,533.00 pcs","1,533.00 box/s",0,0,"1,533.00 pcs","1,533.00 box/s",0.00x0.00x0.00,0,?0.00,?79.00,?125.00,?110.00,58.00%
+CK5,Red & Blue,N/A,CK5-RED&BLUE,190722105,Audio,In-Ear Earphones,Qkz,1,0,"2,020.00 pcs","2,020.00 box/s",0,2,"2,018.00 pcs","2,018.00 box/s",0.00x0.00x0.00,0,?0.00,?79.00,?125.00,?110.00,58.00%
+CK5,Orange,N/A,CK5-ORANGE,190904001,Audio,In-Ear Earphones,Qkz,1,0,542.00 pcs,542.00 box/s,0,0,542.00 pcs,542.00 box/s,0.00x0.00x0.00,0,?0.00,?79.00,?125.00,?110.00,58.00%
+CK8,Black,N/A,CK8-BLACK,190722109,Audio,In-Ear Earphones,Qkz,1,0,43.00 pcs,43.00 box/s,0,0,43.00 pcs,43.00 box/s,0.00x0.00x0.00,0,?0.00,?79.00,?125.00,?110.00,58.00%
+CK8,White,N/A,CK8-WHITE,190722110,Audio,In-Ear Earphones,Qkz,1,0,59.00 pcs,59.00 box/s,0,0,59.00 pcs,59.00 box/s,0.00x0.00x0.00,0,?0.00,?79.00,?125.00,?110.00,58.00%
+CK8,Silver,N/A,CK8-SILVER,190722108,Audio,In-Ear Earphones,Qkz,1,0,116.00 pcs,116.00 box/s,0,0,116.00 pcs,116.00 box/s,0.00x0.00x0.00,0,?0.00,?79.00,?125.00,?110.00,58.00%
+CK8,Gold,N/A,CK8-GOLD,190722107,Audio,In-Ear Earphones,Qkz,1,0,58.00 pcs,58.00 box/s,0,0,58.00 pcs,58.00 box/s,0.00x0.00x0.00,0,?0.00,?79.00,?125.00,?110.00,58.00%
+VK3,Black,N/A,190722115,190722115,Audio,In-Ear Earphones,Qkz,1,0,18.00 pcs,18.00 box/s,0,0,18.00 pcs,18.00 box/s,0.00x0.00x0.00,0,?0.00,?129.00,?215.00,?190.00,67.00%
+VK3,White,N/A,VK3-WHITE,190722117,Audio,In-Ear Earphones,Qkz,1,0,10.00 pcs,10.00 box/s,0,0,10.00 pcs,10.00 box/s,0.00x0.00x0.00,0,?0.00,?129.00,?215.00,?190.00,67.00%
+VK3,Red,N/A,VK3-RED,190722116,Audio,In-Ear Earphones,Qkz,1,0,49.00 pcs,49.00 box/s,0,0,49.00 pcs,49.00 box/s,0.00x0.00x0.00,0,?0.00,?129.00,?215.00,?190.00,67.00%
+CK9,Black,N/A,CK9-BLACK,190722114,Audio,In-Ear Earphones,Qkz,1,0,129.00 pcs,129.00 box/s,0,0,129.00 pcs,129.00 box/s,0.00x0.00x0.00,0,?0.00,?136.00,?215.00,?200.00,58.00%
+CK9,Blue,N/A,CK9-BLUE,190722111,Audio,In-Ear Earphones,Qkz,1,0,103.00 pcs,103.00 box/s,0,0,103.00 pcs,103.00 box/s,0.00x0.00x0.00,0,?0.00,?136.00,?215.00,?200.00,58.00%
+CK9,Purple,N/A,CK9-PURPLE,190722113,Audio,In-Ear Earphones,Qkz,1,0,115.00 pcs,115.00 box/s,0,0,115.00 pcs,115.00 box/s,0.00x0.00x0.00,0,?0.00,?136.00,?215.00,?200.00,58.00%
+CK9,Transparent,N/A,CK9-CLEAR,190722112,Audio,In-Ear Earphones,Qkz,1,0,204.00 pcs,204.00 box/s,0,0,204.00 pcs,204.00 box/s,0.00x0.00x0.00,0,?0.00,?136.00,?215.00,?200.00,58.00%
+Nexstand K2,N/A,N/A,GH-NEXTSTAND,6.97031E+12,N/A,N/A,Nexstand,1,0,"2,020.00 pcs","2,020.00 box/s",0,7,"2,013.00 pcs","2,013.00 box/s",0.00x0.00x0.00,0,?0.00,?324.00,?348.00,?348.00,7.00%
+KZ BT Cable,A,N/A,BT-CABLE A,190722202,Audio,In-Ear Earphones,KZ,1,0,54.00 pcs,54.00 pcs,0,0,54.00 pcs,54.00 pcs,0.00x0.00x0.00,0,?0.00,?228.00,?359.00,?350.00,57.00%
+KZ BT Cable,B,N/A,BT-CABLE B,190722201,Audio,In-Ear Earphones,KZ,1,0,36.00 pcs,36.00 pcs,0,0,36.00 pcs,36.00 pcs,0.00x0.00x0.00,0,?0.00,?228.00,?359.00,?350.00,57.00%
+KZ APTX Cable,A,N/A,KZ-APTX-A,190722203,Audio,In-Ear Earphones,KZ,1,0,83.00 pcs,83.00 box/s,0,0,83.00 pcs,83.00 box/s,0.00x0.00x0.00,0,?0.00,?410.00,?549.00,?500.00,34.00%
+KZ APTX Cable,B,N/A,KZ-APTX-B,190722204,Audio,In-Ear Earphones,KZ,1,0,40.00 pcs,40.00 box/s,0,0,40.00 pcs,40.00 box/s,0.00x0.00x0.00,0,?0.00,?410.00,?549.00,?500.00,34.00%
+KZ APTX Cable,C,N/A,KZ-APTX-C,190722205,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?410.00,?549.00,?500.00,34.00%
+ABS Box,Black,N/A,ABS-BOX-BLACK,190723210,Earphones Storage Box,Box,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.09x0.07x0.04,"10,125.00",?2.55,?46.00,?99.00,?70.00,103.00%
+ABS Box,Red,N/A,ABS-BOX-RED,190723207,Earphones Storage Box,Box,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.09x0.07x0.04,"10,125.00",?2.55,?46.00,?99.00,?70.00,103.00%
+ABS Box,Blue,N/A,ABS-BOX-BLUE,190723209,Earphones Storage Box,Box,KZ,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.09x0.07x0.04,"10,125.00",?2.55,?46.00,?99.00,?70.00,103.00%
+ABS Box,Green,N/A,ABS-BOX-GREEN,190723208,Earphones Storage Box,Box,KZ,1,0,12.00 pcs,12.00 box/s,0,0,12.00 pcs,12.00 box/s,0.09x0.07x0.04,"10,125.00",?2.55,?46.00,?99.00,?70.00,103.00%
+ZSN PRO,Blue,N/A,ZSN-PRO-BLUE,190723219,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?524.00,?735.00,?700.00,40.00%
+ZSN PRO,Purple,N/A,ZSN-PRO-PURPLE,190723218,Audio,In-Ear Earphones,KZ,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?524.00,?735.00,?700.00,40.00%
+ZSN PRO,Gray,N/A,ZSN-PRO-GRAY,190723217,Audio,In-Ear Earphones,KZ,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?524.00,?735.00,?700.00,40.00%
+Mini S1 Powerbank,Black,N/A,MINI-S1-BLACK,190723510,Electronic Device,Power Bank,Popcorn,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?320.00,?499.00,?350.00,56.00%
+Mini S1 Powerbank,White,N/A,MINI-S1-WHITE,190723511,Electronic Device,Power Bank,Popcorn,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?320.00,?499.00,?350.00,56.00%
+PB 62K Power Bank,White,N/A,PB-62K-WHITE,190723512,Electronic Device,Power Bank,Popcorn,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?680.00,?890.00,?750.00,31.00%
+PB 62K Power Bank,Blue,N/A,PB-62K-BLUE,190723517,Electronic Device,Power Bank,Popcorn,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?680.00,?890.00,?750.00,31.00%
+PB 51K Power Bank,White,N/A,PB-51K-WHITE,190723515,Electronic Device,Power Bank,Popcorn,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?530.00,?699.00,?650.00,32.00%
+PB 51K Power Bank,Blue,N/A,PB-51K-D.BLUE,190723516,Electronic Device,Power Bank,Popcorn,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?530.00,?699.00,?650.00,32.00%
+Kacool Pro 25L,Black,N/A,KACOOL-PRO-25L-BLK,190723501,Wearables,Dry Bag,Popcorn,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?560.00,?850.00,?650.00,52.00%
+Kacool Pro 25L,Gray,N/A,KACOOL-PRO-25L-GRAY,190723502,Wearables,Dry Bag,Popcorn,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?560.00,?850.00,?650.00,52.00%
+Kacool-Waist-Bag,N/A,N/A,GH-KACOOL-WAIST-BAG,190723503,Wearables,Dry Bag,Popcorn,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?130.00,?245.00,?200.00,88.00%
+Kacool 20L Drybag,Black,N/A,KACOOL-20L-BLK,190723504,Wearables,Dry Bag,Popcorn,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?450.00,?599.00,?500.00,33.00%
+Kacool 20L Drybag,Blue,N/A,KACOOL-20L-BLUE,190723506,Wearables,Dry Bag,Popcorn,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?450.00,?599.00,?500.00,33.00%
+Kacool 20L Drybag,Yellow,N/A,KACOOL-20L-YELLOW,190723505,Wearables,Dry Bag,Popcorn,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?450.00,?599.00,?500.00,33.00%
+Kacool 20L Drybag,Gray,N/A,KACOOL-20L-GRAY,190723507,Wearables,Dry Bag,Popcorn,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?450.00,?599.00,?500.00,33.00%
+Kacool 20L Drybag,Camouflage,N/A,KACOOL-20L-CAMOU,190723508,Wearables,Dry Bag,Popcorn,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?450.00,?599.00,?500.00,33.00%
+Kacool 20L Drybag,Orange,N/A,KACOOL-20L-ORANGE,190723509,Wearables,Dry Bag,Popcorn,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?450.00,?599.00,?500.00,33.00%
+KZ Ear Tips 2pcs Set,Black,N/A,KZ-EARTIPS-2PCS-BLK,190723213,Audio,In-Ear Earphones,KZ,1,0,13.00 pcs,13.00 box/s,0,0,13.00 pcs,13.00 box/s,0.00x0.00x0.00,0,?0.00,?22.00,?49.00,?30.00,123.00%
+KZ Ear Tips 2pcs Set,Red,N/A,KZ-EARTIPS-2PCS-RED,190723211,Audio,In-Ear Earphones,KZ,1,0,25.00 pcs,25.00 box/s,0,0,25.00 pcs,25.00 box/s,0.00x0.00x0.00,0,?0.00,?22.00,?49.00,?30.00,123.00%
+KZ Ear Tips 2pcs Set,Blue,N/A,KZ-EARTIPS-2PCS-BLUE,190723212,Audio,In-Ear Earphones,KZ,1,0,9.00 pcs,9.00 box/s,0,0,9.00 pcs,9.00 box/s,0.00x0.00x0.00,0,?0.00,?22.00,?49.00,?30.00,123.00%
+KZ Oxygen Copper Cable,A no mic,N/A,OXYGEN-CABLE-A-NO-MIC,190723201,Audio,In-Ear Earphones,KZ,1,0,6.00 pcs,6.00 box/s,0,0,6.00 pcs,6.00 box/s,0.00x0.00x0.00,0,?0.00,?63.00,?199.00,?150.00,216.00%
+KZ Oxygen Copper Cable,A w/mic,N/A,OXYGEN-CABLE-A-WITH-MIC,190723202,Audio,In-Ear Earphones,KZ,1,0,11.00 pcs,11.00 box/s,0,0,11.00 pcs,11.00 box/s,0.00x0.00x0.00,0,?0.00,?121.00,?199.00,?150.00,64.00%
+KZ Oxygen Copper Cable,B no mic,N/A,OXYGEN-CABLE-B-NO-MIC,190723203,Audio,In-Ear Earphones,KZ,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?63.00,?199.00,?150.00,216.00%
+KZ Oxygen Copper Cable,B w/mic,N/A,OXYGEN-CABLE-B-WITH-MIC,190723204,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?121.00,?199.00,?150.00,64.00%
+KZ Oxygen Copper Cable,C no mic,N/A,OXYGEN-CABLE-C-NO-MIC,190723205,Audio,In-Ear Earphones,KZ,1,0,5.00 pcs,5.00 box/s,0,0,5.00 pcs,5.00 box/s,0.00x0.00x0.00,0,?0.00,?63.00,?199.00,?150.00,216.00%
+KZ Oxygen Copper Cable,C w/mic,N/A,OXYGEN-CABLE-C-WITH-MIC,190723206,Audio,In-Ear Earphones,KZ,1,0,13.00 pcs,13.00 box/s,0,0,13.00 pcs,13.00 box/s,0.00x0.00x0.00,0,?0.00,?121.00,?199.00,?150.00,64.00%
+XIAOMI MOSQUITO KILLER,N/A,N/A,XIAOMI-MOSQUITO-KILLER,6.93426E+12,Mosquito Repellent,Portable Mosquito Killer,Xiaomi,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?366.00,?450.00,?440.00,23.00%
+XIAOMI WIRELESS CHARGER,N/A,N/A,GH-XIAOMI-WIRELESS-CHARGER,6.93418E+12,Electronic Device,Power Bank,Xiaomi,1,0,6.00 pcs,6.00 box/s,100,0,106.00 pcs,106.00 box/s,0.00x0.00x0.00,0,?0.00,?444.00,?600.00,?580.00,35.00%
+XIAOMI SO WHITE SHAVER,N/A,N/A,XIAOMI-SO-WHITE-SHAVER,6.97024E+12,Electronic Device,Portable Shaver,Xiaomi,1,0,58.00 pcs,58.00 box/s,0,0,58.00 pcs,58.00 box/s,0.00x0.00x0.00,0,?0.00,?360.00,?700.00,?650.00,94.00%
+XIAOMI HAPPY LIFE DIFFUSER AROMA THERAPY,N/A,N/A,GH-DIFFUSER,6.97133E+12,Electronic Device,Power Bank,Xiaomi,1,0,25.00 pcs,25.00 box/s,0,0,25.00 pcs,25.00 box/s,0.00x0.00x0.00,0,?0.00,?484.00,?600.00,?580.00,24.00%
+XIAOMI SOOCAS HAIR DRYER,N/A,N/A,XIAOMI-SOOCAS-HAIR-DRYER,6.97024E+12,Appliances,Small Appliances,Xiaomi,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,378.00","?1,700.00","?1,650.00",23.00%
+ZHIBAI SHAVER,N/A,N/A,XIAOMI-ZHIBAI-SHAVER,6.97102E+12,Electronic Device,Portable Shaver,Xiaomi,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?630.00,?800.00,?750.00,27.00%
+KZ Ear Tips 6pcs Set,Black,N/A,KZ-EARTIPS-3PAIRS-BLACK,6.97049E+12,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?47.00,?79.00,?60.00,68.00%
+KZ Ear Tips 6pcs Set,Red,N/A,KZ-EARTIPS-3PAIRS-RED,190723214,Audio,In-Ear Earphones,KZ,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?47.00,?79.00,?60.00,68.00%
+KZ Ear Tips 6pcs Set,Blue,N/A,KZ-EARTIPS-3PAIRS-BLUE,190723215,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?47.00,?79.00,?60.00,68.00%
+PLEXTONE-BT-270,Black,N/A,BT-270-BLACK,6.97114E+12,Audio,In-Ear Earphones,Plextone,1,0,139.00 pcs,139.00 box/s,0,0,139.00 pcs,139.00 box/s,0.00x0.00x0.00,0,?0.00,?657.00,?900.00,?850.00,37.00%
+PLEXTONE-BT-270,White,N/A,BT-270-WHITE,6.97114E+12,Audio,In-Ear Earphones,Plextone,1,0,31.00 pcs,31.00 box/s,0,0,31.00 pcs,31.00 box/s,0.00x0.00x0.00,0,?0.00,?657.00,?900.00,?850.00,37.00%
+PLEXTONE-BT-270,Gold,N/A,BT-270-GOLD,6.97114E+12,Audio,In-Ear Earphones,Plextone,1,0,53.00 pcs,53.00 box/s,0,0,53.00 pcs,53.00 box/s,0.00x0.00x0.00,0,?0.00,?657.00,?900.00,?850.00,37.00%
+ZS10,Black,N/A,ZS10-BLACK,190723238,Audio,In-Ear Earphones,KZ,1,0,4.00 pcs,4.00 box/s,0,0,4.00 pcs,4.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,367.00","?1,600.00","?1,550.00",17.00%
+ZS10,Red,N/A,ZS10-RED,190723237,Audio,In-Ear Earphones,KZ,1,0,7.00 pcs,7.00 box/s,0,0,7.00 pcs,7.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,367.00","?1,600.00","?1,550.00",17.00%
+ZS10,Blue,N/A,ZS10-BLUE,190723236,Audio,In-Ear Earphones,KZ,1,0,12.00 pcs,12.00 box/s,0,0,12.00 pcs,12.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,367.00","?1,600.00","?1,550.00",17.00%
+KZ Lightning Cable,A,N/A,KZ-LIGHTNING-CABLE-A,190723231,Audio,In-Ear Earphones,KZ,1,0,6.00 pcs,6.00 box/s,0,0,6.00 pcs,6.00 box/s,0.00x0.00x0.00,0,?0.00,?477.00,?550.00,?530.00,15.00%
+KZ Lightning Cable,B,N/A,KZ-LIGHTNING-CABLE-B,190723232,Audio,In-Ear Earphones,KZ,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?477.00,?550.00,?530.00,15.00%
+PLEXTONE-G50,Black,N/A,G50-BLACK,6.97114E+12,Audio,In-Ear Earphones,Plextone,1,0,39.00 pcs,39.00 box/s,0,0,39.00 pcs,39.00 box/s,0.00x0.00x0.00,0,?0.00,?888.00,"?1,799.00","?1,700.00",103.00%
+PLEXTONE-G50,Red,N/A,G50-RED,6.97114E+12,Audio,In-Ear Earphones,Plextone,1,0,36.00 pcs,36.00 box/s,0,0,36.00 pcs,36.00 box/s,0.00x0.00x0.00,0,?0.00,?888.00,"?1,799.00","?1,700.00",103.00%
+PLEXTONE-G50,Green,N/A,G50-GREEN,6.97114E+12,Audio,In-Ear Earphones,Plextone,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?888.00,"?1,799.00","?1,700.00",103.00%
+Plextone G15,Black,N/A,G15-BLACK,6.97114E+12,Audio,In-Ear Earphones,Plextone,1,0,249.00 pcs,249.00 box/s,0,0,249.00 pcs,249.00 box/s,0.00x0.00x0.00,0,?0.00,?188.00,?289.00,?270.00,54.00%
+Plextone G15,Red,N/A,G15-RED,6.97114E+12,Audio,In-Ear Earphones,Plextone,1,0,192.00 pcs,192.00 box/s,0,0,192.00 pcs,192.00 box/s,0.00x0.00x0.00,0,?0.00,?188.00,?289.00,?270.00,54.00%
+Plextone G15,Green,N/A,G15-GREEN,6.97114E+12,Audio,In-Ear Earphones,Plextone,1,0,164.00 pcs,164.00 box/s,0,0,164.00 pcs,164.00 box/s,0.00x0.00x0.00,0,?0.00,?188.00,?289.00,?270.00,54.00%
+XIAOMI 4L SLING BAG,N/A,N/A,MI-4L-SLINGBAG,6.95418E+12,Wearables,N/A,Xiaomi,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?455.00,?549.00,?520.00,21.00%
+4 USB Hub,Black,N/A,4-USB-HUB-BLACK,190729001,N/A,N/A,None,1,0,19.00 pcs,19.00 box/s,400,0,419.00 pcs,419.00 box/s,0.00x0.00x0.00,0,?0.00,?24.00,?99.00,?80.00,313.00%
+4 USB Hub,White,N/A,4-USB-HUB-WHITE,190729002,N/A,N/A,None,1,0,2.00 pcs,2.00 box/s,200,0,202.00 pcs,202.00 box/s,0.00x0.00x0.00,0,?0.00,?24.00,?99.00,?80.00,313.00%
+Mobile Air,V2,N/A,MOBILE-AIR-V2,190730001,Appliances,Mini Appliances,None,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?190.00,?399.00,?380.00,110.00%
+Mobile Air,V3,N/A,MOBILE-AIR-V3,190730002,Appliances,Mini Appliances,None,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?312.00,?399.00,?380.00,28.00%
+Mobile Air,V4,N/A,MOBILE-AIR-V4,190730003,Appliances,Mini Appliances,None,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?312.00,?399.00,?380.00,28.00%
+Airpods Case Cover 5pcs. Set,Black,N/A,APC-5PCS-SET-BLACK,190730104,N/A,N/A,None,1,0,14.00 pcs,14.00 box/s,0,0,14.00 pcs,14.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?99.00,?80.00,136.00%
+Airpods Case Cover 5pcs. Set,White,N/A,APC-5PCS-SET-WHITE,190730107,N/A,N/A,None,1,0,7.00 pcs,7.00 box/s,0,0,7.00 pcs,7.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?99.00,?80.00,136.00%
+Airpods Case Cover 5pcs. Set,Red,N/A,APC-5PCS-SET-RED,190730109,N/A,N/A,None,1,0,9.00 pcs,9.00 box/s,0,0,9.00 pcs,9.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?99.00,?80.00,136.00%
+Airpods Case Cover 5pcs. Set,Dark Blue,N/A,APC-5PCS-SET-DRKBLUE,190730102,N/A,N/A,None,1,0,8.00 pcs,8.00 box/s,0,0,8.00 pcs,8.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?99.00,?80.00,136.00%
+Airpods Case Cover 5pcs. Set,Blue,N/A,APC-5PCS-SET-BLUE,190730110,N/A,N/A,None,1,0,12.00 pcs,12.00 box/s,0,0,12.00 pcs,12.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?99.00,?80.00,136.00%
+Airpods Case Cover 5pcs. Set,Purple,N/A,APC-5PCS-SET-PURPLE,190730103,N/A,N/A,None,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?99.00,?80.00,136.00%
+Airpods Case Cover 5pcs. Set,Gray,N/A,APC-5PCS-SET-GRAY,190730108,N/A,N/A,None,1,0,4.00 pcs,4.00 box/s,0,0,4.00 pcs,4.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?99.00,?80.00,136.00%
+Airpods Case Cover 5pcs. Set,Pink,N/A,APC-5PCS-SET-PINK,190730101,N/A,N/A,None,1,0,8.00 pcs,8.00 box/s,0,1,7.00 pcs,7.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?99.00,?80.00,136.00%
+Airpods Case Cover 5pcs. Set,Transparent,N/A,APC-5PCS-SET-CLEAR,190730111,N/A,N/A,None,1,0,8.00 pcs,8.00 box/s,0,0,8.00 pcs,8.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?99.00,?80.00,136.00%
+Airpods Case Cover 5pcs. Set,Olive,N/A,APC-5PCS-SET-OLIVE,190730106,N/A,N/A,None,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?99.00,?80.00,136.00%
+Airpods Case Cover 5pcs. Set,MInt Green,N/A,APC-5PCS-SET-MINT GREEN,190730105,N/A,N/A,None,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?99.00,?80.00,136.00%
+Magnetic Rope,Black,N/A,MAGNETIC-ROPE-BLACK,190730114,N/A,N/A,N/A,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?43.00,?99.00,?80.00,130.00%
+Magnetic Rope,White,N/A,MAGNETIC-ROPE-WHITE,190730115,N/A,N/A,N/A,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?43.00,?99.00,?80.00,130.00%
+Magnetic Rope,Red,N/A,MAGNETIC-ROPE-RED,190730112,N/A,N/A,N/A,1,0,5.00 pcs,5.00 box/s,0,0,5.00 pcs,5.00 box/s,0.00x0.00x0.00,0,?0.00,?43.00,?99.00,?80.00,130.00%
+Magnetic Rope,Dark Blue,N/A,MAGNETIC-ROPE-DRKBLUE,190730113,N/A,N/A,N/A,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?43.00,?99.00,?80.00,130.00%
+Magnetic Rope,Pink,N/A,MAGNETIC-ROPE-PINK,190730116,N/A,N/A,N/A,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?43.00,?99.00,?80.00,130.00%
+Magnetic Rope,MInt Green,N/A,MAGNETIC-ROPE-MINTGREEN,N/A,N/A,N/A,N/A,1,0,9.00 pcs,9.00 box/s,0,0,9.00 pcs,9.00 box/s,0.00x0.00x0.00,0,?0.00,?43.00,?99.00,?80.00,130.00%
+VIDO NO MIC EAR PHONE,Black,N/A,VIDO-BLACK,190730203,Audio,In-Ear Earphones,None,1,0,-2.00 pcs,-2.00 box/s,0,0,-2.00 pcs,-2.00 box/s,0.00x0.00x0.00,0,?0.00,?53.00,?89.00,?75.00,68.00%
+VIDO NO MIC EAR PHONE,White,N/A,VIDO-WHITE,190730201,Audio,In-Ear Earphones,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?53.00,?89.00,?75.00,68.00%
+VIDO NO MIC EAR PHONE,Blue,N/A,VIDO-BLUE,190730202,Audio,In-Ear Earphones,None,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?53.00,?89.00,?75.00,68.00%
+GH-Oem-Drybag,Black,N/A,GH-OEM-DRYBAG-BLACK,190730301,Wearables,Dry Bag,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?260.00,?349.00,?320.00,34.00%
+GH-Oem-Drybag,Orange,N/A,GH-OEM-DRYBAG-ORANGE,190730302,Wearables,Dry Bag,None,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?260.00,?349.00,?320.00,34.00%
+Airdots Pro,N/A,N/A,GH-AIRDOTS-PRO,6.93418E+12,Audio,Airbuds,Xiaomi,1,0,6.00 pcs,6.00 box/s,0,0,6.00 pcs,6.00 box/s,0.00x0.00x0.00,0,?0.00,"?2,480.00","?2,979.00","?2,950.00",20.00%
+Airdots Youth,White,N/A,GH-AIRDOTS-YOUTH,6.93418E+12,Audio,Airbuds,Xiaomi,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,319.00","?1,899.00","?1,800.00",44.00%
+Airpods Case(Luggage Type) ,Black,N/A,GH-APC-LUGGAGE-BLK,190730122,N/A,N/A,None,1,0,1.00 pcs,1.00 pcs,0,0,1.00 pcs,1.00 pcs,0.00x0.00x0.00,0,?0.00,?80.00,?149.00,?130.00,86.00%
+Airpods Case(Luggage Type) ,Purple,N/A,GH-APC-LUGGAGE-PRPL,190730121,N/A,N/A,None,1,0,6.00 pcs,6.00 pcs,0,0,6.00 pcs,6.00 pcs,0.00x0.00x0.00,0,?0.00,?80.00,?149.00,?130.00,86.00%
+Airpods Case(Luggage Type) ,Pink,N/A,GH-APC-LUGGAGE-PNK,190730117,N/A,N/A,None,1,0,3.00 pcs,3.00 pcs,0,0,3.00 pcs,3.00 pcs,0.00x0.00x0.00,0,?0.00,?80.00,?149.00,?130.00,86.00%
+Airpods Case(Luggage Type) ,Red Blue,N/A,GH-APC-LUGGAGE-RED BLUE,190730124,N/A,N/A,None,1,0,3.00 pcs,3.00 pcs,0,0,3.00 pcs,3.00 pcs,0.00x0.00x0.00,0,?0.00,?80.00,?149.00,?130.00,86.00%
+Airpods Case(Luggage Type) ,Blue Red,N/A,GH-APC-LUGGAGE-BLUE RED,190730118,N/A,N/A,None,1,0,5.00 pcs,5.00 pcs,0,0,5.00 pcs,5.00 pcs,0.00x0.00x0.00,0,?0.00,?80.00,?149.00,?130.00,86.00%
+Waterproof Membrane,N/A,80mm,GH-WP-MEMBRANE-80MM,80,N/A,N/A,None,1,0,26.00 pcs,26.00 box/s,0,0,26.00 pcs,26.00 box/s,0.00x0.00x0.00,0,?0.00,?22.00,?249.00,?200.00,"1,032.00%"
+Waterproof Membrane,N/A,100mm,GH-WP-MEMBRANE-100MM,100,N/A,N/A,None,1,0,152.00 pcs,152.00 box/s,0,0,152.00 pcs,152.00 box/s,0.00x0.00x0.00,0,?0.00,?31.00,?249.00,?200.00,703.00%
+Waterproof Membrane,N/A,145mm,GH-WP-MEMBRANE-145MM,145,N/A,N/A,None,1,0,219.00 pcs,219.00 box/s,0,0,219.00 pcs,219.00 box/s,0.00x0.00x0.00,0,?0.00,?33.00,?249.00,?200.00,655.00%
+Waterproof Membrane,N/A,200mm,GH-WP-MEMBRANE-200MM,200,N/A,N/A,None,1,0,30.00 pcs,30.00 box/s,500,0,530.00 pcs,530.00 box/s,0.00x0.00x0.00,0,?0.00,?60.00,?249.00,?200.00,315.00%
+XIAOMI-REEPRO-HAIRDRYER,N/A,N/A,XIAOMI-REEPRO-HAIRDRYER,6.97129E+12,Appliances,Small Appliances,Xiaomi,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?708.00,"?1,399.00","?1,300.00",98.00%
+5 in 1 OTG Card Reader,Black,N/A,5IN1-OTG-CARDREADER-BLACK,511,N/A,N/A,None,1,0,82.00 pcs,82.00 box/s,700,1,781.00 pcs,781.00 box/s,0.00x0.00x0.00,0,?0.00,?63.00,?150.00,?130.00,138.00%
+5 in 1 OTG Card Reader,White,N/A,5IN1-OTG-CARDREADER-WHITE,512,N/A,N/A,None,1,0,0.00 pcs,0.00 box/s,300,0,300.00 pcs,300.00 box/s,0.00x0.00x0.00,0,?0.00,?63.00,?150.00,?130.00,138.00%
+Mi Band 3/4 Silicone Strap,Black,N/A,MB3/4-SILICONE-STRP-BLK,3,Wearables,Watch,None,1,0,762.00 pcs,762.00 box/s,0,6,756.00 pcs,756.00 box/s,0.00x0.00x0.00,0,?0.00,?11.00,?49.00,?30.00,345.00%
+Mi Band 3/4 Silicone Strap,White,N/A,MB3/4-SILICONE-STRP-WHITE,2,Wearables,Watch,None,1,0,"3,182.00 pcs","3,182.00 box/s",0,1,"3,181.00 pcs","3,181.00 box/s",0.00x0.00x0.00,0,?0.00,?11.00,?49.00,?30.00,345.00%
+Mi Band 3/4 Silicone Strap,Red,N/A,MB3/4-SILICONE-STRP-RED,10,Wearables,Watch,None,1,0,8.00 pcs,8.00 box/s,0,0,8.00 pcs,8.00 box/s,0.00x0.00x0.00,0,?0.00,?11.00,?49.00,?30.00,345.00%
+Mi Band 3/4 Silicone Strap,Sky Blue,N/A,MB3/4-SILICONE-STRP-SKYBLUE,11,Wearables,Watch,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?11.00,?49.00,?30.00,345.00%
+Mi Band 3/4 Silicone Strap,Dark Blue,N/A,MB3/4-SILICONE-STRP-DRKBLUE,1,Wearables,Watch,None,1,0,"1,826.00 pcs","1,826.00 box/s",0,2,"1,824.00 pcs","1,824.00 box/s",0.00x0.00x0.00,0,?0.00,?11.00,?49.00,?30.00,345.00%
+Mi Band 3/4 Silicone Strap,Green,N/A,MB3/4-SILICONE-STRP-GREEN,6,Wearables,Watch,None,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?11.00,?49.00,?30.00,345.00%
+Mi Band 3/4 Silicone Strap,Cyan,N/A,MB3/4-SILICONE-STRP-CYAN,4,Wearables,Watch,None,1,0,-1.00 pcs,-1.00 box/s,0,0,-1.00 pcs,-1.00 box/s,0.00x0.00x0.00,0,?0.00,?11.00,?49.00,?30.00,345.00%
+Mi Band 3/4 Silicone Strap,Purple,N/A,MB3/4-SILICONE-STRP-PRPL,9,Wearables,Watch,None,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?11.00,?49.00,?30.00,345.00%
+Mi Band 3/4 Silicone Strap,Yellow,N/A,MB3/4-SILICONE-STRP-YLLW,12,Wearables,Watch,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?11.00,?49.00,?30.00,345.00%
+Mi Band 3/4 Silicone Strap,Gray,N/A,MB3/4-SILICONE-STRP-GRAY,5,Wearables,Watch,None,1,0,4.00 pcs,4.00 box/s,0,0,4.00 pcs,4.00 box/s,0.00x0.00x0.00,0,?0.00,?11.00,?49.00,?30.00,345.00%
+Mi Band 3/4 Silicone Strap,Pink,N/A,MB3/4-SILICONE-STRP-PINK,8,Wearables,Watch,None,1,0,6.00 pcs,6.00 box/s,0,0,6.00 pcs,6.00 box/s,0.00x0.00x0.00,0,?0.00,?11.00,?49.00,?30.00,345.00%
+Mi Band 3/4 Silicone Strap,Orange,N/A,MB3/4-SILICONE-STRP-ORANGE,7,Wearables,Watch,None,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?11.00,?49.00,?30.00,345.00%
+KZ PU Pouch,N/A,N/A,KZ-PU-POUCH,P,N/A,N/A,None,1,0,"7,671.00 pcs","7,671.00 box/s",0,6,"7,665.00 pcs","7,665.00 box/s",0.00x0.00x0.00,0,?0.00,?8.00,?39.00,?30.00,388.00%
+Mi Band 4 SP  w/o hole,N/A,N/A,GH-MB4-SP,N/A,N/A,N/A,None,1,0,"2,952.00 pcs","2,952.00 box/s",0,1,"2,951.00 pcs","2,951.00 box/s",0.00x0.00x0.00,0,?0.00,?8.00,?29.00,?20.00,263.00%
+Lama V1,N/A,N/A,GH-LAMA-V1,L1,Phone,Phone Accessories,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?21.00,?49.00,?40.00,133.00%
+Lama V2,N/A,N/A,GH-LAMA-V2,L2,Phone,Phone Accessories,None,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?21.00,?49.00,?40.00,133.00%
+EVA Case,N/A,N/A,GH-EVA-CASE,02,N/A,N/A,None,1,0,5.00 pcs,5.00 box/s,0,0,5.00 pcs,5.00 box/s,0.00x0.00x0.00,0,?0.00,?56.00,?129.00,?120.00,130.00%
+Glass Screen Pro,N/A,7/8,GSP-PTG-7/8,7/,Phone,Phone Accessories,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?21.00,?49.00,?40.00,133.00%
+Glass Screen Pro,N/A,7/8+,GSP-PTG-7/8+,7+,Phone,Phone Accessories,None,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?21.00,?49.00,?40.00,133.00%
+Glass Screen Pro,N/A,X/XS,GSP-PTG-X/XS,XS,Phone,Phone Accessories,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?21.00,?49.00,?40.00,133.00%
+Glass Screen Pro,N/A,XS MAX,GSP-PTG-XSMAX,XM,Phone,Phone Accessories,None,1,0,5.00 pcs,5.00 box/s,0,0,5.00 pcs,5.00 box/s,0.00x0.00x0.00,0,?0.00,?21.00,?49.00,?40.00,133.00%
+Wide Angle Blind Spot Mirror  2pcs Set,N/A,N/A,GH-BLIND-SPOT,BS,N/A,N/A,None,1,0,479.00 pcs,479.00 box/s,0,0,479.00 pcs,479.00 box/s,0.00x0.00x0.00,0,?0.00,?51.00,?89.00,?70.00,75.00%
+TG113 BT SPEAKER,Black,N/A,TG113-BLACK,TG1,Audio,Bluetooth Speaker,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?170.00,?399.00,?300.00,135.00%
+TG113 BT SPEAKER,Red,N/A,TG113-RED,TG7,Audio,Bluetooth Speaker,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?170.00,?399.00,?300.00,135.00%
+TG113 BT SPEAKER,Blue,N/A,TG113-BLUE,TG2,Audio,Bluetooth Speaker,None,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?170.00,?399.00,?300.00,135.00%
+TG113 BT SPEAKER,Green,N/A,TG113-GREEN,TG3,Audio,Bluetooth Speaker,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?170.00,?399.00,?300.00,135.00%
+TG113 BT SPEAKER,Silver,N/A,TG113-SILVER,TG6,Audio,Bluetooth Speaker,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?170.00,?399.00,?300.00,135.00%
+TG113 BT SPEAKER,Camouflage,N/A,TG113-CAMOU,TG4,Audio,Bluetooth Speaker,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?170.00,?399.00,?300.00,135.00%
+TG113 BT SPEAKER,Orange,N/A,TG113-ORANGE,TG5,Audio,Bluetooth Speaker,None,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?170.00,?399.00,?300.00,135.00%
+Mini Desk Phone Holder,Black,N/A,GH-DP-MINI-HOLDER-BLK,190803001,Phone holder,Desk,None,1,0,580.00 pcs,580.00 box/s,"1,000.00",0,"1,580.00 pcs","1,580.00 box/s",0.00x0.00x0.00,0,?0.00,?12.00,?49.00,?40.00,308.00%
+Mini Desk Phone Holder,White,N/A,GH-DP-MINI-HOLDER-WHITE,190803002,Phone holder,Desk,None,1,0,211.00 pcs,211.00 box/s,500,0,711.00 pcs,711.00 box/s,0.00x0.00x0.00,0,?0.00,?12.00,?49.00,?40.00,308.00%
+Mini Desk Phone Holder,Blue,N/A,GH-DP-MINI-HOLDER-BLUE,190803006,Phone holder,Desk,None,1,0,227.00 pcs,227.00 box/s,300,0,527.00 pcs,527.00 box/s,0.00x0.00x0.00,0,?0.00,?12.00,?49.00,?40.00,308.00%
+Mini Desk Phone Holder,Green,N/A,GH-DP-MINI-HOLDER-GREEN,190803003,Phone holder,Desk,None,1,0,82.00 pcs,82.00 box/s,200,0,282.00 pcs,282.00 box/s,0.00x0.00x0.00,0,?0.00,?12.00,?49.00,?40.00,308.00%
+Mini Desk Phone Holder,Purple,N/A,GH-DP-MINI-HOLDER-PRPL,190803004,Phone holder,Desk,None,1,0,333.00 pcs,333.00 box/s,200,0,533.00 pcs,533.00 box/s,0.00x0.00x0.00,0,?0.00,?12.00,?49.00,?40.00,308.00%
+Mini Desk Phone Holder,Pink,N/A,GH-DP-MINI-HOLDER-PINK,190803005,Phone holder,Desk,None,1,0,155.00 pcs,155.00 box/s,300,0,455.00 pcs,455.00 box/s,0.00x0.00x0.00,0,?0.00,?12.00,?49.00,?40.00,308.00%
+3 in 1 Velocity Cable,Red,N/A,3IN1-VELOCITY-RED,6.93393E+12,Phone,Phone Accessories,None,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?250.00,?399.00,?350.00,60.00%
+3 in 1 Velocity Cable,Blue,N/A,3IN1-VELOCITY-BLUE,6.93393E+12,Phone,Phone Accessories,None,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?250.00,?399.00,?350.00,60.00%
+Airdots Silicone Case w/clip,Black,N/A,GH-AD-SILICONE-CASE-BLK,CA1,N/A,N/A,None,1,0,12.00 pcs,12.00 pcs,0,0,12.00 pcs,12.00 pcs,0.00x0.00x0.00,0,?0.00,?43.00,?137.00,?120.00,219.00%
+Airdots Silicone Case w/clip,White,N/A,GH-AD-SILICONE-CASE-WHITE,CA8,N/A,N/A,None,1,0,77.00 pcs,77.00 pcs,0,0,77.00 pcs,77.00 pcs,0.00x0.00x0.00,0,?0.00,?43.00,?137.00,?120.00,219.00%
+Airdots Silicone Case w/clip,Red,N/A,GH-AD-SILICONE-CASE-RED,CA7,N/A,N/A,None,1,0,13.00 pcs,13.00 pcs,0,0,13.00 pcs,13.00 pcs,0.00x0.00x0.00,0,?0.00,?43.00,?137.00,?120.00,219.00%
+Airdots Silicone Case w/clip,Dark Blue,N/A,GH-AD-SILICONE-CASE-D.BLUE,CA3,N/A,N/A,None,1,0,3.00 pcs,3.00 pcs,0,0,3.00 pcs,3.00 pcs,0.00x0.00x0.00,0,?0.00,?43.00,?137.00,?120.00,219.00%
+Airdots Silicone Case w/clip,Blue,N/A,GH-AD-SILICONE-CASE-BLUE,CA2,N/A,N/A,None,1,0,47.00 pcs,47.00 pcs,0,0,47.00 pcs,47.00 pcs,0.00x0.00x0.00,0,?0.00,?43.00,?137.00,?120.00,219.00%
+Airdots Silicone Case w/clip,Gray,N/A,GH-AD-SILICONE-CASE-GRAY,CA4,N/A,N/A,None,1,0,30.00 pcs,30.00 pcs,0,0,30.00 pcs,30.00 pcs,0.00x0.00x0.00,0,?0.00,?43.00,?137.00,?120.00,219.00%
+Airdots Silicone Case w/clip,Pink,N/A,GH-AD-SILICONE-CASE-PINK,CA6,N/A,N/A,None,1,0,26.00 pcs,26.00 pcs,0,0,26.00 pcs,26.00 pcs,0.00x0.00x0.00,0,?0.00,?43.00,?137.00,?120.00,219.00%
+Airdots Silicone Case w/clip,MInt Green,N/A,GH-AD-SILICONE-CASE-MINTGREEN,CA5,N/A,N/A,None,1,0,37.00 pcs,37.00 pcs,0,0,37.00 pcs,37.00 pcs,0.00x0.00x0.00,0,?0.00,?43.00,?137.00,?120.00,219.00%
+Airdots Cover,Black,N/A,AD-COVER-SILICONE-BLCK,CV1,N/A,N/A,None,1,0,"1,702.00 pcs","1,702.00 box/s",0,2,"1,700.00 pcs","1,700.00 box/s",0.00x0.00x0.00,0,?0.00,?13.00,?139.00,?120.00,969.00%
+Airdots Cover,White,N/A,AD-COVER-SILICONE-WHITE,CV7,N/A,N/A,None,1,0,203.00 pcs,203.00 box/s,0,0,203.00 pcs,203.00 box/s,0.00x0.00x0.00,0,?0.00,?13.00,?139.00,?120.00,969.00%
+Airdots Cover,Red,N/A,AD-COVER-SILICONE-RED,CV5,N/A,N/A,None,1,0,397.00 pcs,397.00 box/s,0,0,397.00 pcs,397.00 box/s,0.00x0.00x0.00,0,?0.00,?13.00,?139.00,?120.00,969.00%
+Airdots Cover,Sky Blue,N/A,AD-COVER-SILICONE-SKYBLUE,CV6,N/A,N/A,None,1,0,202.00 pcs,202.00 box/s,0,0,202.00 pcs,202.00 box/s,0.00x0.00x0.00,0,?0.00,?13.00,?139.00,?120.00,969.00%
+Airdots Cover,Blue,N/A,AD-COVER-SILICONE-BLUE,CV2,N/A,N/A,None,1,0,417.00 pcs,417.00 box/s,0,0,417.00 pcs,417.00 box/s,0.00x0.00x0.00,0,?0.00,?13.00,?139.00,?120.00,969.00%
+Airdots Cover,Pink,N/A,AD-COVER-SILICONE-PINK,CV4,N/A,N/A,None,1,0,215.00 pcs,215.00 box/s,0,1,214.00 pcs,214.00 box/s,0.00x0.00x0.00,0,?0.00,?13.00,?139.00,?120.00,969.00%
+Airdots Cover,MInt Green,N/A,AD-COVER-SILICONE-MINTGREEN,CV3,N/A,N/A,None,1,0,414.00 pcs,414.00 box/s,0,0,414.00 pcs,414.00 box/s,0.00x0.00x0.00,0,?0.00,?13.00,?139.00,?120.00,969.00%
+Airdots Cover,Lavender,N/A,AD-COVER-SILICONE-LAVENDER,CV8,N/A,N/A,None,1,0,208.00 pcs,208.00 box/s,0,1,207.00 pcs,207.00 box/s,0.00x0.00x0.00,0,?0.00,?13.00,?139.00,?120.00,969.00%
+PB Dual Sleeve,N/A,N/A,PB-DUAL-SLEEVE,SD,N/A,N/A,None,1,0,57.00 pcs,57.00 box/s,0,0,57.00 pcs,57.00 box/s,0.00x0.00x0.00,0,?0.00,?19.00,?30.00,?25.00,58.00%
+Mi Band 3 sp,N/A,N/A,MB3-SP,SP3,None,N/A,None,1,0,"1,786.00 pcs","1,786.00 box/s",0,0,"1,786.00 pcs","1,786.00 box/s",0.00x0.00x0.00,0,?0.00,?12.00,?25.00,?20.00,108.00%
+Mi Bluetooth Selfie Stick,Black,N/A,MI-BT-SELFIE-STICK-BLK,6.93418E+12,N/A,N/A,Xiaomi,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?679.00,?799.00,?750.00,18.00%
+Mi Bluetooth Selfie Stick,White,N/A,MI-BT-SELFIE-STICK-WHITE,6.93418E+12,N/A,N/A,Xiaomi,1,0,11.00 pcs,11.00 box/s,0,0,11.00 pcs,11.00 box/s,0.00x0.00x0.00,0,?0.00,?679.00,?799.00,?750.00,18.00%
+Portable Laptop Stand Ultra Thin Invisible Folding ,Black,N/A,STEALTH-LAPTOP-STAND-BLACK,LS1,Computer & Laptops,N/A,None,1,0,704.00 pcs,704.00 box/s,0,0,704.00 pcs,704.00 box/s,0.29x0.23x0.25,222,?3.70,?108.00,?359.00,?250.00,221.00%
+Portable Laptop Stand Ultra Thin Invisible Folding ,Gray,N/A,STEALTH-LAPTOP-STAND-GRAY,LS3,Computer & Laptops,N/A,None,1,0,400.00 pcs,400.00 box/s,0,0,400.00 pcs,400.00 box/s,0.29x0.23x0.25,222,?3.70,?108.00,?359.00,?250.00,221.00%
+Portable Laptop Stand Ultra Thin Invisible Folding ,Brown,N/A,STEALTH-LAPTOP-STAND-BROWN,LS2,Computer & Laptops,N/A,None,1,0,202.00 pcs,202.00 box/s,0,0,202.00 pcs,202.00 box/s,0.29x0.23x0.25,222,?3.70,?108.00,?359.00,?250.00,221.00%
+Portable Laptop Stand Ultra Thin Invisible Folding ,Pink,N/A,STEALTH-LAPTOP-STAND-PINK,LS4,Computer & Laptops,N/A,None,1,0,199.00 pcs,199.00 box/s,0,0,199.00 pcs,199.00 box/s,0.29x0.23x0.25,222,?3.70,?108.00,?359.00,?250.00,221.00%
+Mobile Desk Phone Holder,Black,N/A,GH-DESK-PHONE-HOLDER-BLACK,190816001,Phone holder,N/A,None,1,0,131.00 pcs,131.00 box/s,"1,000.00",0,"1,131.00 pcs","1,131.00 box/s",0.00x0.00x0.00,0,?0.00,?69.00,?139.00,?130.00,101.00%
+Mobile Desk Phone Holder,Red,N/A,GH-DESK-PHONE-HOLDER-RED,N/A,Phone holder,N/A,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?69.00,?139.00,?130.00,101.00%
+Mobile Desk Phone Holder,Silver,N/A,GH-DESK-PHONE-HOLDER-SILVER,190816004,Phone holder,N/A,None,1,0,16.00 pcs,16.00 box/s,600,0,616.00 pcs,616.00 box/s,0.00x0.00x0.00,0,?0.00,?69.00,?139.00,?130.00,101.00%
+Mobile Desk Phone Holder,Gold,N/A,GH-DESK-PHONE-HOLDER-GOLD,190816002,Phone holder,N/A,None,1,0,11.00 pcs,11.00 box/s,200,0,211.00 pcs,211.00 box/s,0.00x0.00x0.00,0,?0.00,?69.00,?139.00,?130.00,101.00%
+Mobile Desk Phone Holder,Rose Gold,N/A,GH-DESK-PHONE-HOLDER-ROSE GOLD,190816003,Phone holder,N/A,None,1,0,10.00 pcs,10.00 box/s,200,0,210.00 pcs,210.00 box/s,0.00x0.00x0.00,0,?0.00,?69.00,?139.00,?130.00,101.00%
+Haylou GT1,Black,N/A,HAYLOU-GT1-BLACK,3022152,Audio,Airbuds,Haylou,1,0,640.00 pcs,640.00 box/s,0,0,640.00 pcs,640.00 box/s,0.00x0.00x0.00,0,?0.00,?530.00,?899.00,?850.00,70.00%
+Haylou GT1,White,N/A,HAYLOU-GT1-WHITE,N/A,Audio,Airbuds,Haylou,1,0,241.00 pcs,241.00 box/s,0,1,240.00 pcs,240.00 box/s,0.00x0.00x0.00,0,?0.00,?535.00,?899.00,?850.00,68.00%
+Mijobs NFC Strap 14mm,Black,N/A,NFC-STRAP-MB3/4-14mm-BLACK,NB14,Wearables,Watch,Mijobs,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?157.00,?299.00,?290.00,90.00%
+Mijobs NFC Strap 14mm,Silver,N/A,NFC-STRAP-MB3/4-14mm-SILVER,NS14,Wearables,Watch,Mijobs,1,0,-1.00 pcs,-1.00 box/s,0,0,-1.00 pcs,-1.00 box/s,0.00x0.00x0.00,0,?0.00,?135.00,?299.00,?290.00,121.00%
+Mijobs NFC Strap 14mm,Gold,N/A,NFC-STRAP-MB3/4-14mm-GOLD,NG14,Wearables,Watch,Mijobs,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?171.00,?299.00,?290.00,75.00%
+Mijobs NFC Strap 14mm,Rose Gold,N/A,NFC-STRAP-MB3/4-14mm-R.GOLD,NR14,Wearables,Watch,Mijobs,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?171.00,?299.00,?290.00,75.00%
+P9 Foldable USB Stand Fan White,N/A,N/A,N/A,SF,Appliances,Mini Appliances,None,20,1,2.00 pcs,0.10 box/s,0,0,2.00 pcs,0.10 box/s,0.00x0.00x0.00,0,?0.00,?745.00,"?1,200.00","?1,000.00",61.00%
+ X12 Ultra,Sahara,N/A,SABBAT-X12-ULTRA-SAHARA,6.97255E+12,Audio,Airbuds,Sabbat,1,0,51.00 pcs,51.00 box/s,0,0,51.00 pcs,51.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,525.00","?2,499.00","?2,400.00",64.00%
+ X12 Ultra,Caribbean,N/A,SABBAT-X12-ULTRA-CARIBBEAN,6.97255E+12,Audio,Airbuds,Sabbat,1,0,50.00 pcs,50.00 box/s,0,0,50.00 pcs,50.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,525.00","?2,499.00","?2,400.00",64.00%
+ X12 Ultra,Amazon,N/A,SABBAT-X12-ULTRA-AMAZON,6.97255E+12,Audio,Airbuds,Sabbat,1,0,194.00 pcs,194.00 box/s,0,0,194.00 pcs,194.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,525.00","?2,499.00","?2,400.00",64.00%
+ X12 Ultra,Emirates,N/A,SABBAT-X12-ULTRA-EMIRATES,6.97255E+12,Audio,Airbuds,Sabbat,1,0,45.00 pcs,45.00 box/s,0,0,45.00 pcs,45.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,525.00","?2,499.00","?2,400.00",64.00%
+E12 Ultra,Sahara,N/A,E12-ULTRA-SAHARA,N/A,Audio,Airbuds,Sabbat,1,0,76.00 pcs,76.00 box/s,0,0,76.00 pcs,76.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,916.00","?2,499.00","?2,400.00",30.00%
+E12 Ultra,Caribbean,N/A,E12-ULTRA-CARIBBEAN,N/A,Audio,Airbuds,Sabbat,1,0,70.00 pcs,70.00 box/s,0,0,70.00 pcs,70.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,916.00","?2,499.00","?2,400.00",30.00%
+E12 Ultra,Amazon,N/A,E12-ULTRA-AMAZON,N/A,Audio,Airbuds,Sabbat,1,0,104.00 pcs,104.00 box/s,0,0,104.00 pcs,104.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,916.00","?2,499.00","?2,400.00",30.00%
+E12 Ultra,Emirates,N/A,E12-ULTRA-EMIRATES,N/A,Audio,Airbuds,Sabbat,1,0,62.00 pcs,62.00 box/s,0,0,62.00 pcs,62.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,916.00","?2,499.00","?2,400.00",30.00%
+E12 Ultra,Rock and Roll Coffee,N/A,E12-ULTRA-R&R COFFEE,6.97255E+12,Audio,Airbuds,Sabbat,1,0,181.00 pcs,181.00 box/s,0,0,181.00 pcs,181.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,876.00","?2,499.00","?2,400.00",33.00%
+E12 Ultra,Martha Red,N/A,E12-ULTRA-MARTHA RED,6.97255E+12,Audio,Airbuds,Sabbat,1,0,98.00 pcs,98.00 box/s,0,0,98.00 pcs,98.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,876.00","?2,499.00","?2,400.00",33.00%
+E12 Ultra,Gold and Copper,N/A,E12-ULTRA-GOLD&COPPER,6.97255E+12,Audio,Airbuds,Sabbat,1,0,71.00 pcs,71.00 box/s,0,0,71.00 pcs,71.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,876.00","?2,499.00","?2,400.00",33.00%
+E12 Ultra,Electro Violet,N/A,E12-ULTRA-ELECTRO-VIOLET,6.97255E+12,Audio,Airbuds,Sabbat,1,0,54.00 pcs,54.00 box/s,0,0,54.00 pcs,54.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,876.00","?2,499.00","?2,400.00",33.00%
+E12 Ultra,Smokey and Grey,N/A,E12-ULTRA-SMOKEY&GRAY,6.97255E+12,Audio,Airbuds,Sabbat,1,0,130.00 pcs,130.00 box/s,0,0,130.00 pcs,130.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,876.00","?2,499.00","?2,400.00",33.00%
+E12 Ultra,Bingbo Silver,N/A,E12-ULTRA-BINGBO SILVER,6.97255E+12,Audio,Airbuds,Sabbat,1,0,95.00 pcs,95.00 box/s,0,0,95.00 pcs,95.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,876.00","?2,499.00","?2,400.00",33.00%
+REDMI POWERBANK 10K,N/A,N/A,REDMI-PB-10K,6.93418E+12,Electronic Device,Power Bank,Xiaomi,1,0,386.00 pcs,386.00 box/s,0,0,386.00 pcs,386.00 box/s,0.00x0.00x0.00,0,?0.00,?321.00,?450.00,?400.00,40.00%
+REDMI POWERBANK 20K,N/A,N/A,REDMI-PB-20K,6.93418E+12,Electronic Device,Power Bank,Xiaomi,1,0,229.00 pcs,229.00 box/s,0,0,229.00 pcs,229.00 box/s,0.00x0.00x0.00,0,?0.00,?599.00,?450.00,?420.00,-25.00%
+REMAX Sleep Headphone RM-588,Black,N/A,RM-588-BLACK,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,8.00 pcs,8.00 box/s,0,0,8.00 pcs,8.00 box/s,0.00x0.00x0.00,0,?0.00,?129.00,?229.00,?190.00,78.00%
+REMAX Sleep Headphone RM-588,White,N/A,RM-588-WHITE,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,6.00 pcs,6.00 box/s,0,0,6.00 pcs,6.00 box/s,0.00x0.00x0.00,0,?0.00,?129.00,?229.00,?190.00,78.00%
+T9 WIRELESS HD VOICE,Black,N/A,RB-T9-WIRELESS-BLACK,6.95485E+12,Audio,Headset,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?228.00,?428.00,?320.00,88.00%
+T9 WIRELESS HD VOICE,White,N/A,RB-T9-WIRELESS-WHITE,N/A,Audio,Headset,Remax,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?228.00,?428.00,?320.00,88.00%
+T9 WIRELESS HD VOICE,Pink,N/A,RB-T9-WIRELESS-PINK,N/A,Audio,Headset,Remax,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?228.00,?428.00,?320.00,88.00%
+REMAX WIRELESS SPORTS EARPHONE RB-S25 ,Black,N/A,RB-S25-BLACK,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?237.00,?387.00,?350.00,63.00%
+REMAX WIRELESS SPORTS EARPHONE RB-S25 ,White,N/A,RB-S25-WHITE,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?237.00,?387.00,?350.00,63.00%
+RB-S2MAGNET SPORTS BT HEADSET,Black,N/A,RB-S2-MAGNET-SPORTS-BT-HEADSET-BLK,N/A,Audio,Headset,Remax,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?475.00,?779.00,?600.00,64.00%
+RB-S2MAGNET SPORTS BT HEADSET,White,N/A,RB-S2-MAGNET-SPORTS-BT-HEADSET-WHITE,6.95485E+12,Audio,Headset,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?475.00,?779.00,?600.00,64.00%
+REMAX TWS WIRELESS EARBUDS TWS-6,Black,N/A,TWS6-WIRELESS-EARBUDS-BLACK,N/A,Audio,Airbuds,Remax,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?607.00,"?1,015.00",?800.00,67.00%
+REMAX TWS WIRELESS EARBUDS TWS-6,White,N/A,TWS6-WIRELESS-EARBUDS-WHITE,N/A,Audio,Airbuds,Remax,1,0,4.00 pcs,4.00 box/s,0,0,4.00 pcs,4.00 box/s,0.00x0.00x0.00,0,?0.00,?607.00,"?1,015.00",?800.00,67.00%
+REMAX TWS WIRELESS EARBUDS TWS-6,Purblish Blue,N/A,TWS6-WIRELESS-EARBUDS-P.BLUE,N/A,Audio,Airbuds,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?607.00,"?1,015.00",?800.00,67.00%
+REMAX TWS WIRELESS EARBUDS TWS-6,Black Blue,N/A,TWS6-WIRELESS-EARBUDS-BLK.BLUE,6.95485E+12,Audio,Airbuds,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?607.00,"?1,015.00",?800.00,67.00%
+REMAX RC-001M REMAX QUICK CHARGE AND DATA CABLE,Black,N/A,RC-001M-QUICKCHARGE-CABLE-BLACK,6.95485E+12,N/A,N/A,Remax,1,0,121.00 pcs,121.00 box/s,0,0,121.00 pcs,121.00 box/s,0.00x0.00x0.00,0,?0.00,?64.00,?135.00,?120.00,111.00%
+REMAX RC-001M REMAX QUICK CHARGE AND DATA CABLE,White,N/A,RC-001M-QUICKCHARGE-CABLE-WHITE,6.95485E+12,N/A,N/A,Remax,1,0,194.00 pcs,194.00 box/s,0,0,194.00 pcs,194.00 box/s,0.00x0.00x0.00,0,?0.00,?64.00,?135.00,?120.00,111.00%
+REMAX RC-001M REMAX QUICK CHARGE AND DATA CABLE,Red,N/A,RC-001M-QUICKCHARGE-CABLE-RED,N/A,N/A,N/A,Remax,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?64.00,?135.00,?120.00,111.00%
+REMAX RC-156A CIGAN SERIES DATA CABLE,Black,N/A,RC-156A-CIGAN-SERIES-DATA-CABLE,6.95485E+12,N/A,N/A,Remax,1,0,138.00 pcs,138.00 box/s,0,0,138.00 pcs,138.00 box/s,0.00x0.00x0.00,0,?0.00,?117.00,?2.00,?1.50,-98.00%
+REMAX RC-134M  FAST CHARGING DATA CABLE,Black,N/A,RC-134M-REMAX-1KMM-FAST-CHARGING-CABLE-BLACK,6.95485E+12,N/A,N/A,Remax,1,0,288.00 pcs,288.00 box/s,0,0,288.00 pcs,288.00 box/s,0.00x0.00x0.00,0,?0.00,?20.00,?72.00,?50.00,260.00%
+REMAX RC-134M  FAST CHARGING DATA CABLE,White,N/A,RC-134M-REMAX-1KMM-FAST-CHARGING-CABLE-WHITE,6.95485E+12,N/A,N/A,Remax,1,0,239.00 pcs,239.00 box/s,0,0,239.00 pcs,239.00 box/s,0.00x0.00x0.00,0,?0.00,?20.00,?72.00,?50.00,260.00%
+RC-129i FAST SAFE DATA CABLE,Black,N/A,RC-129i-FAST-SAFE-DATA-CABLE-BLACK,6.95485E+12,N/A,N/A,Remax,1,0,138.00 pcs,138.00 box/s,0,0,138.00 pcs,138.00 box/s,0.00x0.00x0.00,0,?0.00,?39.00,?59.00,?59.00,51.00%
+RC-129i FAST SAFE DATA CABLE,White,N/A,RC-129i-FAST-SAFE-DATA-CABLE-WHITE,6.95485E+12,N/A,N/A,Remax,1,0,173.00 pcs,173.00 box/s,0,0,173.00 pcs,173.00 box/s,0.00x0.00x0.00,0,?0.00,?39.00,?59.00,?59.00,51.00%
+RC-129i FAST SAFE DATA CABLE,Gray,N/A,RC-129i-FAST-SAFE-DATA-CABLE-GRAY,6.95485E+12,N/A,N/A,Remax,1,0,189.00 pcs,189.00 box/s,0,0,189.00 pcs,189.00 box/s,0.00x0.00x0.00,0,?0.00,?39.00,?59.00,?59.00,51.00%
+RC-135A CHAINING SERIES 5A-DATA CABLE,White,N/A,RC-135A-CHAINING-SERIES-DATA-CABLE-WHITE,6.95485E+12,N/A,N/A,Remax,1,0,47.00 pcs,47.00 box/s,0,0,47.00 pcs,47.00 box/s,0.00x0.00x0.00,0,?0.00,?75.00,?151.00,?140.00,101.00%
+REMAX RM-512 WIRED  EAR PHONE,Black,N/A,RM-512 WIRED-EAR-PHONE-BLACK,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,25.00 pcs,25.00 box/s,0,0,25.00 pcs,25.00 box/s,0.00x0.00x0.00,0,?0.00,?89.00,?149.00,?100.00,67.00%
+REMAX RM-512 WIRED  EAR PHONE,Red,N/A,RM-512 WIRED-EAR-PHONE-RED,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,29.00 pcs,29.00 box/s,0,0,29.00 pcs,29.00 box/s,0.00x0.00x0.00,0,?0.00,?89.00,?149.00,?100.00,67.00%
+REMAX RM-512 WIRED  EAR PHONE,Silver,N/A,RM-512 WIRED-EAR-PHONE-SILVER,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,25.00 pcs,25.00 box/s,0,0,25.00 pcs,25.00 box/s,0.00x0.00x0.00,0,?0.00,?89.00,?149.00,?100.00,67.00%
+REMAX RM-512 WIRED  EAR PHONE,Pink,N/A,RM-512 WIRED-EAR-PHONE-PINK,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,21.00 pcs,21.00 box/s,0,0,21.00 pcs,21.00 box/s,0.00x0.00x0.00,0,?0.00,?89.00,?149.00,?100.00,67.00%
+RM-711 WIRED EARPHONE,Black,N/A,RM-711 WIRED-EARPHONE-BLACK,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,25.00 pcs,25.00 box/s,0,0,25.00 pcs,25.00 box/s,0.00x0.00x0.00,0,?0.00,?81.00,?149.00,?140.00,84.00%
+RM-711 WIRED EARPHONE,Silver,N/A,RM-711 WIRED-EARPHONE-SILVER,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,83.00 pcs,83.00 box/s,0,0,83.00 pcs,83.00 box/s,0.00x0.00x0.00,0,?0.00,?81.00,?149.00,?140.00,84.00%
+RM-711 WIRED EARPHONE,Rose Gold,N/A,RM-711 WIRED-EARPHONE-ROSEGOLD,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,82.00 pcs,82.00 box/s,0,2,80.00 pcs,80.00 box/s,0.00x0.00x0.00,0,?0.00,?81.00,?149.00,?140.00,84.00%
+RM550 WIRED EARPHONE ,Black,N/A,RM-550-WIRED-EARPHONE-BLACK,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,72.00 pcs,72.00 box/s,0,0,72.00 pcs,72.00 box/s,0.00x0.00x0.00,0,?0.00,?73.00,?169.00,?160.00,132.00%
+RM550 WIRED EARPHONE ,White,N/A,RM-550-WIRED-EARPHONE-WHITE,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,218.00 pcs,218.00 box/s,0,0,218.00 pcs,218.00 box/s,0.00x0.00x0.00,0,?0.00,?73.00,?169.00,?160.00,132.00%
+RM-805 WIRED 4D HEADPHONE,Black,N/A,RM805-WIRED-4D-HEAD-PHONE,6.95485E+12,Audio,Headset,Remax,1,0,23.00 pcs,23.00 box/s,0,0,23.00 pcs,23.00 box/s,0.00x0.00x0.00,0,?0.00,?312.00,?499.00,?490.00,60.00%
+RPU43 WANFU 4 PORT USB ADAPTER,Black,N/A,RPU43-WANFU-4PORT-ADAPTER-BLACK,6.95485E+12,N/A,N/A,Remax,1,0,42.00 pcs,42.00 box/s,0,0,42.00 pcs,42.00 box/s,0.00x0.00x0.00,0,?0.00,?146.00,?649.00,?640.00,345.00%
+RPU43 WANFU 4 PORT USB ADAPTER,White,N/A,RPU43-WANFU-4PORT-ADAPTER-WHITE,6.95485E+12,N/A,N/A,Remax,1,0,105.00 pcs,105.00 box/s,0,0,105.00 pcs,105.00 box/s,0.00x0.00x0.00,0,?0.00,?146.00,?649.00,?640.00,345.00%
+RPU36 2PORT USB CHARGER,Black,N/A,RP-U36-2PORT-USB-CHARGER-BLACK,6.95485E+12,N/A,N/A,Remax,1,0,32.00 pcs,32.00 box/s,0,0,32.00 pcs,32.00 box/s,0.00x0.00x0.00,0,?0.00,?103.00,?169.00,?160.00,64.00%
+RPU36 2PORT USB CHARGER,White,N/A,RP-U36-2PORT-USB-CHARGER-WHITE,6.95485E+12,N/A,N/A,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?103.00,?169.00,?160.00,64.00%
+RP-U14 2.4A CHARGER & CABLE TYPE C,White,N/A,RP-U14-CHARGER&CABLE-TYPEC-WHITE,6.95485E+12,N/A,N/A,Remax,1,0,15.00 pcs,15.00 box/s,0,0,15.00 pcs,15.00 box/s,0.00x0.00x0.00,0,?0.00,?83.00,?189.00,?140.00,128.00%
+RCC220 2.4A CAR CHARGER RECHAN SERIES,Black,N/A,RCC220-CAR-CHARGER-BLACK,N/A,N/A,N/A,Remax,1,0,199.00 pcs,199.00 box/s,0,1,198.00 pcs,198.00 box/s,0.00x0.00x0.00,0,?0.00,?76.00,?159.00,?150.00,109.00%
+RCC220 2.4A CAR CHARGER RECHAN SERIES,Silver,N/A,RCC220-CAR-CHARGER-SILVER,6.95485E+12,N/A,N/A,Remax,1,0,225.00 pcs,225.00 box/s,0,0,225.00 pcs,225.00 box/s,0.00x0.00x0.00,0,?0.00,?76.00,?159.00,?150.00,109.00%
+RM-C38 WIRELESS CHARGER & CAR VENT,Black,N/A,RM-C38-WIRELESS-CHARGER-CARVENT-BLACK,6.95485E+12,Phone holder,Car,Remax,1,0,59.00 pcs,59.00 box/s,0,0,59.00 pcs,59.00 box/s,0.00x0.00x0.00,0,?0.00,?266.00,?499.00,?490.00,88.00%
+RP-U14 2.4A CHARGER & DATA CABLE MICRO USB,White,N/A,RP-U14-CHARGER-DATA-CABLE-ANDROID-WHITE,6.95485E+12,N/A,N/A,Remax,1,0,11.00 pcs,11.00 box/s,0,0,11.00 pcs,11.00 box/s,0.00x0.00x0.00,0,?0.00,?76.00,?180.00,?130.00,137.00%
+RP-U14 2.4A CHARGER & DATA CABLE IOS,White,N/A,RP-U14-CHARGER-DATA-CABLE-IOS,6.95485E+12,N/A,N/A,Remax,1,0,4.00 pcs,4.00 box/s,0,0,4.00 pcs,4.00 box/s,0.00x0.00x0.00,0,?0.00,?83.00,?185.00,?130.00,123.00%
+RM-502 CRAZY ROBOT EARPHONE,Black,N/A,RM-502-CRAZYROBOT-EARPHONE-BLK,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?93.00,?169.00,?160.00,82.00%
+RM-502 CRAZY ROBOT EARPHONE,White,N/A,RM-502-CRAZYROBOT-EARPHONE-WHITE,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?93.00,?169.00,?160.00,82.00%
+RM-502 CRAZY ROBOT EARPHONE,Red,N/A,RM-502-CRAZYROBOT-EARPHONE-RED,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?93.00,?169.00,?160.00,82.00%
+RM-502 CRAZY ROBOT EARPHONE,Blue,N/A,RM-502-CRAZYROBOT-EARPHONE-BLUE,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,8.00 pcs,8.00 box/s,0,0,8.00 pcs,8.00 box/s,0.00x0.00x0.00,0,?0.00,?93.00,?169.00,?160.00,82.00%
+RM-502 CRAZY ROBOT EARPHONE,Yellow,N/A,RM-502-CRAZYROBOT-EARPHONE-YLLW,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?93.00,?169.00,?160.00,82.00%
+RM-502 CRAZY ROBOT EARPHONE,Pink,N/A,RM-502-CRAZYROBOT-EARPHONE-PINK,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,5.00 pcs,5.00 box/s,0,0,5.00 pcs,5.00 box/s,0.00x0.00x0.00,0,?0.00,?93.00,?169.00,?160.00,82.00%
+RM-610D EARPHONE,Red,N/A,RM-610D-EARPHONE-RED,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?208.00,?349.00,?340.00,68.00%
+RM-610D EARPHONE,Gray,N/A,RM-610D-EARPHONE-GRAY,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?208.00,?349.00,?340.00,68.00%
+RM-610D EARPHONE,Silver,N/A,RM-610D-EARPHONE-SILVER,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?208.00,?349.00,?340.00,68.00%
+RM-610D EARPHONE,Gold,N/A,RM-610D-EARPHONE-GOLD,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,4.00 pcs,4.00 box/s,0,0,4.00 pcs,4.00 box/s,0.00x0.00x0.00,0,?0.00,?208.00,?349.00,?340.00,68.00%
+REMAX RC-134A FAST CHARGING DATA CABLE TYPE-C,Black,N/A,RC-134A-DATA-CABLE-TYPE-C-BLACK,6.95485E+12,N/A,N/A,Remax,1,0,298.00 pcs,298.00 box/s,0,0,298.00 pcs,298.00 box/s,0.00x0.00x0.00,0,?0.00,?27.00,?80.00,?50.00,196.00%
+REMAX RC-134A FAST CHARGING DATA CABLE TYPE-C,White,N/A,RC-134A-DATA-CABLE-TYPE-C-WHITE,6.95485E+12,N/A,N/A,Remax,1,0,257.00 pcs,257.00 box/s,0,0,257.00 pcs,257.00 box/s,0.00x0.00x0.00,0,?0.00,?27.00,?80.00,?50.00,196.00%
+RC-131TH GITION SERIES 3in1 DATA CABLE,Black,N/A,RC-131TH-GITION-DATA-CABLE-BLACK,6.95485E+12,N/A,N/A,Remax,1,0,22.00 pcs,22.00 box/s,0,0,22.00 pcs,22.00 box/s,0.00x0.00x0.00,0,?0.00,?68.00,?149.00,?140.00,119.00%
+RC-131TH GITION SERIES 3in1 DATA CABLE,Blue,N/A,RC-131TH-GITION-DATA-CABLE-BLUE,6.95485E+12,N/A,N/A,Remax,1,0,41.00 pcs,41.00 box/s,0,0,41.00 pcs,41.00 box/s,0.00x0.00x0.00,0,?0.00,?68.00,?149.00,?140.00,119.00%
+RC-129M FAST SAFE DATA CABLE ANDROID,Black,N/A,RC-129M-FAST-SAFE-DATA-CABLE-ANDROID-BLACK,6.95485E+12,None,N/A,Remax,1,0,242.00 pcs,242.00 box/s,0,0,242.00 pcs,242.00 box/s,0.00x0.00x0.00,0,?0.00,?30.00,?119.00,?110.00,297.00%
+RC-129M FAST SAFE DATA CABLE ANDROID,White,N/A,RC-129M-FAST-SAFE-DATA-CABLE-ANDROID-WHITE,6.95485E+12,None,N/A,Remax,1,0,229.00 pcs,229.00 box/s,0,0,229.00 pcs,229.00 box/s,0.00x0.00x0.00,0,?0.00,?30.00,?119.00,?110.00,297.00%
+RC-129M FAST SAFE DATA CABLE ANDROID,Gray,N/A,RC-129M-FAST-SAFE-DATA-CABLE-ANDROID-GRAY,6.95485E+12,None,N/A,Remax,1,0,211.00 pcs,211.00 box/s,0,0,211.00 pcs,211.00 box/s,0.00x0.00x0.00,0,?0.00,?30.00,?119.00,?110.00,297.00%
+RC-061i DATA CABLE IOS,Black,N/A,6.95485E+12,N/A,None,N/A,Remax,1,0,52.00 pcs,52.00 box/s,0,0,52.00 pcs,52.00 box/s,0.00x0.00x0.00,0,?0.00,?93.00,?179.00,?170.00,92.00%
+REMAX RC-001i 2M QUICK CHARGE DATA CABLE IOS,Black,N/A,RC-001i-QUICK-CHARGE-DATA-CABLE-IOS-BLACK,6.95485E+12,N/A,N/A,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?73.00,?0.00,?0.00,-100.00%
+REMAX RC-001i 2M QUICK CHARGE DATA CABLE IOS,White,N/A,RC-001i-QUICK-CHARGE-DATA-CABLE-IOS-WHITE,6.95485E+12,N/A,N/A,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?73.00,?0.00,?0.00,-100.00%
+REMAX RC-001i 2M QUICK CHARGE DATA CABLE IOS,Red,N/A,RC-001i-QUICK-CHARGE-DATA-CABLE-IOS-RED,6.95485E+12,N/A,N/A,Remax,1,0,13.00 pcs,13.00 box/s,0,0,13.00 pcs,13.00 box/s,0.00x0.00x0.00,0,?0.00,?73.00,?0.00,?0.00,-100.00%
+REMAX RC-001i 2M QUICK CHARGE DATA CABLE IOS,Yellow,N/A,RC-001i-QUICK-CHARGE-DATA-CABLE-IOS-YELLOW,6.95485E+12,N/A,N/A,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?73.00,?0.00,?0.00,-100.00%
+REMAX RC-156i CIGAN SERIES DATA CABLE,Black,N/A,RC-156i-CIGAN-DATA-CABLE-BLACK,6.95485E+12,N/A,N/A,Remax,1,0,163.00 pcs,163.00 box/s,0,0,163.00 pcs,163.00 box/s,0.00x0.00x0.00,0,?0.00,?124.00,?199.00,?190.00,60.00%
+REMAX RC-156M CIGAN SERIES DATA CABLE,Black,N/A,RC-156M-CIGAN-DATA-CABLE-BLACK,6.95485E+12,N/A,N/A,Remax,1,0,122.00 pcs,122.00 box/s,0,0,122.00 pcs,122.00 box/s,0.00x0.00x0.00,0,?0.00,?110.00,?199.00,?190.00,81.00%
+REMAX RC-134i FAST CHARGING DATA CABLE,Black,N/A,RC-134i-FAST-CHARGE-DATA-CABLE-BLACK,6.95485E+12,N/A,N/A,Remax,1,0,320.00 pcs,320.00 box/s,0,0,320.00 pcs,320.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?80.00,?50.00,176.00%
+REMAX RC-134i FAST CHARGING DATA CABLE,White,N/A,RC-134i-FAST-CHARGE-DATA-CABLE-WHITE,6.95485E+12,N/A,N/A,Remax,1,0,259.00 pcs,259.00 box/s,0,0,259.00 pcs,259.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?80.00,?50.00,176.00%
+RM-510 EARPHONE,Black,N/A,RM-510-EARPHONE-BLACK,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?108.00,?199.00,?190.00,84.00%
+RM-510 EARPHONE,White,N/A,RM-510-EARPHONE-WHITE,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?108.00,?199.00,?190.00,84.00%
+RM-510 EARPHONE,Red,N/A,RM-510-EARPHONE-RED,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?108.00,?199.00,?190.00,84.00%
+RM-510 EARPHONE,Blue,N/A,RM-510-EARPHONE-BLUE,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?108.00,?199.00,?190.00,84.00%
+RM-510 EARPHONE,Gray,N/A,RM-510-EARPHONE-GRAY,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,4.00 pcs,4.00 box/s,0,0,4.00 pcs,4.00 box/s,0.00x0.00x0.00,0,?0.00,?108.00,?199.00,?190.00,84.00%
+RM-510 EARPHONE,Pink,N/A,RM-510-EARPHONE-PINK,6.95485E+12,Audio,In-Ear Earphones,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?108.00,?199.00,?190.00,84.00%
+RM-303 EARPHONE,Black,N/A,RM-303-EARPHONE-BLACK,6.95485E+12,Audio,Headset,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?168.00,?299.00,?290.00,78.00%
+RM-303 EARPHONE,White,N/A,RM-303-EARPHONE-WHITE,6.95485E+12,Audio,Headset,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?168.00,?299.00,?290.00,78.00%
+RB-T1 WIRELESS HEAD SET,Black,N/A,RB-T1-WIRLESS-HEADSET-BLACK,6.95485E+12,Audio,Headset,Remax,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?162.00,?299.00,?290.00,85.00%
+RB-T1 WIRELESS HEAD SET,White,N/A,RB-T1-WIRLESS-HEADSET-WHITE,6.95485E+12,Audio,Headset,Remax,1,0,4.00 pcs,4.00 box/s,0,0,4.00 pcs,4.00 box/s,0.00x0.00x0.00,0,?0.00,?162.00,?299.00,?290.00,85.00%
+RC-C304 REMAX ALIEN 3 USB CAR CHARGER,Black,N/A,RC-C304-ALIEN-3USB-CAR-CHARGER-BLACK,N/A,N/A,N/A,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?94.00,?169.00,?160.00,80.00%
+Mijobs NFC Strap 16mm,Black,N/A,NFC-STRAP-MB3/4-16MM-BLACK,NB16,Wearables,Watch,Mijobs,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?157.00,?379.00,?350.00,141.00%
+Mijobs NFC Strap 16mm,Blue,N/A,NFC-STRAP-MB3/4-16MM-BLUE,zelon,Wearables,Watch,Mijobs,1,0,5.00 pcs,5.00 box/s,0,0,5.00 pcs,5.00 box/s,0.00x0.00x0.00,0,?0.00,?186.00,?379.00,?350.00,104.00%
+Mijobs NFC Strap 16mm,Purple,N/A,NFC-STRAP-MB3/4-16MM-PURPLE,N/A,Wearables,Watch,Mijobs,1,0,17.00 pcs,17.00 box/s,0,0,17.00 pcs,17.00 box/s,0.00x0.00x0.00,0,?0.00,?186.00,?379.00,?350.00,104.00%
+Mijobs NFC Strap 16mm,Silver,N/A,NFC-STRAP-MB3/4-16MM-SILVER,NS16,Wearables,Watch,Mijobs,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?135.00,?379.00,?350.00,181.00%
+Mijobs NFC Strap 16mm,Gold,N/A,NFC-STRAP-MB3/4-16MM-GOLD,NG16,Wearables,Watch,Mijobs,1,0,8.00 pcs,8.00 box/s,0,0,8.00 pcs,8.00 box/s,0.00x0.00x0.00,0,?0.00,?171.00,?379.00,?350.00,122.00%
+Mijobs NFC Strap 16mm,Rose Gold,N/A,NFC-STRAP-MB3/4-16MM-R.GOLD,NR16,Wearables,Watch,Mijobs,1,0,8.00 pcs,8.00 box/s,0,0,8.00 pcs,8.00 box/s,0.00x0.00x0.00,0,?0.00,?171.00,?379.00,?350.00,122.00%
+DM9,Silver,N/A,DM9-SILVER,N/A,Audio,In-Ear Earphones,Qkz,1,0,30.00 pcs,30.00 box/s,0,0,30.00 pcs,30.00 box/s,0.00x0.00x0.00,0,?0.00,?164.00,?269.00,?260.00,64.00%
+DM7,Gun Metal,N/A,DM7-GUNMETAL,N/A,Audio,In-Ear Earphones,Qkz,1,0,19.00 pcs,19.00 box/s,0,0,19.00 pcs,19.00 box/s,0.00x0.00x0.00,0,?0.00,?164.00,?265.00,?260.00,62.00%
+MB4 Charging Clip,Black,N/A,MB4-CHARGING-CLIP,MBC,Wearables,Smart Watch,Xiaomi,1,0,9.00 pcs,9.00 box/s,0,0,9.00 pcs,9.00 box/s,0.00x0.00x0.00,0,?0.00,?18.00,?99.00,?85.00,450.00%
+MB4 Charging Cable,Black,N/A,MB4-CHARGING-CABLE,MBC1,Wearables,Smart Watch,Xiaomi,1,0,16.00 pcs,16.00 box/s,0,0,16.00 pcs,16.00 box/s,0.00x0.00x0.00,0,?0.00,?23.00,?99.00,?85.00,330.00%
+X12 Ultra Marble Series,Dream Stone,N/A,X12-Ultra-Marble-Series-DreamStone,N/A,Audio,Airbuds,Sabbat,1,0,389.00 pcs,389.00 box/s,0,0,389.00 pcs,389.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,487.00","?2,790.00","?2,000.00",88.00%
+X12 Ultra Marble Series,Star Cloud,N/A,X12-Ultra-Marble-Series-StarCloud,N/A,Audio,Airbuds,Sabbat,1,0,73.00 pcs,73.00 box/s,0,0,73.00 pcs,73.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,487.00","?2,790.00","?2,000.00",88.00%
+X12 Ultra Marble Series,Yan Yanshi,N/A,X12-Ultra-Marble-Series-YanYanshi,N/A,Audio,Airbuds,Sabbat,1,0,154.00 pcs,154.00 box/s,0,0,154.00 pcs,154.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,487.00","?2,790.00","?2,000.00",88.00%
+X12 Ultra Marble Series,Advanced Stone,N/A,X12-Ultra-Marble-Series-AdvancedStone,N/A,Audio,Airbuds,Sabbat,1,0,300.00 pcs,300.00 box/s,0,0,300.00 pcs,300.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,487.00","?2,790.00","?2,000.00",88.00%
+X12 Ultra Marble Series,Galaline Stone,N/A,X12-Ultra-Marble-Series-GalalineStone,N/A,Audio,Airbuds,Sabbat,1,0,164.00 pcs,164.00 box/s,0,0,164.00 pcs,164.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,487.00","?2,790.00","?2,000.00",88.00%
+Plextone Pouch (OVAL),Black,N/A,Plextone-Pouch-Black,PP,None,N/A,Plextone,1,0,363.00 pcs,363.00 box/s,0,0,363.00 pcs,363.00 box/s,0.00x0.00x0.00,0,?0.00,?23.00,?25.00,?20.00,9.00%
+RPP-139 10K POWERBANK,Black,N/A,RPP-139-10K-POWERBANK-BLACK,6.95485E+12,Electronic Device,Power Bank,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?217.00,?349.00,?340.00,61.00%
+RPP-139 10K POWERBANK,White,N/A,RPP-139-10K-POWERBANK-WHITE,6.95485E+12,Electronic Device,Power Bank,Remax,1,0,6.00 pcs,6.00 box/s,0,0,6.00 pcs,6.00 box/s,0.00x0.00x0.00,0,?0.00,?217.00,?349.00,?340.00,61.00%
+RPP-141 30K POWERBANK,Black,N/A,RPP-141-30K-PB-BLACK,6.95485E+12,Electronic Device,Power Bank,Remax,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?502.00,?699.00,?690.00,39.00%
+RPP-141 30K POWERBANK,White,N/A,RPP-141-30K-PB-WHITE,6.95485E+12,Electronic Device,Power Bank,Remax,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?502.00,?699.00,?690.00,39.00%
+RPP-106 20K POWERBANK,Black,N/A,RPP-106-20K-PB-BLACK,N/A,Electronic Device,Power Bank,Remax,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?365.00,?499.00,?420.00,37.00%
+RPP-106 20K POWERBANK,White,N/A,RPP-106-20K-PB-WHITE,6.95485E+12,Electronic Device,Power Bank,Remax,1,0,4.00 pcs,4.00 box/s,0,0,4.00 pcs,4.00 box/s,0.00x0.00x0.00,0,?0.00,?365.00,?499.00,?420.00,37.00%
+RPP-153 10K POWERBANK,Black,N/A,RPP-153-10K-PB-BLACK,6.95485E+12,Electronic Device,Power Bank,Remax,1,0,7.00 pcs,7.00 box/s,0,0,7.00 pcs,7.00 box/s,0.00x0.00x0.00,0,?0.00,?210.00,?299.00,?290.00,42.00%
+RPP-153 10K POWERBANK,White,N/A,RPP-153-10K-PB-WHITE,6.95485E+12,Electronic Device,Power Bank,Remax,1,0,32.00 pcs,32.00 box/s,0,0,32.00 pcs,32.00 box/s,0.00x0.00x0.00,0,?0.00,?210.00,?299.00,?290.00,42.00%
+RPP-140 20K POWERBANK,Black,N/A,RPP-140-20K-PB-BLACK,6.95485E+12,Electronic Device,Power Bank,Remax,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?359.00,?449.00,?440.00,25.00%
+RPP-140 20K POWERBANK,White,N/A,RPP-140-20K-PB-WHITE,6.95485E+12,Electronic Device,Power Bank,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?359.00,?449.00,?440.00,25.00%
+RPP-119 10K POWERBANK,Black,N/A,RPP-119-10K-PB-BLACK,6.95485E+12,Electronic Device,Power Bank,Remax,1,0,34.00 pcs,34.00 box/s,0,0,34.00 pcs,34.00 box/s,0.00x0.00x0.00,0,?0.00,?218.00,?335.00,?325.00,54.00%
+RPP-119 10K POWERBANK,White,N/A,RPP-119-10K-PB-WHITE,6.95485E+12,Electronic Device,Power Bank,Remax,1,0,26.00 pcs,26.00 box/s,0,0,26.00 pcs,26.00 box/s,0.00x0.00x0.00,0,?0.00,?218.00,?335.00,?325.00,54.00%
+ZHIBAI HAIR DRYER V2,White,N/A,ZHIBAI-HAIRDRYER-V2-WHITE,N/A,Appliances,Small Appliances,Xiaomi,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,069.00","?1,449.00","?1,440.00",36.00%
+ZHIBAI HAIR DRYER V2,Pink,N/A,ZHIBAI-HAIRDRYER-V2-PINK,N/A,Appliances,Small Appliances,Xiaomi,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,069.00","?1,449.00","?1,440.00",36.00%
+SABBAT SILICONE CASE W/ HOOK,Black,N/A,SABBAT-SILICONE-CASE-HOOK-BLACK,N/A,None,N/A,N/A,1,0,"5,625.00 pcs","5,625.00 box/s","10,000.00",0,"15,625.00 pcs","15,625.00 box/s",0.00x0.00x0.00,0,?0.00,?29.00,?199.00,?190.00,586.00%
+SABBAT SILICONE CASE W/ HOOK,White,N/A,SABBAT-SILICONE-CASE-HOOK-WHITE,N/A,None,N/A,N/A,1,0,325.00 pcs,325.00 box/s,200,0,525.00 pcs,525.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?199.00,?190.00,586.00%
+SABBAT SILICONE CASE W/ HOOK,Red,N/A,SABBAT-SILICONE-CASE-HOOK-RED,N/A,None,N/A,N/A,1,0,363.00 pcs,363.00 box/s,0,0,363.00 pcs,363.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?199.00,?190.00,586.00%
+SABBAT SILICONE CASE W/ HOOK,Green,N/A,SABBAT-SILICONE-CASE-HOOK-GREEN,N/A,None,N/A,N/A,1,0,268.00 pcs,268.00 box/s,200,0,468.00 pcs,468.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?199.00,?190.00,586.00%
+SABBAT SILICONE CASE W/ HOOK,Pink,N/A,SABBAT-SILICONE-CASE-HOOK-PINK,N/A,None,N/A,N/A,1,0,108.00 pcs,108.00 box/s,400,0,508.00 pcs,508.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?199.00,?190.00,586.00%
+SABBAT SILICONE CASE W/ HOOK,Transparent,N/A,SABBAT-SILICONE-CASE-HOOK-TRANSPARENT,N/A,None,N/A,N/A,1,0,182.00 pcs,182.00 box/s,200,0,382.00 pcs,382.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?199.00,?190.00,586.00%
+RC-102M ZIGIE SERIES MAGNET CONNECTION MICRO USB,Black,N/A,RC-102M-ZIGIE-MAGNET-DATACABLE-MICRO-BLACK,N/A,None,N/A,Remax,1,0,156.00 pcs,156.00 box/s,0,0,156.00 pcs,156.00 box/s,0.00x0.00x0.00,0,?0.00,?96.00,?180.00,?160.00,88.00%
+RC-102I ZIGIE SERIES MAGNETIC CONNECTION DATA CABLE,Black,N/A,RC-102I-ZIGIE-MAGNET-DATACABLE-LIGHTNING,N/A,None,N/A,Remax,1,0,161.00 pcs,161.00 box/s,0,0,161.00 pcs,161.00 box/s,0.00x0.00x0.00,0,?0.00,?110.00,?213.00,?200.00,94.00%
+RC-102A ZIGIE SERIES MAGNET CONNECTION DATA CABLE TYPE C,Black,N/A,RC-102A-ZIGIE-MAGNET-DATACABLE-TYPE-C,N/A,None,N/A,Remax,1,1,171.00 pcs,171.00 box/s,0,0,171.00 pcs,171.00 box/s,0.00x0.00x0.00,0,?0.00,?103.00,?204.00,?200.00,98.00%
+E12 Ultra Marble Series,Dream Stone,N/A,E12-Ultra-Marble-DreamStone,N/A,Audio,Airbuds,Sabbat,1,0,247.00 pcs,247.00 box/s,0,0,247.00 pcs,247.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,916.00","?3,590.00","?3,500.00",87.00%
+E12 Ultra Marble Series,Star Cloud,N/A,E12-Ultra-Marble-StarCloud,N/A,Audio,Airbuds,Sabbat,1,0,144.00 pcs,144.00 box/s,0,0,144.00 pcs,144.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,916.00","?3,590.00","?3,500.00",87.00%
+E12 Ultra Marble Series,Yan Yanshi,N/A,E12-Ultra-Marble-YanYanshi,N/A,Audio,Airbuds,Sabbat,1,0,126.00 pcs,126.00 box/s,0,0,126.00 pcs,126.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,916.00","?3,590.00","?3,500.00",87.00%
+E12 Ultra Marble Series,Advanced Stone,N/A,E12-Ultra-Marble-AdvancedStone,N/A,Audio,Airbuds,Sabbat,1,0,354.00 pcs,354.00 box/s,0,0,354.00 pcs,354.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,916.00","?3,590.00","?3,500.00",87.00%
+E12 Ultra Marble Series,Galaline Stone,N/A,E12-Ultra-Marble-GalalineStone,N/A,Audio,Airbuds,Sabbat,1,0,127.00 pcs,127.00 box/s,0,0,127.00 pcs,127.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,916.00","?3,590.00","?3,500.00",87.00%
+Airpods Case Non Grey  Silicone Cover,Black,N/A,AIRPODS-SILICONE-COVER-BLACK,N/A,None,N/A,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?1.00,?149.00,?99.00,"14,800.00%"
+Airpods Case Non Grey  Silicone Cover,Dark Blue,N/A,AIRPODS-SILICONE-COVER-DARKBLUE,N/A,None,N/A,None,1,0,8.00 pcs,8.00 box/s,0,0,8.00 pcs,8.00 box/s,0.00x0.00x0.00,0,?0.00,?1.00,?149.00,?99.00,"14,800.00%"
+Airpods Case Non Grey  Silicone Cover,Pink,N/A,AIRPODS-SILICONE-COVER-PINK,N/A,None,N/A,None,1,0,15.00 pcs,15.00 box/s,0,0,15.00 pcs,15.00 box/s,0.00x0.00x0.00,0,?0.00,?1.00,?149.00,?99.00,"14,800.00%"
+Airpods Case Non Grey  Silicone Cover,MInt Green,N/A,AIRPODS-SILICONE-COVER-MINTGREEN,N/A,None,N/A,None,1,0,19.00 pcs,19.00 box/s,0,0,19.00 pcs,19.00 box/s,0.00x0.00x0.00,0,?0.00,?1.00,?149.00,?99.00,"14,800.00%"
+Honor Band 5,Black,N/A,HONOR-BAND-5-BLACK,N/A,Wearables,Smart Watch,Honor,1,0,10.00 pcs,10.00 box/s,0,0,10.00 pcs,10.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,075.00","?1,799.00","?1,700.00",67.00%
+Honor Band 5,Pink,N/A,HONOR-BAND-5-PINK,N/A,Wearables,Smart Watch,Honor,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,075.00","?1,799.00","?1,700.00",67.00%
+Honor Band 5,Midnight Blue,N/A,HONOR-BAND-5-MIDNIGHT-NAVY,N/A,Wearables,Smart Watch,Honor,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,075.00","?1,799.00","?1,700.00",67.00%
+Honor Watch Magic,Black,N/A,HONOR-WATCH-MAGIC-BLACK,N/A,Wearables,Smart Watch,Honor,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,"?3,590.00","?4,999.00","?4,900.00",39.00%
+Honor Band 5 Sport,Gray,N/A,HONOR-BAND-5-SPORT-GRAY,N/A,Wearables,Smart Watch,Honor,1,0,141.00 pcs,141.00 box/s,0,0,141.00 pcs,141.00 box/s,0.00x0.00x0.00,0,?0.00,?0.00,"?1,299.00","?1,200.00",0.00%
+Honor Band 5 Sport,Pink,N/A,HONOR-BAND-5-SPORT-PINK,N/A,Wearables,Smart Watch,Honor,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?810.00,"?1,299.00","?1,200.00",60.00%
+Honor Band 5 SP,N/A,N/A,HONOR-BAND-5-SP,SP5,None,N/A,N/A,1,0,"2,004.00 pcs","2,004.00 box/s",0,0,"2,004.00 pcs","2,004.00 box/s",0.00x0.00x0.00,0,?0.00,?4.00,?15.00,?10.00,275.00%
+RW-105 REMAX WIRED EARPHONE,Black,N/A,RW-105-BLACK,N/A,Audio,In-Ear Earphones,Remax,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?36.00,?70.00,?50.00,94.00%
+RW-105 REMAX WIRED EARPHONE,White,N/A,RW-105-WHITE,N/A,Audio,In-Ear Earphones,Remax,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?36.00,?70.00,?50.00,94.00%
+RW-106 REMAX WIRED EARPHONE,Black,N/A,RW-106-WIRED-EARPHONE-BLACK,N/A,Audio,In-Ear Earphones,Remax,1,0,173.00 pcs,173.00 box/s,0,0,173.00 pcs,173.00 box/s,0.00x0.00x0.00,0,?0.00,?36.00,?70.00,?50.00,94.00%
+RW-106 REMAX WIRED EARPHONE,White,N/A,RW-106-WIRED-EARPHONE-WHITE,N/A,Audio,In-Ear Earphones,Remax,1,0,73.00 pcs,73.00 box/s,0,0,73.00 pcs,73.00 box/s,0.00x0.00x0.00,0,?0.00,?36.00,?70.00,?50.00,94.00%
+RING LIGHT,Black,N/A,GH-RING-LIGHT,N/A,None,N/A,None,1,0,287.00 pcs,287.00 box/s,0,0,287.00 pcs,287.00 box/s,0.00x0.00x0.00,0,?0.00,?712.00,?999.00,?990.00,40.00%
+STUDIO SET,Black,N/A,GH-STUDIO-SET,N/A,N/A,N/A,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,"?4,595.00","?5,999.00","?5,990.00",31.00%
+Airpods Pro Silicone Case w/clip,Black,N/A,AIRPODS-PRO-SILICONE-CLIP-BLK,N/A,None,N/A,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?135.00,?100.00,366.00%
+Airpods Pro Silicone Case w/clip,White,N/A,AIRPODS-PRO-SILICONE-CLIP-WHITE,N/A,None,N/A,None,1,0,41.00 pcs,41.00 box/s,0,0,41.00 pcs,41.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?135.00,?100.00,366.00%
+Airpods Pro Silicone Case w/clip,Red,N/A,AIRPODS-PRO-SILICONE-CLIP-RED,N/A,None,N/A,None,1,0,39.00 pcs,39.00 box/s,0,0,39.00 pcs,39.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?135.00,?100.00,366.00%
+Airpods Pro Silicone Case w/clip,Dark Blue,N/A,AIRPODS-PRO-SILICONE-CLIP-D.BLUE,N/A,None,N/A,None,1,0,25.00 pcs,25.00 box/s,0,0,25.00 pcs,25.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?135.00,?100.00,366.00%
+Airpods Pro Silicone Case w/clip,Blue,N/A,AIRPODS-PRO-SILICONE-CLIP-BLUE,N/A,None,N/A,None,1,0,49.00 pcs,49.00 box/s,0,0,49.00 pcs,49.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?135.00,?100.00,366.00%
+Airpods Pro Silicone Case w/clip,Gray,N/A,AIRPODS-PRO-SILICONE-CLIP-GRAY,N/A,None,N/A,None,1,0,98.00 pcs,98.00 box/s,0,0,98.00 pcs,98.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?135.00,?100.00,366.00%
+Airpods Pro Silicone Case w/clip,Pink,N/A,AIRPODS-PRO-SILICONE-CLIP-PINK,N/A,None,N/A,None,1,0,30.00 pcs,30.00 box/s,0,0,30.00 pcs,30.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?135.00,?100.00,366.00%
+Airpods Pro Silicone Case w/clip,Orange,N/A,AIRPODS-PRO-SILICONE-CLIP-ORANGE,N/A,None,N/A,None,1,0,65.00 pcs,65.00 box/s,0,0,65.00 pcs,65.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?135.00,?100.00,366.00%
+Airpods Pro Silicone Case w/clip,MInt Green,N/A,AIRPODS-PRO-SILICONE-CLIP-M.GREEN,N/A,None,N/A,None,1,0,52.00 pcs,52.00 box/s,0,0,52.00 pcs,52.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?135.00,?100.00,366.00%
+Airpods Pro Silicone Case w/clip,Lavender,N/A,AIRPODS-PRO-SILICONE-CLIP-LAVENDER,N/A,None,N/A,None,1,0,60.00 pcs,60.00 box/s,0,0,60.00 pcs,60.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?135.00,?100.00,366.00%
+Airpods Pro Silicone Case w/clip,Avocado Green,N/A,AIRPODS-PRO-SILICONE-CLIP-AVOCADO,N/A,None,N/A,None,1,0,9.00 pcs,9.00 box/s,0,0,9.00 pcs,9.00 box/s,0.00x0.00x0.00,0,?0.00,?29.00,?135.00,?100.00,366.00%
+Viomi  Electric Kettle and Thermos for Travel YM K0401,Black,N/A,GH-VIOMI-ELECTRICCUP,N/A,Appliances,Mini Appliances,Xiaomi,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?836.00,"?1,500.00","?1,200.00",79.00%
+Honor Band 5 Silicone Strap,Black,N/A,HB5-SILICONE-STRAP-BLACK,N/A,Wearables,Smart Watch,None,1,0,418.00 pcs,418.00 box/s,0,0,418.00 pcs,418.00 box/s,0.00x0.00x0.00,0,?0.00,?24.00,?60.00,?40.00,150.00%
+Honor Band 5 Silicone Strap,White,N/A,HB5-SILICONE-STRAP-WHITE,N/A,Wearables,Smart Watch,None,1,0,"2,593.00 pcs","2,593.00 box/s",0,0,"2,593.00 pcs","2,593.00 box/s",0.00x0.00x0.00,0,?0.00,?24.00,?60.00,?40.00,150.00%
+Honor Band 5 Silicone Strap,Sky Blue,N/A,HB5-SILICONE-STRAP-SKYBLUE,N/A,Wearables,Smart Watch,None,1,0,"2,662.00 pcs","2,662.00 box/s",0,0,"2,662.00 pcs","2,662.00 box/s",0.00x0.00x0.00,0,?0.00,?24.00,?60.00,?40.00,150.00%
+Honor Band 5 Silicone Strap,Dark Blue,N/A,HB5-SILICONE-STRAP-DARKBLUE,N/A,Wearables,Smart Watch,None,1,0,121.00 pcs,121.00 box/s,0,0,121.00 pcs,121.00 box/s,0.00x0.00x0.00,0,?0.00,?24.00,?60.00,?40.00,150.00%
+Honor Band 5 Silicone Strap,Gray,N/A,HB5-SILICONE-STRAP-GRAY,N/A,Wearables,Smart Watch,None,1,0,254.00 pcs,254.00 box/s,0,0,254.00 pcs,254.00 box/s,0.00x0.00x0.00,0,?0.00,?24.00,?60.00,?40.00,150.00%
+Honor Band 5 Silicone Strap,Pink,N/A,HB5-SILICONE-STRAP-PINK,N/A,Wearables,Smart Watch,None,1,0,227.00 pcs,227.00 box/s,0,0,227.00 pcs,227.00 box/s,0.00x0.00x0.00,0,?0.00,?24.00,?60.00,?40.00,150.00%
+Honor Band 5 Silicone Strap,MInt Green,N/A,HB5-SILICONE-STRAP-MINTGREEN,N/A,Wearables,Smart Watch,None,1,0,280.00 pcs,280.00 box/s,0,0,280.00 pcs,280.00 box/s,0.00x0.00x0.00,0,?0.00,?24.00,?60.00,?40.00,150.00%
+Honor Band 5 Silicone Strap,Lavender,N/A,HB5-SILICONE-STRAP-LAVENDER,N/A,Wearables,Smart Watch,None,1,0,263.00 pcs,263.00 box/s,0,0,263.00 pcs,263.00 box/s,0.00x0.00x0.00,0,?0.00,?24.00,?60.00,?40.00,150.00%
+Honor Band 5 Silicone Strap,Midnight Blue,N/A,HB5-SILICONE-STRAP-MIDNIGHTNAVY,N/A,Wearables,Smart Watch,None,1,0,336.00 pcs,336.00 box/s,0,0,336.00 pcs,336.00 box/s,0.00x0.00x0.00,0,?0.00,?24.00,?60.00,?40.00,150.00%
+Honor Band 5 Silicone Strap,Emerald Green,N/A,HB5-SILICONE-STRAP-EMERALDGREEN,N/A,Wearables,Smart Watch,None,1,0,236.00 pcs,236.00 box/s,0,0,236.00 pcs,236.00 box/s,0.00x0.00x0.00,0,?0.00,?24.00,?60.00,?40.00,150.00%
+Honor Band 5 Silicone Strap,Peach Pink,N/A,HB5-SILICONE-STRAP-PEACHPINK,N/A,Wearables,Smart Watch,None,1,0,365.00 pcs,365.00 box/s,0,0,365.00 pcs,365.00 box/s,0.00x0.00x0.00,0,?0.00,?24.00,?60.00,?40.00,150.00%
+XIAOMI 10K POWERBANK V3,Black,N/A,XIAOMI-10K-PB-V3,N/A,Electronic Device,Power Bank,Xiaomi,1,0,103.00 pcs,103.00 box/s,0,0,103.00 pcs,103.00 box/s,0.00x0.00x0.00,0,?0.00,?510.00,?700.00,?650.00,37.00%
+XIAOMI SCALE V2,White,N/A,XIAOMI-SCALE-V2,N/A,Electronic Device,N/A,Xiaomi,1,0,0.00 pcs,0.00 box/s,200,0,200.00 pcs,200.00 box/s,0.00x0.00x0.00,0,?0.00,?934.00,"?1,500.00","?1,200.00",61.00%
+KZ S1D,Black,N/A,KZ-S1D-BLACK,N/A,Audio,In-Ear Earphones,KZ,1,0,119.00 pcs,119.00 box/s,0,0,119.00 pcs,119.00 box/s,0.00x0.00x0.00,0,?0.00,?714.00,"?1,250.00",?950.00,75.00%
+KZ S1D,White,N/A,KZ-S1D-WHITE,N/A,Audio,In-Ear Earphones,KZ,1,0,93.00 pcs,93.00 box/s,0,0,93.00 pcs,93.00 box/s,0.00x0.00x0.00,0,?0.00,?714.00,"?1,250.00",?950.00,75.00%
+KZ S1,Green,N/A,KZ-S1-GREEN,N/A,Audio,In-Ear Earphones,KZ,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?851.00,"?1,500.00","?1,250.00",76.00%
+KZ S1,Gray,N/A,KZ-S1-GRAY,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?851.00,"?1,500.00","?1,250.00",76.00%
+E12 Ultra Cosmos,Aurora Green,N/A,E12-ULTRA-COSMOS-AURORA,N/A,Audio,Airbuds,Sabbat,1,0,39.00 pcs,39.00 box/s,0,0,39.00 pcs,39.00 box/s,0.00x0.00x0.00,0,?0.00,"?2,052.00","?2,550.00","?2,250.00",24.00%
+E12 Ultra Cosmos,Galaxy Blue,N/A,E12-ULTRA-COSMOS-GALAXY,N/A,Audio,Airbuds,Sabbat,1,0,60.00 pcs,60.00 box/s,0,0,60.00 pcs,60.00 box/s,0.00x0.00x0.00,0,?0.00,"?2,052.00","?2,550.00","?2,250.00",24.00%
+E12 Ultra Cosmos,Glitter Dark,N/A,E12-ULTRA-COSMOS-GLITTER,N/A,Audio,Airbuds,Sabbat,1,0,84.00 pcs,84.00 box/s,0,0,84.00 pcs,84.00 box/s,0.00x0.00x0.00,0,?0.00,"?2,052.00","?2,550.00","?2,250.00",24.00%
+E12 Ultra Cosmos,Neon Red,N/A,E12-ULTRA-COSMOS-NEON-RED,N/A,Audio,Airbuds,Sabbat,1,0,74.00 pcs,74.00 box/s,0,0,74.00 pcs,74.00 box/s,0.00x0.00x0.00,0,?0.00,"?2,052.00","?2,550.00","?2,250.00",24.00%
+E12 Snow Series,Snow White,N/A,E12-SNOW-SERIES-SNOW-WHITE,N/A,Audio,Airbuds,Sabbat,1,0,255.00 pcs,255.00 box/s,0,0,255.00 pcs,255.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,909.00","?2,250.00","?2,200.00",18.00%
+X12 Snow Series,Snow White,N/A,X12-SNOW-SERIES-SNOW-WHITE,N/A,Audio,Airbuds,Sabbat,1,0,441.00 pcs,441.00 box/s,0,0,441.00 pcs,441.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,522.00","?1,800.00","?1,700.00",18.00%
+Honor Fly Pods Lite,Black,N/A,HONOR-FLY-PODS-LITE-BLACK,N/A,Audio,Airbuds,Honor,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,"?2,013.00","?2,399.00","?2,350.00",19.00%
+Honor Fly Pods Lite,White,N/A,HONOR-FLY-PODS-LITE-WHITE,N/A,Audio,Airbuds,Honor,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,"?2,013.00","?2,399.00","?2,350.00",19.00%
+Haylou GT1 Pro,Black,N/A,HAYLOU-GT1-PRO-BLACK,N/A,Audio,Airbuds,Haylou,1,0,146.00 pcs,146.00 box/s,0,0,146.00 pcs,146.00 box/s,0.00x0.00x0.00,0,?0.00,?576.00,?970.00,?900.00,68.00%
+G25,Black,N/A,PLEXTONE-G25-BLACK,N/A,Audio,In-Ear Earphones,Plextone,1,0,255.00 pcs,255.00 box/s,0,1,254.00 pcs,254.00 box/s,0.00x0.00x0.00,0,?0.00,?272.00,?2.00,?1.50,-99.00%
+G25,Red,N/A,PLEXTONE-G25-RED,N/A,Audio,In-Ear Earphones,Plextone,1,0,181.00 pcs,181.00 box/s,0,0,181.00 pcs,181.00 box/s,0.00x0.00x0.00,0,?0.00,?272.00,?2.00,?1.50,-99.00%
+G25,Green,N/A,PLEXTONE-G25-GREEN,N/A,Audio,In-Ear Earphones,Plextone,1,0,190.00 pcs,190.00 box/s,0,0,190.00 pcs,190.00 box/s,0.00x0.00x0.00,0,?0.00,?272.00,?2.00,?1.50,-99.00%
+PLEXTONE G20 TYPE-C,Black,N/A,PLEXTONE-G20-TYPE-C-BLACK,N/A,Audio,In-Ear Earphones,Plextone,1,0,191.00 pcs,191.00 box/s,0,0,191.00 pcs,191.00 box/s,0.00x0.00x0.00,0,?0.00,?238.00,?359.00,?300.00,51.00%
+PLEXTONE G20 TYPE-C,Red,N/A,PLEXTONE-G20-TYPE-C-RED,N/A,Audio,In-Ear Earphones,Plextone,1,0,96.00 pcs,96.00 box/s,0,0,96.00 pcs,96.00 box/s,0.00x0.00x0.00,0,?0.00,?238.00,?359.00,?300.00,51.00%
+PLEXTONE G20 TYPE-C,Green,N/A,PLEXTONE-G20-TYPE-C-GREEN,N/A,Audio,In-Ear Earphones,Plextone,1,0,113.00 pcs,113.00 box/s,0,0,113.00 pcs,113.00 box/s,0.00x0.00x0.00,0,?0.00,?238.00,?359.00,?300.00,51.00%
+PLEXTONE G800,Black,N/A,PLEXTONE-G800-BLACK,N/A,Audio,In-Ear Earphones,Plextone,1,0,20.00 pcs,20.00 box/s,600,0,620.00 pcs,620.00 box/s,0.00x0.00x0.00,0,?0.00,?359.00,?599.00,?550.00,67.00%
+PLEXTONE G800,Gray,N/A,PLEXTONE-G800-GRAY,N/A,Audio,In-Ear Earphones,Plextone,1,0,18.00 pcs,18.00 box/s,300,0,318.00 pcs,318.00 box/s,0.00x0.00x0.00,0,?0.00,?359.00,?599.00,?550.00,67.00%
+E12 Charging Box,Black,N/A,E12-CHARGING-BOX,N/A,None,N/A,Sabbat,1,0,91.00 pcs,91.00 box/s,0,0,91.00 pcs,91.00 box/s,0.00x0.00x0.00,0,?0.00,?451.00,?600.00,?500.00,33.00%
+X12 CHARGING BOX,Black,N/A,X12-CHARGING-BOX,zelong,None,N/A,Sabbat,1,0,95.00 pcs,95.00 box/s,0,0,95.00 pcs,95.00 box/s,0.00x0.00x0.00,0,?0.00,?248.00,?400.00,?200.00,61.00%
+SABBAT POUCH,Black,N/A,SABBAT-POUCH,N/A,None,N/A,Sabbat,0,0,149.00 pcs,0.00 box/s,0,0,149.00 pcs,,0.00x0.00x0.00,0,?0.00,?13.00,?0.00,?0.00,-100.00%
+REDMI CHARGING CABLE,Black,N/A,REDMI-CHARGING-CABLE,N/A,Phone,Phone Accessories,None,0,0,"7,849.00 pcs",0.00 box/s,0,7,"7,842.00 pcs",,0.00x0.00x0.00,0,?0.00,?3.00,?49.00,?60.00,"1,533.00%"
+Car Clamp Holder Dual Clip for Sunglasses and Small Accessories,Gray,N/A,Car-Sun-Visor-Glasses-Ticket-Receipt-Gray,Ronnel,Appliances,Small Appliances,None,1,0,387.00 pcs,387.00 box/s,0,0,387.00 pcs,387.00 box/s,0.00x0.00x0.00,0,?0.00,?38.00,?49.00,?45.00,29.00%
+Car Clamp Holder Dual Clip for Sunglasses and Small Accessories,Silver,N/A,Car-Sun-Visor-Glasses-Ticket-Receipt-Silver,N/A,Appliances,Small Appliances,None,1,0,295.00 pcs,295.00 box/s,0,0,295.00 pcs,295.00 box/s,0.00x0.00x0.00,0,?0.00,?38.00,?49.00,?45.00,29.00%
+Car Clamp Holder Dual Clip for Sunglasses and Small Accessories,Gold,N/A,Car-Sun-Visor-Glasses-Ticket-Receipt-Gold,N/A,Appliances,Small Appliances,None,1,0,203.00 pcs,203.00 box/s,0,0,203.00 pcs,203.00 box/s,0.00x0.00x0.00,0,?0.00,?38.00,?49.00,?45.00,29.00%
+Car Clamp Holder Dual Clip for Sunglasses and Small Accessories,Pink,N/A,Car-Sun-Visor-Glasses-Ticket-Receipt-Pink,N/A,Appliances,Small Appliances,None,1,0,106.00 pcs,106.00 box/s,0,0,106.00 pcs,106.00 box/s,0.00x0.00x0.00,0,?0.00,?38.00,?49.00,?45.00,29.00%
+Honor Umbrella,N/A,N/A,N/A,N/A,None,N/A,N/A,1,0,95.00 pcs,95.00 pcs,0,0,95.00 pcs,95.00 pcs,0.00x0.00x0.00,0,?0.00,?0.00,?0.00,?0.00,0.00%
+Bluedio Hi TWS Earbuds,Black,N/A,Bluedio-Hi-TWS-Earbuds-Black,N/A,Audio,Airbuds,Bluedio,1,0,15.00 pcs,15.00 box/s,0,0,15.00 pcs,15.00 box/s,0.00x0.00x0.00,0,?0.00,?405.00,?480.00,?450.00,19.00%
+Edon Foldable Fan  with LED Light E808 ,White,N/A,GH-EDON-E808-USBFAN-WHITE,N/A,Appliances,Mini Appliances,Edon,1,0,142.00 pcs,142.00 box/s,0,0,142.00 pcs,142.00 box/s,0.00x0.00x0.00,0,?0.00,?580.00,?601.00,?601.00,4.00%
+Edon Foldable Fan  with LED Light E808 ,Gray,N/A,GH-EDON-E808-USBFAN-GREY,N/A,Appliances,Mini Appliances,Edon,1,0,141.00 pcs,141.00 box/s,0,1,140.00 pcs,140.00 box/s,0.00x0.00x0.00,0,?0.00,?580.00,?601.00,?601.00,4.00%
+"RPP-142 REMAX HUNYO SERIES 4 USB POWER BANK 20,000 mAh",Black,N/A,RPP-142-REMAX-HUNYO-SERIES-4-USB-PB-20K-mAh-BLACK,N/A,Electronic Device,Power Bank,Remax,1,0,47.00 pcs,47.00 pcs,0,0,47.00 pcs,47.00 pcs,0.00x0.00x0.00,0,?0.00,?390.00,?259.00,?0.00,-34.00%
+"RPP-142 REMAX HUNYO SERIES 4 USB POWER BANK 20,000 mAh",White,N/A,RPP-142-REMAX-HUNYO-SERIES-4-USB-PB-20K-mAh-WHITE,N/A,Electronic Device,Power Bank,Remax,1,0,75.00 pcs,75.00 pcs,0,0,75.00 pcs,75.00 pcs,0.00x0.00x0.00,0,?0.00,?390.00,?259.00,?0.00,-34.00%
+ES-01 Noise Cancelling Earplug ,Red,N/A,ES-01-Noise-Cancelling-Earplug-Red,N/A,Audio,In-Ear Earphones,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?58.00,?99.00,?95.00,71.00%
+ES-01 Noise Cancelling Earplug ,Sky Blue,N/A,ES-01-Noise-Cancelling-Earplug-Skyblue,N/A,Audio,In-Ear Earphones,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?58.00,?99.00,?95.00,71.00%
+ES-01 Noise Cancelling Earplug ,Gray,N/A,ES-01-Noise-Cancelling-Earplug-Gray,N/A,Audio,In-Ear Earphones,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?58.00,?99.00,?95.00,71.00%
+ES-01 Noise Cancelling Earplug ,Orange,N/A,ES-01-Noise-Cancelling-Earplug-Orange,N/A,Audio,In-Ear Earphones,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?58.00,?99.00,?95.00,71.00%
+iMeBoBo Two Layers of Noise Cancelling Earplug,Black,N/A,iMeBoBo-Two-layes-Noise-Cancelling-Earplug-Black,N/A,Audio,In-Ear Earphones,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?113.00,?99.00,?95.00,-12.00%
+iMeBoBo Two Layers of Noise Cancelling Earplug,Gray,N/A,iMeBoBo-Two-layes-Noise-Cancelling-Earplug-Gray,N/A,Audio,In-Ear Earphones,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?113.00,?99.00,?95.00,-12.00%
+iMeBoBo Three layers Noise Cancelling Earplug,Black,N/A,iMeBoBo-Three-layers-Noise-Cancelling-Earplug-black,N/A,Audio,In-Ear Earphones,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?113.00,?99.00,?95.00,-12.00%
+iMeBoBo Three layers Noise Cancelling Earplug,Gray,N/A,iMeBoBo-Three-layers-Noise-Cancelling-Earplug-gray,N/A,Audio,In-Ear Earphones,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?113.00,?99.00,?95.00,-12.00%
+Haylou GT1/GT1 Plus Silicone Case with Hook,Black,N/A,Haylou-silicone-case-hook-Black,N/A,None,N/A,None,1,0,975.00 pcs,975.00 box/s,0,0,975.00 pcs,975.00 box/s,0.00x0.00x0.00,0,?0.00,?22.00,?59.00,?55.00,168.00%
+Haylou GT1/GT1 Plus Silicone Case with Hook,White,N/A,Haylou-silicone-case-hook-Whiite,N/A,None,N/A,None,1,0,194.00 pcs,194.00 box/s,0,0,194.00 pcs,194.00 box/s,0.00x0.00x0.00,0,?0.00,?22.00,?59.00,?55.00,168.00%
+Haylou GT1/GT1 Plus Silicone Case with Hook,Red,N/A,Haylou-silicone-case-hook-Red,N/A,None,N/A,None,1,0,486.00 pcs,486.00 box/s,0,0,486.00 pcs,486.00 box/s,0.00x0.00x0.00,0,?0.00,?22.00,?59.00,?55.00,168.00%
+Haylou GT1/GT1 Plus Silicone Case with Hook,Pink,N/A,Haylou-silicone-case-hook-Pink,N/A,None,N/A,None,1,0,280.00 pcs,280.00 box/s,0,0,280.00 pcs,280.00 box/s,0.00x0.00x0.00,0,?0.00,?22.00,?59.00,?55.00,168.00%
+Haylou GT1/GT1 Plus Silicone Case with Hook,Midnight Blue,N/A,Haylou-silicone-case-hook-MidnightBlue,N/A,None,N/A,None,1,0,482.00 pcs,482.00 box/s,0,0,482.00 pcs,482.00 box/s,0.00x0.00x0.00,0,?0.00,?22.00,?59.00,?55.00,168.00%
+Haylou GT1/GT1 Plus Silicone Case with Hook,Dark Green,N/A,Haylou-silicone-case-hook-DarkGreen,N/A,None,N/A,None,1,0,473.00 pcs,473.00 box/s,0,0,473.00 pcs,473.00 box/s,0.00x0.00x0.00,0,?0.00,?22.00,?59.00,?55.00,168.00%
+Mijobs Honor NFC Strap,Black,N/A,Mijobs-Honor-NFC-Strap-Black,N/A,Wearables,Smart Watch,Mijobs,1,0,6.00 pcs,6.00 box/s,0,0,6.00 pcs,6.00 box/s,0.00x0.00x0.00,0,?0.00,?219.00,?349.00,?340.00,59.00%
+Mijobs Honor NFC Strap,Blue,N/A,Mijobs-Honor-NFC-Strap-Blue,N/A,Wearables,Smart Watch,Mijobs,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?240.00,?349.00,?340.00,45.00%
+Mijobs Honor NFC Strap,Purple,N/A,Mijobs-Honor-NFC-Strap-Purple,N/A,Wearables,Smart Watch,Mijobs,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?240.00,?349.00,?340.00,45.00%
+Mijobs Honor NFC Strap,Silver,N/A,Mijobs-Honor-NFC-Strap-Silver,N/A,Wearables,Smart Watch,Mijobs,1,0,38.00 pcs,38.00 box/s,0,0,38.00 pcs,38.00 box/s,0.00x0.00x0.00,0,?0.00,?198.00,?349.00,?340.00,76.00%
+Mijobs Honor NFC Strap,Gold,N/A,Mijobs-Honor-NFC-Strap-Gold,N/A,Wearables,Smart Watch,Mijobs,1,0,5.00 pcs,5.00 box/s,0,0,5.00 pcs,5.00 box/s,0.00x0.00x0.00,0,?0.00,?240.00,?349.00,?340.00,45.00%
+Mijobs Honor NFC Strap,Rose Gold,N/A,Mijobs-Honor-NFC-Strap-RoseGold,N/A,Wearables,Smart Watch,Mijobs,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?240.00,?349.00,?340.00,45.00%
+Sabbat E12 Eartips,Black,N/A,Sabbat-E12-Eartips-Black,N/A,None,N/A,Sabbat,1,0,-5.00 pcs,-5.00 box/s,0,0,-5.00 pcs,-5.00 box/s,0.00x0.00x0.00,0,?0.00,?74.00,?2.00,?1.50,-97.00%
+Sabbat E12 Eartips,Red,N/A,Sabbat-E12-Eartips-Red,N/A,None,N/A,Sabbat,1,0,9.00 pcs,9.00 box/s,0,0,9.00 pcs,9.00 box/s,0.00x0.00x0.00,0,?0.00,?74.00,?2.00,?1.50,-97.00%
+Sabbat X12 Ear Hook,N/A,N/A,Sabbat-X12-Ear-Hook,N/A,Audio,In-Ear Earphones,Sabbat,1,0,-2.00 pcs,-2.00 box/s,0,0,-2.00 pcs,-2.00 box/s,0.00x0.00x0.00,0,?0.00,?10.00,?2.00,?1.50,-80.00%
+Sabbat Cord Type-C,Black,N/A,Sabbat-Cord-Type-C-Black,N/A,Audio,In-Ear Earphones,Sabbat,1,0,15.00 pcs,15.00 box/s,0,0,15.00 pcs,15.00 box/s,0.00x0.00x0.00,0,?0.00,?22.00,?2.00,?1.50,-91.00%
+Sabbat Cord Type-C,White,N/A,Sabbat-Cord-Type-C-White,N/A,Audio,In-Ear Earphones,Sabbat,1,0,6.00 pcs,6.00 box/s,0,0,6.00 pcs,6.00 box/s,0.00x0.00x0.00,0,?0.00,?22.00,?2.00,?1.50,-91.00%
+Funsnap Capture 2,Black,N/A,Funsnap-Capture-2-Black,N/A,None,N/A,FUNSNAP,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,966.00","?2,032.00","?2,000.00",3.00%
+Funsap Capture 2 Stand,Black,N/A,Funsnap-Capture-2-SD-Black,N/A,None,N/A,FUNSNAP,1,0,57.00 pcs,57.00 box/s,0,0,57.00 pcs,57.00 box/s,0.00x0.00x0.00,0,?0.00,?85.00,?127.00,?140.00,49.00%
+Funsnap Capture 2 Carrying Bag,N/A,N/A,Funsnap-Capture-2-Carrying-Bag,N/A,None,N/A,FUNSNAP,1,0,77.00 pcs,77.00 box/s,0,0,77.00 pcs,77.00 box/s,0.00x0.00x0.00,0,?0.00,?94.00,?189.00,?189.00,101.00%
+Cellphone Stand w/ Card Slot  Ultra Thin Invisible Folding,Black,N/A,Cellphone-Stand-w/-Card-Holder-Ultra-Thin-Invisible-Folding-Design-Black,N/A,Pnone Accessories,N/A,None,1,0,17.00 pcs,17.00 box/s,0,0,17.00 pcs,17.00 box/s,0.00x0.00x0.00,0,?0.00,?72.00,?74.00,?74.00,3.00%
+Cellphone Stand w/ Card Slot  Ultra Thin Invisible Folding,Red,N/A,Cellphone-Stand-w/-Card-Holder-Ultra-Thin-Invisible-Folding-Design-Red,N/A,Pnone Accessories,N/A,None,1,0,126.00 pcs,126.00 box/s,0,0,126.00 pcs,126.00 box/s,0.00x0.00x0.00,0,?0.00,?72.00,?74.00,?74.00,3.00%
+Cellphone Stand w/ Card Slot  Ultra Thin Invisible Folding,Blue,N/A,Cellphone-Stand-w/-Card-Holder-Ultra-Thin-Invisible-Folding-Design-Blue,N/A,Pnone Accessories,N/A,None,1,0,92.00 pcs,92.00 box/s,0,0,92.00 pcs,92.00 box/s,0.00x0.00x0.00,0,?0.00,?72.00,?74.00,?74.00,3.00%
+Cellphone Stand w/ Card Slot  Ultra Thin Invisible Folding,Gray,N/A,Cellphone-Stand-w/-Card-Holder-Ultra-Thin-Invisible-Folding-Design-Grey,N/A,Pnone Accessories,N/A,None,1,0,213.00 pcs,213.00 box/s,0,0,213.00 pcs,213.00 box/s,0.00x0.00x0.00,0,?0.00,?72.00,?74.00,?74.00,3.00%
+Cellphone Stand Ultra Thin Invisible Folding,Black,N/A,Cellphone-Stand-Ultra-Thin-Invisible-Folding-Design-Black,N/A,Phone holder,N/A,None,1,0,10.00 pcs,10.00 box/s,0,0,10.00 pcs,10.00 box/s,0.00x0.00x0.00,0,?0.00,?72.00,?74.00,?74.00,3.00%
+Cellphone Stand Ultra Thin Invisible Folding,Red,N/A,Cellphone-Stand-Ultra-Thin-Invisible-Folding-Design-Red,N/A,Phone holder,N/A,None,1,0,79.00 pcs,79.00 box/s,0,0,79.00 pcs,79.00 box/s,0.00x0.00x0.00,0,?0.00,?72.00,?74.00,?74.00,3.00%
+Cellphone Stand Ultra Thin Invisible Folding,Blue,N/A,Cellphone-Stand-Ultra-Thin-Invisible-Folding-Design-Blue,N/A,Phone holder,N/A,None,1,0,71.00 pcs,71.00 box/s,0,0,71.00 pcs,71.00 box/s,0.00x0.00x0.00,0,?0.00,?72.00,?74.00,?74.00,3.00%
+Cellphone Stand Ultra Thin Invisible Folding,Gray,N/A,Cellphone-Stand-Ultra-Thin-Invisible-Folding-Design-Gray,N/A,Phone holder,N/A,None,1,0,56.00 pcs,56.00 box/s,0,0,56.00 pcs,56.00 box/s,0.00x0.00x0.00,0,?0.00,?72.00,?74.00,?74.00,3.00%
+Tablet and iPad Stand 9.7 inches Ultra Thin Invisible Folding  ,Black,N/A,Tablet-Ipad-Stand-Ultra-Thin-Invisible-Folding-Design-Black,N/A,Computer & Laptops,Stand/holder,None,1,0,139.00 pcs,139.00 box/s,0,0,139.00 pcs,139.00 box/s,0.00x0.00x0.00,0,?0.00,?127.00,?128.00,?128.00,1.00%
+Tablet and iPad Stand 9.7 inches Ultra Thin Invisible Folding  ,Red,N/A,Tablet-Ipad-Stand-Ultra-Thin-Invisible-Folding-Design-Red,N/A,Computer & Laptops,Stand/holder,None,1,0,54.00 pcs,54.00 box/s,0,0,54.00 pcs,54.00 box/s,0.00x0.00x0.00,0,?0.00,?127.00,?128.00,?128.00,1.00%
+Tablet and iPad Stand 9.7 inches Ultra Thin Invisible Folding  ,Blue,N/A,Tablet-Ipad-Stand-Ultra-Thin-Invisible-Folding-Design-Blue,N/A,Computer & Laptops,Stand/holder,None,1,0,40.00 pcs,40.00 box/s,0,0,40.00 pcs,40.00 box/s,0.00x0.00x0.00,0,?0.00,?127.00,?128.00,?128.00,1.00%
+Tablet and iPad Stand 9.7 inches Ultra Thin Invisible Folding  ,Gray,N/A,Tablet-Ipad-Stand-Ultra-Thin-Invisible-Folding-Design-Gray,N/A,Computer & Laptops,Stand/holder,None,1,0,73.00 pcs,73.00 box/s,0,0,73.00 pcs,73.00 box/s,0.00x0.00x0.00,0,?0.00,?127.00,?128.00,?128.00,1.00%
+Tablet and iPad  Stand 8 inches Ultra Thin Invisible Folding ,Black,N/A,Tablet-Ipad-Stand-Ultra-Thin-Invisible-Folding-Design-Suitable-For-Flat-Plate-Less-Than-8-Inches-Black,N/A,Computer & Laptops,Stand/holder,None,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?123.00,?124.00,?124.00,1.00%
+Tablet and iPad  Stand 8 inches Ultra Thin Invisible Folding ,Red,N/A,Tablet-Ipad-Stand-Ultra-Thin-Invisible-Folding-Design-Suitable-For-Flat-Plate-Less-Than-8-Inches-Red,N/A,Computer & Laptops,Stand/holder,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?123.00,?124.00,?124.00,1.00%
+Tablet and iPad  Stand 8 inches Ultra Thin Invisible Folding ,Blue,N/A,Tablet-Ipad-Stand-Ultra-Thin-Invisible-Folding-Design-Suitable-For-Flat-Plate-Less-Than-8-Inches-Blue,N/A,Computer & Laptops,Stand/holder,None,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?123.00,?124.00,?124.00,1.00%
+Tablet and iPad  Stand 8 inches Ultra Thin Invisible Folding ,Gray,N/A,Tablet-Ipad-Stand-Ultra-Thin-Invisible-Folding-Design-Suitable-For-Flat-Plate-Less-Than-8-Inches-Gray,N/A,Computer & Laptops,Stand/holder,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?123.00,?124.00,?124.00,1.00%
+Disposable daily protective mask,N/A,N/A,N/A,N/A,Wearables,mask,N/A,125,0,344.00 pcs,2.75 box/s,0,0,344.00 pcs,2.75 box/s,0.00x0.00x0.00,0,?0.00,?415.00,?500.00,?500.00,20.00%
+Infrared thermometer,N/A,N/A,N/A,N/A,None,N/A,N/A,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,"?3,240.00","?3,000.00","?3,000.00",-7.00%
+RPP-154 REMAX Bodi Series 2 USB PowerBank 30000mAh,Black,N/A,RPP-154-Bodi-Series-30000mAh-PB-Black,N/A,Electronic Device,Power Bank,Remax,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?538.00,?199.00,?190.00,-63.00%
+RPP-154 REMAX Bodi Series 2 USB PowerBank 30000mAh,White,N/A,RPP-154-Bodi-Series-30000mAh-PB-White,N/A,Electronic Device,Power Bank,Remax,1,0,25.00 pcs,25.00 box/s,0,0,25.00 pcs,25.00 box/s,0.00x0.00x0.00,0,?0.00,?538.00,?199.00,?190.00,-63.00%
+Clean It Zero Cleansing Balm Original,N/A,100ML,N/A,N/A,Cosmetics/personal Care,Cleanser,BANILA CO,20,1,8.00 pcs,0.40 box/s,0,0,8.00 pcs,0.40 box/s,0.00x0.00x0.00,0,?0.00,?507.00,?507.00,?507.00,0.00%
+Clean It Zero Cleansing Balm Original,N/A,180ML,N/A,N/A,Cosmetics/personal Care,Cleanser,BANILA CO,20,1,2.00 pcs,0.10 box/s,0,0,2.00 pcs,0.10 box/s,0.00x0.00x0.00,0,?0.00,?709.00,?709.00,?709.00,0.00%
+Clean It Zero Cleansing Balm Purifying,N/A,100ML,N/A,N/A,Cosmetics/personal Care,Cleanser,BANILA CO,20,1,14.00 pcs,0.70 pcs,0,0,14.00 pcs,0.70 pcs,0.00x0.00x0.00,0,?0.00,?612.00,?612.00,?612.00,0.00%
+Prime Primer,Primer Matte,30ML,N/A,N/A,Cosmetics/personal Care,Primer,BANILA CO,1,1,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?597.00,?597.00,?597.00,0.00%
+Prime Primer,Primer Classic,30ML,N/A,N/A,Cosmetics/personal Care,Primer,BANILA CO,1,1,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?597.00,?597.00,?597.00,0.00%
+BHA Blackhead Power Liquid,N/A,100ML,N/A,N/A,Cosmetics/personal Care,Essence,cosrx,60,1,51.00 pcs,0.85 box/s,0,0,51.00 pcs,0.85 box/s,0.00x0.00x0.00,0,?0.00,?467.00,?600.00,?600.00,28.00%
+Salicylic Acid Daily Gentle Cleanser,N/A,150ML,N/A,N/A,Cosmetics/personal Care,Cleanser,cosrx,60,1,210.00 pcs,3.50 box/s,0,0,210.00 pcs,3.50 box/s,0.00x0.00x0.00,0,?0.00,?262.00,?262.00,?262.00,0.00%
+Acne Pimple Master Patch,N/A,1ea,N/A,N/A,Cosmetics/personal Care,Patch,cosrx,30,1,119.00 pcs,3.97 box/s,0,0,119.00 pcs,3.97 box/s,0.00x0.00x0.00,0,?0.00,?85.00,?85.00,?85.00,0.00%
+Aloe Soothing Sun Cream ,SPF50 PA+++,50ML,N/A,N/A,Cosmetics/personal Care, Sun Cream ,cosrx,96,1,2.00 pcs,0.02 box/s,96,0,98.00 pcs,1.02 box/s,0.00x0.00x0.00,0,?0.00,?320.00,?320.00,?320.00,0.00%
+Good Morning Low-pH Gel Cleanser ,N/A,150ML,N/A,N/A,Cosmetics/personal Care,Cleanser,cosrx,42,1,13.00 pcs,0.31 box/s,120,0,133.00 pcs,3.17 box/s,0.00x0.00x0.00,0,?0.00,?263.00,?263.00,?263.00,0.00%
+Spot Oil,N/A,10ML,N/A,N/A,Cosmetics/personal Care,Spot Oil,some by mi,100,1,69.00 pcs,0.69 box/s,0,0,69.00 pcs,0.69 box/s,0.00x0.00x0.00,0,?0.00,?364.00,?364.00,?364.00,0.00%
+Galactomyces Pure Vitamin C Glow Toner,N/A,200ML,N/A,N/A,Cosmetics/personal Care,Toner,some by mi,50,1,36.00 pcs,0.72 box/s,50,0,86.00 pcs,1.72 box/s,0.00x0.00x0.00,0,?0.00,?494.00,?494.00,?494.00,0.00%
+Aha/Bha/Pha 30 Days Miracle Starter Kit 4,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Kit SET,some by mi,50,1,29.00 pcs,0.58 box/s,200,0,229.00 pcs,4.58 box/s,0.00x0.00x0.00,0,?0.00,?483.00,?483.00,?483.00,0.00%
+Snail TrueCica Miracle Repair Toner,N/A,135ML,N/A,N/A,Cosmetics/personal Care,Toner,some by mi,50,1,25.00 pcs,0.50 box/s,0,0,25.00 pcs,0.50 box/s,0.00x0.00x0.00,0,?0.00,?454.00,?454.00,?454.00,0.00%
+Snail TrueCica Miracle Repair Starter Kit,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Kit SET,some by mi,50,1,34.00 pcs,0.68 box/s,100,0,134.00 pcs,2.68 box/s,0.00x0.00x0.00,0,?0.00,?548.00,?548.00,?548.00,0.00%
+Aha/Bha/Pha 30 Days Miracle Serum,N/A,50ML,N/A,N/A,Cosmetics/personal Care,Serum,some by mi,100,1,55.00 pcs,0.55 box/s,100,0,155.00 pcs,1.55 box/s,0.00x0.00x0.00,0,?0.00,?482.00,?482.00,?482.00,0.00%
+Aha/Bha/Pha 30 Days Miracle Toner,N/A,150ML,N/A,N/A,Cosmetics/personal Care,Toner,some by mi,50,1,26.00 pcs,0.52 box/s,100,0,126.00 pcs,2.52 box/s,0.00x0.00x0.00,0,?0.00,?425.00,?425.00,?425.00,0.00%
+Aha/Bha/Pha 30 Days Miracle Cream,N/A,60ML,N/A,N/A,Cosmetics/personal Care,Cream,some by mi,100,1,25.00 pcs,0.25 box/s,0,0,25.00 pcs,0.25 box/s,0.00x0.00x0.00,0,?0.00,?468.00,?468.00,?468.00,0.00%
+Delight Tony Tint,01 Cherry pink, 8.3ml,N/A,N/A,Cosmetics/personal Care,Tint,TONYMOLY ,24,1,35.00 pcs,1.46 box/s,0,0,35.00 pcs,1.46 box/s,0.00x0.00x0.00,0,?0.00,?90.00,?100.00,?100.00,11.00%
+Delight Tony Tint,02 Red, 8.3ml,N/A,N/A,Cosmetics/personal Care,Tint,TONYMOLY ,24,1,11.00 pcs,0.46 box/s,0,1,10.00 pcs,0.42 box/s,0.00x0.00x0.00,0,?0.00,?90.00,?100.00,?100.00,11.00%
+Delight Tony Tint,03 Oranges, 8.3ml,N/A,N/A,Cosmetics/personal Care,Tint,TONYMOLY ,24,1,12.00 pcs,0.50 box/s,0,0,12.00 pcs,0.50 box/s,0.00x0.00x0.00,0,?0.00,?90.00,?100.00,?100.00,11.00%
+LipTone Get It Tint ,S01-BABY CORAL,3g,N/A,N/A,Cosmetics/personal Care,Tint,TONYMOLY ,6,1,30.00 pcs,5.00 box/s,0,0,30.00 pcs,5.00 box/s,0.00x0.00x0.00,0,?0.00,?138.00,?200.00,?200.00,45.00%
+LipTone Get It Tint ,S02-SPICY RUBY,3g,N/A,N/A,Cosmetics/personal Care,Tint,TONYMOLY ,6,1,3.00 pcs,0.50 box/s,0,0,3.00 pcs,0.50 box/s,0.00x0.00x0.00,0,?0.00,?138.00,?200.00,?200.00,45.00%
+LipTone Get It Tint ,S03-PINK COASTER,3g,N/A,N/A,Cosmetics/personal Care,Tint,TONYMOLY ,6,1,32.00 pcs,5.33 box/s,0,0,32.00 pcs,5.33 box/s,0.00x0.00x0.00,0,?0.00,?138.00,?200.00,?200.00,45.00%
+LipTone Get It Tint ,S04-RED HOT,3g,N/A,N/A,Cosmetics/personal Care,Tint,TONYMOLY ,6,1,32.00 pcs,5.33 box/s,0,0,32.00 pcs,5.33 box/s,0.00x0.00x0.00,0,?0.00,?138.00,?200.00,?200.00,45.00%
+LipTone Get It Tint ,S05-OH MY ROSE,3g,N/A,N/A,Cosmetics/personal Care,Tint,TONYMOLY ,6,1,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?138.00,?200.00,?200.00,45.00%
+LipTone Get It Tint ,S06-CHILI PEPPER,3g,N/A,N/A,Cosmetics/personal Care,Tint,TONYMOLY ,6,1,35.00 pcs,5.83 box/s,0,0,35.00 pcs,5.83 box/s,0.00x0.00x0.00,0,?0.00,?138.00,?200.00,?200.00,45.00%
+Wonder Rice Smoothing Toner,N/A,500ML,N/A,N/A,Cosmetics/personal Care,Toner,TONYMOLY ,6,1,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?219.58,?400.00,?400.00,82.00%
+Easy Touch Auto Eyebrow , 01 Black,0.4g,N/A,N/A,Cosmetics/personal Care,Eyebrow,TONYMOLY ,12,1,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?143.00,?100.00,?100.00,-30.00%
+Easy Touch Auto Eyebrow ,02 Gray,0.4g,N/A,N/A,Cosmetics/personal Care,Eyebrow,TONYMOLY ,12,1,43.00 pcs,3.58 box/s,0,0,43.00 pcs,3.58 box/s,0.00x0.00x0.00,0,?0.00,?143.00,?100.00,?100.00,-30.00%
+Easy Touch Auto Eyebrow ,03 Dark Brown,0.4g,N/A,N/A,Cosmetics/personal Care,Eyebrow,TONYMOLY ,12,1,37.00 pcs,3.08 box/s,0,0,37.00 pcs,3.08 box/s,0.00x0.00x0.00,0,?0.00,?143.00,?100.00,?100.00,-30.00%
+Easy Touch Auto Eyebrow , 04 Mocha Brown,0.4g,N/A,N/A,Cosmetics/personal Care,Eyebrow,TONYMOLY ,12,1,18.00 pcs,1.50 box/s,0,0,18.00 pcs,1.50 box/s,0.00x0.00x0.00,0,?0.00,?143.00,?100.00,?100.00,-30.00%
+Easy Touch Auto Eyebrow ,05 Brown,0.4g,N/A,N/A,Cosmetics/personal Care,Eyebrow,TONYMOLY ,12,1,38.00 pcs,3.17 box/s,0,0,38.00 pcs,3.17 box/s,0.00x0.00x0.00,0,?0.00,?143.00,?100.00,?100.00,-30.00%
+Perfect Lips Shocking Lip Tint,01 PinkShocking,4g,N/A,N/A,Cosmetics/personal Care,N/A,TONYMOLY ,6,1,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?271.00,?271.00,?271.00,0.00%
+Perfect Lips Shocking Lip Tint,02 Red Shocking,4g,N/A,N/A,Cosmetics/personal Care,N/A,TONYMOLY ,6,1,-1.00 pcs,-0.17 box/s,0,0,-1.00 pcs,-0.17 box/s,0.00x0.00x0.00,0,?0.00,?271.00,?271.00,?271.00,0.00%
+Perfect Lips Shocking Lip Tint,03 Ruby Shocking,4g,N/A,N/A,Cosmetics/personal Care,N/A,TONYMOLY ,6,1,1.00 pcs,0.17 box/s,0,0,1.00 pcs,0.17 box/s,0.00x0.00x0.00,0,?0.00,?271.00,?271.00,?271.00,0.00%
+Perfect Lips Shocking Lip Tint,05 Petal Shocking,4g,N/A,N/A,Cosmetics/personal Care,N/A,TONYMOLY ,6,1,-1.00 pcs,-0.17 box/s,0,0,-1.00 pcs,-0.17 box/s,0.00x0.00x0.00,0,?0.00,?271.00,?271.00,?271.00,0.00%
+Perfect Lips Shocking Lip Tint,07 Rose Shocking,4g,N/A,N/A,Cosmetics/personal Care,N/A,TONYMOLY ,6,1,1.00 pcs,0.17 box/s,0,0,1.00 pcs,0.17 box/s,0.00x0.00x0.00,0,?0.00,?271.00,?271.00,?271.00,0.00%
+Xiaomi Note 10 Pro,Black,N/A,Xiaomi-Note-10-Pro-Black,N/A,Phone,N/A,Xiaomi,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,"?3,150.00","?4,999.00","?4,990.00",59.00%
+Xiaomi Note 10 Pro,White,N/A,Xiaomi-Note-10-Pro-White,N/A,Phone,N/A,Xiaomi,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,"?3,150.00","?4,999.00","?4,990.00",59.00%
+3 in 1 IOS Card Reader,N/A,N/A,3in1-IOS-Card-Reader,N/A,Camera Accessories,N/A,None,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,?110.00,?79.00,?70.00,-28.00%
+304 stainless steel quick-frozen ice cubes,N/A,8pcs,N/A,N/A,kitchenware,kitchenware,None,50,1,0.00 pcs,0.00 box/s,50,0,50.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?205.00,?300.00,?250.00,-100.00%
+USB Clip Rotating Fan  and LED Ringlight W7,White,N/A,N/A,N/A,FAN,FAN,550,45,1,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?275.00,?400.00,?300.00,45.00%
+USB Clip Rotating Fan  and LED Ringlight W7,Green,N/A,N/A,N/A,FAN,FAN,550,45,1,1.00 pcs,0.02 box/s,0,0,1.00 pcs,0.02 box/s,0.00x0.00x0.00,0,?0.00,?275.00,?400.00,?300.00,45.00%
+USB Clip Rotating Fan  and LED Ringlight W7,Pink,N/A,N/A,N/A,FAN,FAN,550,45,1,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?275.00,?400.00,?300.00,45.00%
+Airpods pro  Case 5pcs Set,Black,N/A,N/A,N/A,earphone case,earphone case,None,300,1,0.00 pcs,0.00 box/s,50,0,50.00 pcs,0.17 box/s,0.00x0.00x0.00,0,?0.00,?61.00,?100.00,?80.00,64.00%
+Airpods pro  Case 5pcs Set,White,N/A,N/A,N/A,earphone case,earphone case,None,300,1,0.00 pcs,0.00 box/s,50,0,50.00 pcs,0.17 box/s,0.00x0.00x0.00,0,?0.00,?61.00,?100.00,?80.00,64.00%
+Airpods pro  Case 5pcs Set,Red,N/A,N/A,N/A,earphone case,earphone case,None,300,1,0.00 pcs,0.00 box/s,50,0,50.00 pcs,0.17 box/s,0.00x0.00x0.00,0,?0.00,?61.00,?100.00,?80.00,64.00%
+Airpods pro  Case 5pcs Set,Lavender,N/A,N/A,N/A,earphone case,earphone case,None,300,1,0.00 pcs,0.00 box/s,50,0,50.00 pcs,0.17 box/s,0.00x0.00x0.00,0,?0.00,?61.00,?100.00,?80.00,64.00%
+Airpods pro  Case 5pcs Set,Midnight Blue,N/A,N/A,N/A,earphone case,earphone case,None,300,1,0.00 pcs,0.00 box/s,50,0,50.00 pcs,0.17 box/s,0.00x0.00x0.00,0,?0.00,?61.00,?100.00,?80.00,64.00%
+Airpods pro  Case 5pcs Set,Dark Green,N/A,N/A,N/A,earphone case,earphone case,None,300,1,0.00 pcs,0.00 box/s,50,0,50.00 pcs,0.17 box/s,0.00x0.00x0.00,0,?0.00,?61.00,?100.00,?80.00,64.00%
+AirPods  bluetooth speakers,N/A,N/A,N/A,N/A,Audio,Bluetooth Speaker,None,10,1,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?467.30,?500.00,?400.00,7.00%
+Xiaomi TV Box (s),N/A,N/A,Xiaomi TV Box,N/A,None,N/A,Xiaomi,0,1,0.00 pcs,0.00 box/s,200,0,200.00 pcs,,0.00x0.00x0.00,0,?0.00,"?2,346.00","?3,500.00","?3,300.00",49.00%
+Yeelight 1s,N/A,N/A,GH-XIAOMI-YEELIGHT1S,N/A,Appliances,Small Appliances,Xiaomi,50,1,29.00 pcs,0.58 box/s,300,0,329.00 pcs,6.58 box/s,0.00x0.00x0.00,0,?0.00,?597.00,?998.00,?928.00,67.00%
+P9s,White,N/A,"P9s-	White",N/A,Appliances,Mini Appliances,None,1,0,6.00 pcs,6.00 box/s,0,0,6.00 pcs,6.00 box/s,0.00x0.00x0.00,0,?0.00,?760.00,?2.00,?1.50,-100.00%
+P9s,Pink,N/A,"P9s-	Pink",N/A,Appliances,Mini Appliances,None,1,0,18.00 pcs,18.00 box/s,0,1,17.00 pcs,17.00 box/s,0.00x0.00x0.00,0,?0.00,?760.00,?2.00,?1.50,-100.00%
+P10,Black,N/A,P10-Black,N/A,Appliances,Mini Appliances,None,1,0,8.00 pcs,8.00 box/s,0,0,8.00 pcs,8.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,276.00",?2.00,?1.50,-100.00%
+P10,White,N/A,P10-White,N/A,Appliances,Mini Appliances,None,1,0,17.00 pcs,17.00 box/s,0,1,16.00 pcs,16.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,276.00",?2.00,?1.50,-100.00%
+Funsnap Hardware Tripod Extension Rod Set,N/A,N/A,FS-Tripod-Extension-Rod-Set,N/A,Camera Accessories,N/A,FUNSNAP,1,0,107.00 pcs,107.00 box/s,0,0,107.00 pcs,107.00 box/s,0.00x0.00x0.00,0,?0.00,?253.00,?2.00,?1.50,-99.00%
+UV Phone Automatic Sterilizer v1,White,N/A,Disinfection-Box-for-Cellphone-1-White,N/A,Phone,Phone Accessories,None,1,0,9.00 pcs,9.00 box/s,0,0,9.00 pcs,9.00 box/s,0.00x0.00x0.00,0,?0.00,?300.00,?2.00,?1.50,-99.00%
+UV Phone Automatic Sterilizer V2,Black,N/A,Disinfection-Box-for-Cellphone-2-Black,N/A,Phone,Phone Accessories,None,1,0,79.00 pcs,79.00 box/s,0,0,79.00 pcs,79.00 box/s,0.00x0.00x0.00,0,?0.00,?321.00,?2.00,?1.50,-99.00%
+UV Phone Automatic Sterilizer V2,White,N/A,Disinfection-Box-for-Cellphone-2-White,N/A,Phone,Phone Accessories,None,1,0,69.00 pcs,69.00 box/s,0,0,69.00 pcs,69.00 box/s,0.00x0.00x0.00,0,?0.00,?321.00,?2.00,?1.50,-99.00%
+Mi Wireless Keyboard w/ Mouse,Black,N/A,Mi-Wireless-Keyboard-w/-Mouse-Black,N/A,Computer & Laptops,Keyboard,Xiaomi,1,0,11.00 pcs,11.00 box/s,300,1,310.00 pcs,310.00 box/s,0.00x0.00x0.00,0,?0.00,?637.00,"?1,199.00","?1,000.00",88.00%
+Mi Wireless Keyboard w/ Mouse,White,N/A,Mi-Wireless-Keyboard-w/-Mouse-White,N/A,Computer & Laptops,Keyboard,Xiaomi,1,0,53.00 pcs,53.00 box/s,200,0,253.00 pcs,253.00 box/s,0.00x0.00x0.00,0,?0.00,?637.00,"?1,199.00","?1,000.00",88.00%
+EKEL Ultra Hydrating Essence Mask,N/A,SNAIL,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,GREEN TEA,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,3.00 pcs,0.30 pcs,0,0,3.00 pcs,0.30 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,ALOE,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,8.00 pcs,0.80 pcs,0,0,8.00 pcs,0.80 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,CHARCOAL,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,PEARL,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,16.00 pcs,1.60 pcs,0,0,16.00 pcs,1.60 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,CUCUMBER,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,POMEGRANATE,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,6.00 pcs,0.60 pcs,0,0,6.00 pcs,0.60 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,BLACK SNAIL,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,4.00 pcs,0.40 pcs,0,0,4.00 pcs,0.40 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,ROYAL JELLY,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,PLACENTA,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,-1.00 pcs,-0.10 pcs,0,0,-1.00 pcs,-0.10 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,COLLAGEN,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,2.00 pcs,0.20 pcs,0,0,2.00 pcs,0.20 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,VITAMIN,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,1.00 pcs,0.10 pcs,0,0,1.00 pcs,0.10 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,EGG,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,2.00 pcs,0.20 pcs,0,0,2.00 pcs,0.20 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,ARONIA,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,40.00 pcs,4.00 pcs,0,0,40.00 pcs,4.00 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,COENZYM Q10,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,AQUA,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,34.00 pcs,3.40 pcs,0,0,34.00 pcs,3.40 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+EKEL Ultra Hydrating Essence Mask,N/A,RED GINSENG,N/A,N/A,Cosmetics/personal Care,facial mask,EKEL,10,1,40.00 pcs,4.00 pcs,0,0,40.00 pcs,4.00 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+Farmstay VISIBLE DIFFERENCE MASK SHEET,N/A,SNAIL,N/A,N/A,Cosmetics/personal Care,facial mask,Farmstay,10,1,40.00 pcs,4.00 pcs,0,0,40.00 pcs,4.00 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+Farmstay VISIBLE DIFFERENCE MASK SHEET,N/A,GREEN TEA,N/A,N/A,Cosmetics/personal Care,facial mask,Farmstay,10,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+Farmstay VISIBLE DIFFERENCE MASK SHEET,N/A,CHARCOAL,N/A,N/A,Cosmetics/personal Care,facial mask,Farmstay,10,1,6.00 pcs,0.60 pcs,0,0,6.00 pcs,0.60 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+Farmstay VISIBLE DIFFERENCE MASK SHEET,N/A,COLLAGEN,N/A,N/A,Cosmetics/personal Care,facial mask,Farmstay,10,1,9.00 pcs,0.90 pcs,0,0,9.00 pcs,0.90 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+Farmstay VISIBLE DIFFERENCE MASK SHEET,N/A,HORSE OIL,N/A,N/A,Cosmetics/personal Care,facial mask,Farmstay,10,1,7.00 pcs,0.70 pcs,0,0,7.00 pcs,0.70 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+Farmstay VISIBLE DIFFERENCE MASK SHEET,N/A,MILK,N/A,N/A,Cosmetics/personal Care,facial mask,Farmstay,10,1,7.00 pcs,0.70 pcs,0,0,7.00 pcs,0.70 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+Farmstay VISIBLE DIFFERENCE MASK SHEET,N/A,BIRD'S NEST,N/A,N/A,Cosmetics/personal Care,facial mask,Farmstay,10,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+Farmstay VISIBLE DIFFERENCE MASK SHEET,N/A,ACEROLA,N/A,N/A,Cosmetics/personal Care,facial mask,Farmstay,10,1,9.00 pcs,0.90 pcs,0,0,9.00 pcs,0.90 pcs,0.00x0.00x0.00,0,?0.00,?10.00,?12.00,?12.00,20.00%
+ELUJAI PROPOLIS AMPLE,N/A,N/A,N/A,N/A,Cosmetics/personal Care,AMPLE,ELUJAI,1,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?90.00,?150.00,?150.00,67.00%
++Dr BODER PROPOLIS AMPLE,N/A,N/A,N/A,N/A,Cosmetics/personal Care,AMPLE,+Dr,1,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?90.00,?150.00,?150.00,67.00%
+ETUDE HOUSE MASK SHEET 0.2mm,N/A,SNAIL,N/A,N/A,Cosmetics/personal Care,facial mask,ETUDE HOUSE,1,1,6.00 pcs,6.00 pcs,0,0,6.00 pcs,6.00 pcs,0.00x0.00x0.00,0,?0.00,?13.00,?13.00,?13.00,0.00%
+ETUDE HOUSE MASK SHEET 0.2mm,N/A,PEARL,N/A,N/A,Cosmetics/personal Care,facial mask,ETUDE HOUSE,1,1,33.00 pcs,33.00 pcs,0,0,33.00 pcs,33.00 pcs,0.00x0.00x0.00,0,?0.00,?20.00,?35.00,?35.00,-100.00%
+ETUDE HOUSE MASK SHEET 0.2mm,N/A,CAMELLIA,N/A,N/A,Cosmetics/personal Care,facial mask,ETUDE HOUSE,1,1,2.00 pcs,2.00 pcs,0,0,2.00 pcs,2.00 pcs,0.00x0.00x0.00,0,?0.00,?20.00,?35.00,?35.00,-100.00%
+ETUDE HOUSE MASK SHEET 0.2mm,N/A,HYALURONIC ACID,N/A,N/A,Cosmetics/personal Care,facial mask,ETUDE HOUSE,1,1,12.00 pcs,12.00 pcs,0,0,12.00 pcs,12.00 pcs,0.00x0.00x0.00,0,?0.00,?20.00,?35.00,?35.00,-100.00%
+RedMi Airdots S,Black,N/A,RedMi-Airdots-S-Black,N/A,Audio,Airbuds,Xiaomi,1,0,6.00 pcs,6.00 box/s,0,0,6.00 pcs,6.00 box/s,0.00x0.00x0.00,0,?0.00,?691.00,?999.00,?990.00,45.00%
+RedMi Band,Black,N/A,RedMi-Band-Black,N/A,Wearables,Smart Watch,Xiaomi,1,0,76.00 pcs,76.00 box/s,0,0,76.00 pcs,76.00 box/s,0.00x0.00x0.00,0,?0.00,?696.00,"?1,199.00","?1,190.00",72.00%
+Haylou Smart Watch LS01,Black,N/A,Haylou-Smart-Watch-LS01-Black,N/A,Wearables,Smart Watch,Haylou,1,0,4.00 pcs,4.00 box/s,0,0,4.00 pcs,4.00 box/s,0.00x0.00x0.00,0,?0.00,?905.00,"?1,399.00","?1,390.00",55.00%
+Haylou Smart Watch LS01,Silver,N/A,Haylou-Smart-Watch-LS01-Silver,N/A,Wearables,Smart Watch,Haylou,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?905.00,"?1,399.00","?1,390.00",55.00%
+KZ Z1,Black,N/A,KZ-Z1-Black,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,056.00","?1,499.00","?1,490.00",42.00%
+KZ Z1,Green,N/A,KZ-Z1-green,N/A,Audio,In-Ear Earphones,KZ,1,0,2.00 pcs,2.00 box/s,0,0,2.00 pcs,2.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,056.00","?1,499.00","?1,490.00",42.00%
+Xiaomi Mijia Rubik's Cube Converter (Wireless Version),N/A,N/A,Xiaomi-Rubiks-Cube-Converter-Wireless-Version,N/A,Electronic Device,Sockets,Xiaomi,1,0,3.00 pcs,3.00 box/s,0,0,3.00 pcs,3.00 box/s,0.00x0.00x0.00,0,?0.00,?315.00,?499.00,?490.00,58.00%
+Xiaomi Mijia Electronic Writing Board 13.5'',N/A,13.5 Inches,Xiaomi-Mijia-Electronic-Writing-Boad-13.5'',N/A,Electronic Device,LCD Writing Pad,Xiaomi,1,0,23.00 pcs,23.00 box/s,200,0,223.00 pcs,223.00 box/s,0.00x0.00x0.00,0,?0.00,?625.00,"?1,399.00","?1,300.00",124.00%
+Xiaomi Mijia Electronic Writing Board 10'',N/A,10 Inches,Xiaomi-Mijia-Electronic-Writing-Board-10'',N/A,Electronic Device,LCD Writing Pad,Xiaomi,1,0,79.00 pcs,79.00 box/s,63,0,142.00 pcs,142.00 box/s,0.00x0.00x0.00,0,?0.00,?323.00,?899.00,?800.00,178.00%
+Xiaomi Mijia Sonic Electric Toothbrush T100,Black,N/A,Xiaomi-Electric-Toothbrush-T100-Black,N/A,Electronic Device,Personal Oral Care,Xiaomi,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?227.00,?399.00,?399.00,76.00%
+Xiaomi Mijia Sonic Electric Toothbrush T100,White,N/A,Xiaomi-Electric-Toothbrush-T100-White,N/A,Electronic Device,Personal Oral Care,Xiaomi,1,0,22.00 pcs,22.00 box/s,0,0,22.00 pcs,22.00 box/s,0.00x0.00x0.00,0,?0.00,?227.00,?399.00,?399.00,76.00%
+Xiaomi Mijia Sonic Electric Toothbrush T100,Blue,N/A,Xiaomi-Electric-Toothbrush-T100-Blue,N/A,Electronic Device,Personal Oral Care,Xiaomi,1,0,79.00 pcs,79.00 box/s,0,0,79.00 pcs,79.00 box/s,0.00x0.00x0.00,0,?0.00,?227.00,?399.00,?399.00,76.00%
+Xiaomi Mijia Sonic Electric Toothbrush T100,Pink,N/A,Xiaomi-Electric-Toothbrush-T100-Pink,N/A,Electronic Device,Personal Oral Care,Xiaomi,1,0,37.00 pcs,37.00 box/s,0,0,37.00 pcs,37.00 box/s,0.00x0.00x0.00,0,?0.00,?227.00,?399.00,?399.00,76.00%
+Xiaomi Mijia Mini Portable Inflatable Treasure,Black,N/A,Xiaomi-Portable-Inflatable-Treasure,N/A,Electronic Device,Air Compressor,Xiaomi,1,0,38.00 pcs,38.00 box/s,100,0,138.00 pcs,138.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,243.00","?1,999.00","?1,990.00",61.00%
+Xiaomi Mijia Automatic Hand Washing Set,N/A,N/A,Xiaomi-Automatic-Hand-Washing-Set,N/A,Electronic Device,Automatic Soap Dispenser,Xiaomi,1,0,83.00 pcs,83.00 box/s,200,0,283.00 pcs,283.00 box/s,0.00x0.00x0.00,0,?0.00,?547.00,?799.00,?790.00,46.00%
+Xiaomi Mijia Water Ion Electric Hair Dryer,N/A,N/A,Xiaomi-Water-Ion-Hair-Dryer,N/A,Appliances,Small Appliances,Xiaomi,1,0,31.00 pcs,31.00 box/s,0,0,31.00 pcs,31.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,163.00","?1,699.00","?1,690.00",46.00%
+Xiaomi Wiha 24 in 1 Precision Screwdriver Kit ,N/A,N/A,Xiaomi-Precision-Screwdriver-Toolbox,N/A,Tools,Hand Tools,Xiaomi,1,0,7.00 pcs,7.00 box/s,0,0,7.00 pcs,7.00 box/s,0.00x0.00x0.00,0,?0.00,?580.00,?799.00,?790.00,38.00%
+Xiaomi Enchen Boost Hair Clipper unit only,Black,N/A,Xiaomi-Enchen-Boost-Hair-Clipper-Black,N/A,Electronic Device,Portable Shaver,N/A,1,0,87.00 pcs,87.00 box/s,0,0,87.00 pcs,87.00 box/s,0.00x0.00x0.00,0,?0.00,?312.00,?699.00,?690.00,124.00%
+Xiaomi Enchen Boost Hair Clipper unit only,White,N/A,Xiaomi-Enchen-Boost-Hair-Clipper-White,N/A,Electronic Device,Portable Shaver,N/A,1,0,150.00 pcs,150.00 box/s,0,0,150.00 pcs,150.00 box/s,0.00x0.00x0.00,0,?0.00,?312.00,?699.00,?690.00,124.00%
+Xiaomi Mitu Baby Hair Clipper,White,N/A,Xiaomi-Mitu-Baby-Hair-Clipper-White,N/A,Electronic Device,Portable Shaver,Xiaomi,1,0,45.00 pcs,45.00 box/s,0,0,45.00 pcs,45.00 box/s,0.00x0.00x0.00,0,?0.00,?687.00,?999.00,?990.00,45.00%
+Xiaomi Smart Air Purifier 3,N/A,N/A,Xiaomi-Smart-Air-Purifier-3,N/A,Electronic Device,Air Purifier,Xiaomi,1,0,77.00 pcs,77.00 box/s,0,0,77.00 pcs,77.00 box/s,0.00x0.00x0.00,0,?0.00,"?5,697.00","?10,499.00","?10,400.00",84.00%
+Xiaomi Viomi Electric Kettle,N/A,N/A,Xiaomi-Viomi-Electric-Kettle,N/A,Appliances,Appliances,Xiaomi,1,0,2.00 pcs,2.00 box/s,50,0,52.00 pcs,52.00 box/s,0.00x0.00x0.00,0,?0.00,?563.00,?899.00,?890.00,60.00%
+Xiaomi Pinlo Mini Electric Fruit Juicer,N/A,N/A,Xiaomi-Pinlo-Mini-Electric-Fruit-Juicer,N/A,Appliances,Mini Appliances,Xiaomi,1,0,0.00 pcs,0.00 box/s,100,0,100.00 pcs,100.00 box/s,0.00x0.00x0.00,0,?0.00,?592.00,?899.00,?890.00,52.00%
+Xiaomi Mijia Stainless Steel Nail Clipper w/ Anti Splash Cover,N/A,N/A,Xiaomi-Nail-Clipper-w/-Anti-Splash-Cover,N/A,Tools,Hand Tools,Xiaomi,1,0,380.00 pcs,380.00 box/s,0,0,380.00 pcs,380.00 box/s,0.00x0.00x0.00,0,?0.00,?74.00,?199.00,?190.00,169.00%
+Xiaomi Enchen Black Stone Shaver,N/A,N/A,Xiaomi-Enchen-Blackstone-Shaver,N/A,Electronic Device,Portable Shaver,Xiaomi,1,0,30.00 pcs,30.00 box/s,100,0,130.00 pcs,130.00 box/s,0.00x0.00x0.00,0,?0.00,?325.00,?899.00,?890.00,177.00%
+Xiaomi Enchen Blackstone Shaver Razor Head,N/A,N/A,Xiaomi-Enchen-Blackstone-Razor-Head,N/A,Electronic Device,Portable Shaver,Xiaomi,1,0,31.00 pcs,31.00 box/s,50,0,81.00 pcs,81.00 box/s,0.00x0.00x0.00,0,?0.00,?127.00,?699.00,?690.00,450.00%
+Xiaomi Mijia Rubik's Cube Converter (Wired Version),N/A,N/A,Xiaomi-Rubiks-Cube-Converter-Wired-Version,N/A,Electronic Device,Sockets,Xiaomi,1,0,37.00 pcs,37.00 box/s,0,0,37.00 pcs,37.00 box/s,0.00x0.00x0.00,0,?0.00,?306.00,?899.00,?890.00,194.00%
+JAYJUN Mask,N/A,Real Water Brightening Black Mask,N/A,N/A,Cosmetics/personal Care,facial mask,JAYJUN,10,1,6.00 pcs,0.60 pcs,0,0,6.00 pcs,0.60 pcs,0.00x0.00x0.00,0,?0.00,?56.00,?90.00,?80.00,61.00%
+MEDIHEAL MASK,N/A,I.P.I. Lightmax,N/A,N/A,Cosmetics/personal Care,facial mask,MEDIHEAL,10,1,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?80.00,?70.00,90.00%
+BAKING POWDER B.B DEEP CLEAMSING FOAM,N/A,30ML,N/A,N/A,Cosmetics/personal Care,Cleanser,ETUDE HOUSE,1,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?50.00,?50.00,?50.00,-100.00%
+BAKING POWDER B.B DEEP CLEAMSING FOAM,N/A,160ML,N/A,N/A,Cosmetics/personal Care,Cleanser,ETUDE HOUSE,1,1,54.00 pcs,54.00 pcs,0,0,54.00 pcs,54.00 pcs,0.00x0.00x0.00,0,?0.00,?280.00,?280.00,?280.00,-100.00%
+KILLING COVER MOISTURW CUSHION 2.0,21-LIGHT BEIGE,N/A,N/A,N/A,Cosmetics/personal Care,CUSHION,some by mi,1,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?780.00,?780.00,?780.00,0.00%
+KILLING COVER MOISTURW CUSHION 2.0,23-NATURAL BEIGE,N/A,N/A,N/A,Cosmetics/personal Care,CUSHION,some by mi,1,1,1.00 pcs,1.00 pcs,0,0,1.00 pcs,1.00 pcs,0.00x0.00x0.00,0,?0.00,?780.00,?780.00,?780.00,0.00%
+YUJA NIACIN BRIGHTENING SLEEPING MASK,N/A,N/A,N/A,N/A,Cosmetics/personal Care,SLEEPING MASK,some by mi,1,1,98.00 pcs,98.00 pcs,0,0,98.00 pcs,98.00 pcs,0.00x0.00x0.00,0,?0.00,?580.00,?580.00,?580.00,0.00%
+YUJA VITA MOISTURW LIP BALM,N/A,N/A,N/A,N/A,Cosmetics/personal Care,LIP BALM,some by mi,1,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?199.00,?199.00,?199.00,0.00%
+ALOE VERA 92% SOOTHING GEL,N/A,250ML,N/A,N/A,Cosmetics/personal Care,Soothing Gel ,Nature Perublic,1,1,1.00 pcs,1.00 pcs,0,0,1.00 pcs,1.00 pcs,0.00x0.00x0.00,0,?0.00,?180.00,?180.00,?180.00,0.00%
+Cover Perfection TIP CONCEALER,01-CLEAR BEIGE,N/A,N/A,N/A,Cosmetics/personal Care,CONCEALER,The saem,1,1,43.00 pcs,43.00 pcs,0,0,43.00 pcs,43.00 pcs,0.00x0.00x0.00,0,?0.00,?160.00,?160.00,?160.00,0.00%
+Cover Perfection TIP CONCEALER,1.25-LIGHT BEIGE,N/A,N/A,N/A,Cosmetics/personal Care,CONCEALER,The saem,1,1,44.00 pcs,44.00 pcs,0,0,44.00 pcs,44.00 pcs,0.00x0.00x0.00,0,?0.00,?160.00,?160.00,?160.00,0.00%
+Cover Perfection TIP CONCEALER,1.5-NATURAL BEIGE,N/A,N/A,N/A,Cosmetics/personal Care,CONCEALER,The saem,1,1,20.00 pcs,20.00 pcs,0,0,20.00 pcs,20.00 pcs,0.00x0.00x0.00,0,?0.00,?160.00,?160.00,?160.00,0.00%
+Cover Perfection TIP CONCEALER,1.75-MIDDLE BEIGE,N/A,N/A,N/A,Cosmetics/personal Care,CONCEALER,The saem,1,1,27.00 pcs,27.00 pcs,0,0,27.00 pcs,27.00 pcs,0.00x0.00x0.00,0,?0.00,?160.00,?160.00,?160.00,0.00%
+Cover Perfection TIP CONCEALER,02-RICH BEIGE,N/A,N/A,N/A,Cosmetics/personal Care,CONCEALER,The saem,1,1,52.00 pcs,52.00 pcs,0,0,52.00 pcs,52.00 pcs,0.00x0.00x0.00,0,?0.00,?160.00,?160.00,?160.00,0.00%
+Cover Perfection TIP CONCEALER,0.5-ICE BEIGE,N/A,N/A,N/A,Cosmetics/personal Care,CONCEALER,The saem,1,1,34.00 pcs,34.00 pcs,0,0,34.00 pcs,34.00 pcs,0.00x0.00x0.00,0,?0.00,?160.00,?160.00,?160.00,0.00%
+Cover Perfection TIP CONCEALER,Peach Beige,N/A,N/A,N/A,Cosmetics/personal Care,CONCEALER,The saem,1,1,14.00 pcs,14.00 pcs,0,0,14.00 pcs,14.00 pcs,0.00x0.00x0.00,0,?0.00,?160.00,?160.00,?160.00,0.00%
+Cover Perfection TIP CONCEALER,Contour Beige,N/A,N/A,N/A,Cosmetics/personal Care,CONCEALER,The saem,1,1,13.00 pcs,13.00 pcs,0,0,13.00 pcs,13.00 pcs,0.00x0.00x0.00,0,?0.00,?160.00,?160.00,?160.00,0.00%
+Cover Perfection TIP CONCEALER,Brightener beige,N/A,N/A,N/A,Cosmetics/personal Care,CONCEALER,The saem,1,1,14.00 pcs,14.00 pcs,0,0,14.00 pcs,14.00 pcs,0.00x0.00x0.00,0,?0.00,?160.00,?160.00,?160.00,0.00%
+Cover Perfection TIP CONCEALER,Green Beige,N/A,N/A,N/A,Cosmetics/personal Care,CONCEALER,The saem,1,1,13.00 pcs,13.00 pcs,0,0,13.00 pcs,13.00 pcs,0.00x0.00x0.00,0,?0.00,?160.00,?160.00,?160.00,0.00%
+4D MASCARA,N/A,N/A,N/A,N/A,Cosmetics/personal Care,MASCARA,Missha,1,1,9.00 pcs,9.00 pcs,0,0,9.00 pcs,9.00 pcs,0.00x0.00x0.00,0,?0.00,?78.00,?78.00,?78.00,0.00%
+The Ordinary Niacinamide 10%+zinc 1%,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Serum,The Ordinary ,1,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?510.00,?510.00,?510.00,0.00%
+ALOE VERA SOOTHING GEL MIST ,N/A,N/A,N/A,N/A,Cosmetics/personal Care,MIST,Nature Perublic,1,1,16.00 pcs,16.00 pcs,0,0,16.00 pcs,16.00 pcs,0.00x0.00x0.00,0,?0.00,?150.00,?150.00,?150.00,0.00%
+Face Mask Extender 3 Levels Adjust Mask Hook Ear No Pain Holder,Black,N/A,Face-Mask-Extender-3-Level-Ear-Saver-Black,N/A,Wearables,Mask Ear Saver,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?3.96,?79.00,?70.00,"1,895.00%"
+Face Mask Extender 3 Levels Adjust Mask Hook Ear No Pain Holder,White,N/A,Face-Mask-Extender-3-Level-Ear-Saver-White,N/A,Wearables,Mask Ear Saver,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?3.96,?79.00,?70.00,"1,895.00%"
+Face Mask Extender 3 Levels Adjust Mask Hook Ear No Pain Holder,Pink,N/A,Face-Mask-Extender-3-Level-Ear-Saver-Pink,N/A,Wearables,Mask Ear Saver,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?3.96,?79.00,?70.00,"1,895.00%"
+Haylou GT2,Black,N/A,Haylou-GT2-Black,N/A,Audio,Airbuds,Haylou,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?682.00,"?1,499.00","?1,490.00",120.00%
+Haylou Smart Watch LS01 SP,N/A,N/A,Haylou-Smart-Watch-SP,N/A,Wearables,Smart Watch,None,1,0,"1,000.00 pcs","1,000.00 box/s",0,0,"1,000.00 pcs","1,000.00 box/s",0.00x0.00x0.00,0,?0.00,?7.00,?39.00,?30.00,457.00%
+TONY LAB AC CONTROL SPOT PATCH,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Patch,TONYMOLY ,1,1,1.00 pcs,1.00 pcs,0,0,1.00 pcs,1.00 pcs,0.00x0.00x0.00,0,?0.00,?45.00,?45.00,?45.00,0.00%
+Haylou GT1 Plus,Black,N/A,Haylou-GT1-Plus-Black,N/A,Audio,Airbuds,Haylou,1,0,495.00 pcs,495.00 box/s,0,1,494.00 pcs,494.00 box/s,0.00x0.00x0.00,0,?0.00,?680.00,"?1,399.00","?1,390.00",106.00%
+AHA BHA PHA 30 DAYS MIRACLE ACNE CLEAR  FOAM,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Cleanser,some by mi,1,1,44.00 pcs,44.00 box/s,50,0,94.00 pcs,94.00 box/s,0.00x0.00x0.00,0,?0.00,?340.00,?340.00,?340.00,0.00%
+CENTELLA WATER ALCOHOL-FREE TONER,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Toner,cosrx,1,1,60.00 pcs,60.00 box/s,0,0,60.00 pcs,60.00 box/s,0.00x0.00x0.00,0,?0.00,?483.00,?483.00,?483.00,0.00%
+Haylou T15,Black,N/A,T15-Black,N/A,Audio,Airbuds,Haylou,1,0,5.00 pcs,5.00 box/s,0,0,5.00 pcs,5.00 box/s,0.00x0.00x0.00,0,?0.00,?701.00,"?1,299.00","?1,290.00",85.00%
+Two in One Poreless Power Liquid,N/A,N/A,N/A,N/A,Cosmetics/personal Care,N/A,cosrx,1,1,2.00 pcs,2.00 pcs,120,0,122.00 pcs,122.00 pcs,0.00x0.00x0.00,0,?0.00,?478.00,?478.00,?478.00,0.00%
+Cosrx Ultimate Moisturizing Honey Overnight Mask,N/A,N/A,N/A,N/A,Cosmetics/personal Care,SLEEPING MASK,cosrx,1,1,2.00 pcs,2.00 pcs,88,0,90.00 pcs,90.00 pcs,0.00x0.00x0.00,0,?0.00,?530.00,?530.00,?530.00,0.00%
+US/DB Airpods Case Cover 5pcs. Set,Black,N/A,N/A,N/A,earphone case,earphone case,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?42.00,?42.00,0.00%
+US/DB Airpods Case Cover 5pcs. Set,White,N/A,N/A,N/A,earphone case,earphone case,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?42.00,?42.00,0.00%
+US/DB Airpods Case Cover 5pcs. Set,Red,N/A,N/A,N/A,earphone case,earphone case,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?42.00,?42.00,0.00%
+US/DB Airpods Case Cover 5pcs. Set,Dark Blue,N/A,N/A,N/A,earphone case,earphone case,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?42.00,?42.00,0.00%
+US/DB Airpods Case Cover 5pcs. Set,Blue,N/A,N/A,N/A,earphone case,earphone case,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?42.00,?42.00,0.00%
+US/DB Airpods Case Cover 5pcs. Set,Purple,N/A,N/A,N/A,earphone case,earphone case,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?42.00,?42.00,0.00%
+US/DB Airpods Case Cover 5pcs. Set,Gray,N/A,N/A,N/A,earphone case,earphone case,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?42.00,?42.00,0.00%
+US/DB Airpods Case Cover 5pcs. Set,Pink,N/A,N/A,N/A,earphone case,earphone case,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?42.00,?42.00,0.00%
+US/DB Airpods Case Cover 5pcs. Set,Transparent,N/A,N/A,N/A,earphone case,earphone case,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?42.00,?42.00,0.00%
+US/DB Airpods Case Cover 5pcs. Set,Olive,N/A,N/A,N/A,earphone case,earphone case,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?42.00,?42.00,0.00%
+US/DB Airpods Case Cover 5pcs. Set,MInt Green,N/A,N/A,N/A,earphone case,earphone case,None,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?42.00,?42.00,?42.00,0.00%
+US/DB Aquapod GoPro Accessory,N/A,N/A,N/A,N/A,N/A,N/A,N/A,0,0,0.00 pcs,0.00 pcs,0,0,0.00 pcs,,0.00x0.00x0.00,0,?0.00,?270.00,?270.00,?270.00,0.00%
+US/DB AWEI N1,N/A,N/A,N/A,N/A,Audio,In-Ear Earphones,N/A,0,0,0.00 pcs,0.00 pcs,0,0,0.00 pcs,,0.00x0.00x0.00,0,?0.00,?230.00,?230.00,?230.00,0.00%
+US/DB Awei N3-Black,N/A,N/A,N/A,N/A,Audio,In-Ear Earphones,N/A,0,0,0.00 pcs,0.00 pcs,0,0,0.00 pcs,,0.00x0.00x0.00,0,?0.00,?230.00,?230.00,?230.00,0.00%
+US/DB Baseus Gravity Car Mount  Suyl,Gray,N/A,N/A,N/A,Phone holder,Car,Baseus,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?238.00,?238.00,?238.00,0.00%
+US/DB Baseus Gravity Car Mount  Suyl,Gold,N/A,N/A,N/A,Phone holder,Car,Baseus,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?238.00,?238.00,?238.00,0.00%
+AHA BHA PHA 30 Days Miracle Cleansing Bar,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Cleansing Bar,some by mi,1,1,49.00 pcs,49.00 pcs,0,0,49.00 pcs,49.00 pcs,0.00x0.00x0.00,0,?0.00,?275.00,?275.00,?275.00,0.00%
+Yuja Niacin 30 Days Blemish Care Serum 50ml,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Serum,some by mi,1,1,97.00 pcs,97.00 pcs,0,0,97.00 pcs,97.00 pcs,0.00x0.00x0.00,0,?0.00,?569.00,?569.00,?569.00,0.00%
+Snail Truecica Miracle Repair Serum,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Serum,some by mi,1,1,-2.00 pcs,-2.00 pcs,0,0,-2.00 pcs,-2.00 pcs,0.00x0.00x0.00,0,?0.00,?580.00,?580.00,?580.00,0.00%
+Miracle Repair Treatment 180g,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Treatment,some by mi,1,1,80.00 pcs,80.00 pcs,0,0,80.00 pcs,80.00 pcs,0.00x0.00x0.00,0,?0.00,?350.00,?350.00,?350.00,0.00%
+Perfect Clear Hair Removal Cream,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Removal ,some by mi,1,1,58.00 pcs,58.00 pcs,0,0,58.00 pcs,58.00 pcs,0.00x0.00x0.00,0,?0.00,?294.00,?294.00,?294.00,0.00%
+Soothing & Moisture Aloe Vera 80% Emulsion,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Emulsion,Nature Perublic,1,1,4.00 pcs,4.00 pcs,0,0,4.00 pcs,4.00 pcs,0.00x0.00x0.00,0,?0.00,?200.00,?200.00,?200.00,0.00%
+RYO damage care shampoo 180ml,N/A,N/A,N/A,N/A,Cosmetics/personal Care,SHAMPOO,RYO,1,1,6.00 pcs,6.00 pcs,0,0,6.00 pcs,6.00 pcs,0.00x0.00x0.00,0,?0.00,?79.00,?79.00,?79.00,0.00%
+US/DB KZ Oxygen Copper Cable,A no mic,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?66.00,?199.00,?150.00,202.00%
+US/DB KZ Oxygen Copper Cable,A w/mic,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?123.00,?199.00,?150.00,62.00%
+US/DB KZ Oxygen Copper Cable,B no mic,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?66.00,?199.00,?150.00,202.00%
+US/DB KZ Oxygen Copper Cable,B w/mic,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?123.00,?199.00,?150.00,62.00%
+US/DB KZ Oxygen Copper Cable,C no mic,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?66.00,?199.00,?150.00,202.00%
+US/DB KZ Oxygen Copper Cable,C w/mic,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?123.00,?199.00,?150.00,62.00%
+US/DB Haylou GT1,Black,N/A,N/A,N/A,Audio,Airbuds,Haylou,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?716.00,?899.00,?850.00,26.00%
+US/DB Haylou GT1,White,N/A,N/A,N/A,Audio,Airbuds,Haylou,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?706.00,?899.00,?850.00,27.00%
+US/DB Haylou GT1 Pro,Black,N/A,N/A,N/A,Audio,Airbuds,Haylou,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?870.00,?970.00,?900.00,11.00%
+US/DB Haylou Smart Watch LS01,Black,N/A,N/A,N/A,Wearables,Smart Watch,Haylou,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?957.00,"?1,399.00","?1,390.00",46.00%
+US/DB Haylou Smart Watch LS01,Silver,N/A,N/A,N/A,Wearables,Smart Watch,Haylou,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?957.00,"?1,399.00","?1,390.00",46.00%
+US/DB Honor Band 5,Black,N/A,N/A,N/A,Wearables,Smart Watch,Honor,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,160.00","?1,799.00","?1,700.00",55.00%
+US/DB Honor Band 5,Pink,N/A,N/A,N/A,Wearables,Smart Watch,Honor,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,160.00","?1,799.00","?1,700.00",55.00%
+US/DB Honor Band 5,Midnight Blue,N/A,N/A,N/A,Wearables,Smart Watch,Honor,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,160.00","?1,799.00","?1,700.00",55.00%
+US/DB Honor Band 5 Sport,Gray,N/A,N/A,N/A,Wearables,Smart Watch,Honor,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?810.00,"?1,299.00","?1,200.00",60.00%
+US/DB Honor Band 5 Sport,Pink,N/A,N/A,N/A,Wearables,Smart Watch,Honor,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?810.00,"?1,299.00","?1,200.00",60.00%
+US/DB KZ APTX Cable,A,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?422.00,?549.00,?500.00,30.00%
+US/DB KZ APTX Cable,B,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?422.00,?549.00,?500.00,30.00%
+US/DB KZ APTX Cable,C,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?422.00,?549.00,?500.00,30.00%
+US/DB KZ APTX-HD,B,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?721.00,?900.00,?850.00,25.00%
+US/DB KZ APTX-HD,C,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?721.00,?900.00,?850.00,25.00%
+US/DB KZ BT Cable,A,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,-1.00 pcs,-1.00 pcs,0,0,-1.00 pcs,-1.00 pcs,0.00x0.00x0.00,0,?0.00,?232.00,?359.00,?350.00,55.00%
+US/DB KZ BT Cable,B,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?232.00,?359.00,?350.00,55.00%
+US/DB ED4,Gray,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?186.90,?220.00,?210.00,18.00%
+US/DB ED4,Silver,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?186.90,?220.00,?210.00,18.00%
+US/DB ES4,Black,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?530.00,?699.00,?650.00,32.00%
+US/DB ES4,Blue,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?530.00,?699.00,?650.00,32.00%
+US/DB ES4,Green,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?530.00,?699.00,?650.00,32.00%
+US/DB HD9,WHITE NO MIC,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?99.00,?169.00,?150.00,71.00%
+US/DB KZ Silver Cable 3.5mm,A,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?231.00,?359.00,?300.00,55.00%
+US/DB ZS3,N/A,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,100,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?311.00,?389.00,?360.00,25.00%
+US/DB ZS6,Red,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,320.00","?1,450.00","?1,420.00",10.00%
+US/DB ZS6,Green,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,320.00","?1,450.00","?1,420.00",10.00%
+US/DB ZSE,N/A,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?230.00,?269.00,?250.00,17.00%
+US/DB ZSN PRO,Blue,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?531.00,?735.00,?700.00,38.00%
+US/DB ZSN PRO,Purple,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?531.00,?735.00,?700.00,38.00%
+US/DB ZSN PRO,Gray,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?531.00,?735.00,?700.00,38.00%
+US/DB KZ ZSR,Black,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?751.00,?748.00,?840.00,0.00%
+US/DB KZ ZSR,Red,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?751.00,?748.00,?840.00,0.00%
+US/DB ZST PRO,Black,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?520.00,?689.00,?650.00,33.00%
+US/DB ZST PRO,Purple,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 box/s,0,0,0.00 pcs,0.00 box/s,0.00x0.00x0.00,0,?0.00,?520.00,?689.00,?650.00,33.00%
+US/DB ZS10 Pro,Black,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,"?1,350.00","?1,839.00","?1,700.00",36.00%
+US/DB ZS10 Pro,Blue,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,"?1,350.00","?1,839.00","?1,700.00",36.00%
+US/DB ZS10 Pro,Purple,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,"?1,350.00","?1,839.00","?1,700.00",36.00%
+US/DB ZS10 Pro,Glare Blue,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,"?1,350.00","?1,839.00","?1,700.00",36.00%
+US/DB ZS10 Pro,Glare Gold,N/A,N/A,N/A,Audio,In-Ear Earphones,KZ,1,0,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,"?1,350.00","?1,839.00","?1,700.00",36.00%
+Haylou Solar Smart Watch LS05,Black,N/A,Haylou-Solar-Smart-Watch-Black,N/A,Wearables,Smart Watch,Haylou,1,0,293.00 pcs,293.00 box/s,0,0,293.00 pcs,293.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,193.00",?2.00,?1.50,-100.00%
+Haylou GT1 Pro Silicone Case w/ Hook,Black,N/A,GT1-Pro-Case-w/-Hook-Black,N/A,earphone case,earphone case,None,1,0,445.00 pcs,445.00 box/s,0,1,444.00 pcs,444.00 box/s,0.00x0.00x0.00,0,?0.00,?26.00,?129.00,?110.00,396.00%
+Haylou GT1 Pro Silicone Case w/ Hook,White,N/A,GT1-Pro-Case-w/-Hook-White,N/A,earphone case,earphone case,None,1,0,177.00 pcs,177.00 box/s,0,0,177.00 pcs,177.00 box/s,0.00x0.00x0.00,0,?0.00,?26.00,?129.00,?110.00,396.00%
+Haylou GT1 Pro Silicone Case w/ Hook,Red,N/A,GT1-Pro-Case-w/-Hook-Red,N/A,earphone case,earphone case,None,1,0,275.00 pcs,275.00 box/s,0,0,275.00 pcs,275.00 box/s,0.00x0.00x0.00,0,?0.00,?26.00,?129.00,?110.00,396.00%
+Haylou GT1 Pro Silicone Case w/ Hook,Sky Blue,N/A,GT1-Pro-Case-w/-Hook-SkyBlue,N/A,earphone case,earphone case,None,1,0,183.00 pcs,183.00 box/s,0,0,183.00 pcs,183.00 box/s,0.00x0.00x0.00,0,?0.00,?26.00,?129.00,?110.00,396.00%
+Haylou GT1 Pro Silicone Case w/ Hook,Midnight Blue,N/A,GT1-Pro-Case-w/-Hook-MidnightBlue,N/A,earphone case,earphone case,None,1,0,249.00 pcs,249.00 box/s,0,0,249.00 pcs,249.00 box/s,0.00x0.00x0.00,0,?0.00,?26.00,?129.00,?110.00,396.00%
+Haylou GT1 Pro Silicone Case w/ Hook,Dark Green,N/A,GT1-Pro-Case-w/-Hook-DarkGreen,N/A,earphone case,earphone case,None,1,0,253.00 pcs,253.00 box/s,0,1,252.00 pcs,252.00 box/s,0.00x0.00x0.00,0,?0.00,?26.00,?129.00,?110.00,396.00%
+Plextone G2,Black,N/A,Plextone-G2-Black,N/A,Audio,Headset,Plextone,1,0,171.00 pcs,171.00 box/s,0,0,171.00 pcs,171.00 box/s,0.00x0.00x0.00,0,?0.00,?482.00,?899.00,?890.00,87.00%
+Plextone G2,Red,N/A,Plextone-G2-Red,N/A,Audio,Headset,Plextone,1,0,25.00 pcs,25.00 box/s,150,0,175.00 pcs,175.00 box/s,0.00x0.00x0.00,0,?0.00,?482.00,?899.00,?890.00,87.00%
+Plextone G2,Green,N/A,Plextone-G2-Green,N/A,Audio,Headset,Plextone,1,0,23.00 pcs,23.00 box/s,50,0,73.00 pcs,73.00 box/s,0.00x0.00x0.00,0,?0.00,?482.00,?899.00,?890.00,87.00%
+Bone Conduction BT Headset A9,Black,N/A,Bone-Conduction-BT-Headset-A9-Black,N/A,Audio,Headset,Mifo,1,0,1.00 pcs,1.00 box/s,0,0,1.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?855.00,"?1,499.00","?1,490.00",75.00%
+Bone Conduction BT Headset A9,Red,N/A,Bone-Conduction-BT-Headset-A9-Red,N/A,Audio,Headset,Mifo,1,0,46.00 pcs,46.00 box/s,0,0,46.00 pcs,46.00 box/s,0.00x0.00x0.00,0,?0.00,?855.00,"?1,499.00","?1,490.00",75.00%
+AHA/BHA Clarifying Treatment Toner,N/A,N/A,Toner,N/A,Cosmetics/personal Care,Toner,cosrx,1,1,6.00 pcs,6.00 pcs,120,0,126.00 pcs,126.00 pcs,0.00x0.00x0.00,0,?0.00,?329.00,?329.00,?329.00,0.00%
+Advanced Snail 96 Mucin Power Essence,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Essence,cosrx,1,1,31.00 pcs,31.00 pcs,120,0,151.00 pcs,151.00 pcs,0.00x0.00x0.00,0,?0.00,?426.00,?426.00,?426.00,0.00%
+M Perfect Blanc BB ,#21 vanilla,N/A,N/A,N/A,Cosmetics/personal Care,BB Cream ,Missha,1,1,20.00 pcs,20.00 pcs,0,0,20.00 pcs,20.00 pcs,0.00x0.00x0.00,0,?0.00,?407.00,?407.00,?407.00,0.00%
+M Perfect Blanc BB ,#22 Beige,N/A,N/A,N/A,Cosmetics/personal Care,BB Cream ,Missha,1,1,22.00 pcs,22.00 pcs,0,0,22.00 pcs,22.00 pcs,0.00x0.00x0.00,0,?0.00,?407.00,?407.00,?407.00,0.00%
+M Perfect Blanc BB , #23 Sand,N/A,N/A,N/A,Cosmetics/personal Care,BB Cream ,Missha,1,1,19.00 pcs,19.00 pcs,0,0,19.00 pcs,19.00 pcs,0.00x0.00x0.00,0,?0.00,?407.00,?407.00,?407.00,0.00%
+Ultra Powerproof Liquid Eyeliner,Black,N/A,N/A,N/A,Cosmetics/personal Care,Eyeliner,Missha,1,1,38.00 pcs,38.00 pcs,0,0,38.00 pcs,38.00 pcs,0.00x0.00x0.00,0,?0.00,?241.00,?241.00,?241.00,0.00%
+Ultra Powerproof Liquid Eyeliner,Brown,N/A,N/A,N/A,Cosmetics/personal Care,Eyeliner,Missha,1,1,37.00 pcs,37.00 pcs,0,0,37.00 pcs,37.00 pcs,0.00x0.00x0.00,0,?0.00,?241.00,?241.00,?241.00,0.00%
+Aha/Bha/Pha 30 Days Miracle AC SOS KIT,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Kit SET,some by mi,1,1,15.00 pcs,15.00 pcs,150,0,165.00 pcs,165.00 pcs,0.00x0.00x0.00,0,?0.00,?538.00,?538.00,?538.00,0.00%
+Yuja Niacin 30 Days Brightening Starter Kit,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Kit SET,some by mi,1,1,24.00 pcs,24.00 pcs,100,0,124.00 pcs,124.00 pcs,0.00x0.00x0.00,0,?0.00,?544.00,?544.00,?544.00,0.00%
+Some By Mi 30 Days Miracle Clear Spot Patch,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Patch,some by mi,1,1,236.00 pcs,236.00 pcs,0,1,235.00 pcs,235.00 pcs,0.00x0.00x0.00,0,?0.00,?118.00,?118.00,?118.00,0.00%
+Xiaomi Mi Surface 34'' Curved Gaming Monitor Screen,N/A,34 Inches,Xiaomi-Mi-Surface-Curved-Gaming-Monitor-34'',N/A,Computer & Laptops,Monitor/Screen,Xiaomi,1,0,49.00 pcs,49.00 box/s,0,0,49.00 pcs,49.00 box/s,0.00x0.00x0.00,0,?0.00,"?14,819.00","?19,499.00","?19,490.00",32.00%
+Remax Infinite Wireless Charger RP-W10,Black,N/A,REMAX-WIRELESS-CHARGER-RP-W10-BLACK,N/A,Pnone Accessories,N/A,Remax,1,0,8.00 pcs,8.00 box/s,0,0,8.00 pcs,8.00 box/s,0.00x0.00x0.00,0,?0.00,?140.00,?359.00,?350.00,156.00%
+Bye Bye Blackhead 30 Days Green Tea Tox Bubble Cleanser,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Cleanser,some by mi,1,1,30.00 pcs,30.00 pcs,50,0,80.00 pcs,80.00 pcs,0.00x0.00x0.00,0,?0.00,?394.00,?394.00,?394.00,0.00%
+FIX 13PCS/SET Professional makeup Brushes Cosmetic Kit with pouch,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Makeup Brushes,FIX,1,1,29.00 pcs,29.00 pcs,0,0,29.00 pcs,29.00 pcs,0.00x0.00x0.00,0,?0.00,?150.00,?150.00,?150.00,0.00%
+brush washing brushegg,Pink,N/A,N/A,N/A,Cosmetics/personal Care,brush washing,None,1,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?7.00,?7.00,?7.00,-100.00%
+brush washing brushegg,Violet,N/A,N/A,N/A,Cosmetics/personal Care,brush washing,None,1,1,24.00 pcs,24.00 pcs,0,0,24.00 pcs,24.00 pcs,0.00x0.00x0.00,0,?0.00,?7.00,?7.00,?7.00,-100.00%
+brush washing brushegg,MInt Green,N/A,N/A,N/A,Cosmetics/personal Care,brush washing,None,1,1,39.00 pcs,39.00 pcs,0,0,39.00 pcs,39.00 pcs,0.00x0.00x0.00,0,?0.00,?7.00,?7.00,?7.00,-100.00%
+Champagne solid wood brush rod Professional makeup Brushes Cosmetic Kit with BAG,N/A,18PCS/SET,N/A,N/A,Cosmetics/personal Care,Makeup Brushes,None,1,1,30.00 pcs,30.00 pcs,0,0,30.00 pcs,30.00 pcs,0.00x0.00x0.00,0,?0.00,?164.00,?164.00,?164.00,0.00%
+grapelet Professional makeup Brushes Cosmetic Kit ,N/A,with bag,N/A,N/A,Cosmetics/personal Care,Makeup Brushes,None,1,1,30.00 pcs,30.00 pcs,30,0,60.00 pcs,60.00 pcs,0.00x0.00x0.00,0,?0.00,?220.00,?220.00,?220.00,0.00%
+grapelet Professional makeup Brushes Cosmetic Kit ,N/A,without bag,N/A,N/A,Cosmetics/personal Care,Makeup Brushes,None,1,1,23.00 pcs,23.00 pcs,100,0,123.00 pcs,123.00 pcs,0.00x0.00x0.00,0,?0.00,?150.00,?150.00,?150.00,0.00%
+Microhoo Mini Air-Conditioner fan,White,N/A,Microhoo-Mini-Air-Conditioner-Fan-White,N/A,Appliances,Mini Appliances,Xiaomi,1,0,79.00 pcs,79.00 box/s,0,0,79.00 pcs,79.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,071.00","?2,599.00","?2,500.00",143.00%
+Xiaomi Mijia Dove Automatic Foam Cleansing Machine,N/A,N/A,N/A,N/A,Electronic Device,Automatic Soap Dispenser,Xiaomi,1,0,47.00 pcs,47.00 box/s,0,0,47.00 pcs,47.00 box/s,0.00x0.00x0.00,0,?0.00,?573.00,"?1,599.00","?1,590.00",179.00%
+Xiaomi Mijia Handwashing Amino Acid Fluid Refill,Pink,N/A,Xiaomi-Mijia-Handwashing-Amino-Acid-Fluid-Pink,N/A,Electronic Device,Automatic Soap Dispenser,Xiaomi,1,0,34.00 pcs,34.00 box/s,50,0,84.00 pcs,84.00 box/s,0.00x0.00x0.00,0,?0.00,?262.00,?599.00,?590.00,129.00%
+Xiaomi Handwashing Antibacterial fluid refill,White,N/A,Xiaomi-Mijia-Handwashing-Anti-Bacterial-Fluid-White,N/A,Electronic Device,Automatic Soap Dispenser,Xiaomi,1,0,59.00 pcs,59.00 box/s,100,1,158.00 pcs,158.00 box/s,0.00x0.00x0.00,0,?0.00,?256.00,?599.00,?590.00,134.00%
+Etude House Baking Powder Pore Cleansing Foam,N/A,30ML,N/A,N/A,Cosmetics/personal Care,Cleanser,ETUDE HOUSE,1,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?50.00,?50.00,?50.00,0.00%
+Etude House Baking Powder Pore Cleansing Foam,N/A,160ML,N/A,N/A,Cosmetics/personal Care,Cleanser,ETUDE HOUSE,1,1,63.00 pcs,63.00 pcs,0,0,63.00 pcs,63.00 pcs,0.00x0.00x0.00,0,?0.00,?265.00,?265.00,?265.00,0.00%
+Kotion Each G2000,Black Blue,N/A,Kotion-Each-G2000-BlackBlue,N/A,Audio,Headset,Kotion Each,1,0,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?468.00,?799.00,?790.00,71.00%
+Kotion Each G2000,Black Red,N/A,Kotion-Each-G2000-BlackRed,N/A,Audio,Headset,Kotion Each,1,0,1.00 pcs,1.00 pcs,0,0,1.00 pcs,1.00 pcs,0.00x0.00x0.00,0,?0.00,?468.00,?799.00,?790.00,71.00%
+Mi Band 5,Black,N/A,MB5-Black,N/A,Wearables,Smart Watch,Xiaomi,1,0,695.00 pcs,695.00 box/s,"1,100.00",2,"1,793.00 pcs","1,793.00 box/s",0.00x0.00x0.00,0,?0.00,"?1,231.00","?1,799.00","?1,790.00",46.00%
+Mi Band 5 SP,N/A,N/A,MB5-SP,N/A,Wearables,Smart Watch,None,1,0,"2,500.00 pcs","2,500.00 pcs","5,000.00",2,"7,498.00 pcs","7,498.00 pcs",0.00x0.00x0.00,0,?0.00,?5.00,?39.00,?35.00,680.00%
+Jeju Aloe Ice Refreshing Soothing Gel,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Soothing Gel ,The Face Shop,1,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?215.00,?215.00,?215.00,0.00%
+Nexstand K7,Black,N/A,Nexstand-K7-Black,N/A,Computer & Laptops,Stand/holder,Nexstand,1,0,167.00 pcs,167.00 box/s,0,1,166.00 pcs,166.00 box/s,0.00x0.00x0.00,0,?0.00,?197.00,?399.00,?390.00,103.00%
+Vicco Organics Extra Virgin Coconut Oil,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Spot Oil,None,1,1,13.00 pcs,13.00 pcs,50,0,63.00 pcs,63.00 pcs,0.00x0.00x0.00,0,?0.00,?170.00,?295.00,?295.00,74.00%
+Vicco Organics Virgin Coconut Unscented Oatmeal Soap,N/A,N/A,N/A,N/A,Cosmetics/personal Care,N/A,N/A,1,1,6.00 pcs,6.00 pcs,0,0,6.00 pcs,6.00 pcs,0.00x0.00x0.00,0,?0.00,?110.00,?110.00,?110.00,0.00%
+Xiaomi Enchen boost clipper with set,Black,N/A,Xiaomi-Enchen-Boost- with scissors shawl-set,N/A,Electronic Device,Portable Shaver,N/A,1,0,19.00 pcs,19.00 box/s,0,1,18.00 pcs,18.00 box/s,0.00x0.00x0.00,0,?0.00,?384.00,?699.00,?690.00,82.00%
+Xiaomi Enchen boost clipper with set,White,N/A,Xiaomi-Enchen-Boost-with scissors shawl-set,N/A,Electronic Device,Portable Shaver,N/A,1,0,129.00 pcs,129.00 box/s,0,2,127.00 pcs,127.00 box/s,0.00x0.00x0.00,0,?0.00,?384.00,?699.00,?690.00,82.00%
+Fast Charge Wireless Charger,Black,N/A,Fast-Charge-Wireless-Charger-Black,N/A,Pnone Accessories,N/A,None,1,0,"4,639.00 pcs","4,639.00 box/s",0,0,"4,639.00 pcs","4,639.00 box/s",0.00x0.00x0.00,0,?0.00,?120.00,?199.00,?190.00,66.00%
+Honor Choice MOECEN TWS Earbuds X1,White,N/A,Honor-Choice-MOECEN-Earbuds-X1-White,N/A,Audio,Airbuds,Honor,1,0,957.00 pcs,957.00 box/s,0,0,957.00 pcs,957.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,250.00","?1,799.00","?1,700.00",44.00%
+COSRX Aloe Vera Oil-free Moisture Cream,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Cream,cosrx,1,1,1.00 pcs,1.00 pcs,0,0,1.00 pcs,1.00 pcs,0.00x0.00x0.00,0,?0.00,?552.00,?552.00,?552.00,0.00%
+Mi Band 5 Silicone Strap,Black,N/A,MB5-SILICONE-STRAP-BLACK,N/A,Wearables,Smart Watch,None,1,0,403.00 pcs,403.00 box/s,0,0,403.00 pcs,403.00 box/s,0.00x0.00x0.00,0,?0.00,?14.00,?139.00,?120.00,893.00%
+Mi Band 5 Silicone Strap,White,N/A,MB5-SILICONE-STRAP-WHITE,N/A,Wearables,Smart Watch,None,1,0,"2,979.00 pcs","2,979.00 box/s","3,000.00",0,"5,979.00 pcs","5,979.00 box/s",0.00x0.00x0.00,0,?0.00,?14.00,?139.00,?120.00,893.00%
+Mi Band 5 Silicone Strap,Red,N/A,MB5-SILICONE-STRAP-RED,N/A,Wearables,Smart Watch,None,1,0,270.00 pcs,270.00 box/s,300,0,570.00 pcs,570.00 box/s,0.00x0.00x0.00,0,?0.00,?14.00,?139.00,?120.00,893.00%
+Mi Band 5 Silicone Strap,Green,N/A,MB5-SILICONE-STRAP-GREEN,N/A,Wearables,Smart Watch,None,1,0,155.00 pcs,155.00 box/s,400,0,555.00 pcs,555.00 box/s,0.00x0.00x0.00,0,?0.00,?14.00,?139.00,?120.00,893.00%
+Mi Band 5 Silicone Strap,Yellow,N/A,MB5-SILICONE-STRAP-YELLOW,N/A,Wearables,Smart Watch,None,1,0,254.00 pcs,254.00 box/s,300,1,553.00 pcs,553.00 box/s,0.00x0.00x0.00,0,?0.00,?14.00,?139.00,?120.00,893.00%
+Mi Band 5 Silicone Strap,Gray,N/A,MB5-SILICONE-STRAP-GRAY,N/A,Wearables,Smart Watch,None,1,0,182.00 pcs,182.00 box/s,200,0,382.00 pcs,382.00 box/s,0.00x0.00x0.00,0,?0.00,?14.00,?139.00,?120.00,893.00%
+Mi Band 5 Silicone Strap,Pink,N/A,MB5-SILICONE-STRAP-PINK,N/A,Wearables,Smart Watch,None,1,0,244.00 pcs,244.00 box/s,300,0,544.00 pcs,544.00 box/s,0.00x0.00x0.00,0,?0.00,?14.00,?139.00,?120.00,893.00%
+Mi Band 5 Silicone Strap,Lavender,N/A,MB5-SILICONE-STRAP-LAVENDER,N/A,Wearables,Smart Watch,None,1,0,216.00 pcs,216.00 box/s,200,0,416.00 pcs,416.00 box/s,0.00x0.00x0.00,0,?0.00,?14.00,?139.00,?120.00,893.00%
+Mi Band 5 Silicone Strap,Midnight Blue,N/A,MB5-SILICONE-STRAP-MIDNIGHT-BLUE,N/A,Wearables,Smart Watch,None,1,0,"2,939.00 pcs","2,939.00 box/s","3,000.00",1,"5,938.00 pcs","5,938.00 box/s",0.00x0.00x0.00,0,?0.00,?14.00,?139.00,?120.00,893.00%
+Mi Band 5 Silicone Strap,Wine Red,N/A,MB5-SILICONE-STRAP-WINE-RED,N/A,Wearables,Smart Watch,None,1,0,210.00 pcs,210.00 box/s,300,0,510.00 pcs,510.00 box/s,0.00x0.00x0.00,0,?0.00,?14.00,?139.00,?120.00,893.00%
+Mi TV Stick,Black,N/A,Mi-TV-Stick-Black,N/A,Electronic Device,N/A,Xiaomi,1,0,274.00 pcs,274.00 box/s,0,0,274.00 pcs,274.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,564.00","?1,699.00","?1,690.00",9.00%
+Galactomyces Alcohol-Free Toner,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Toner,cosrx,1,1,-1.00 pcs,-1.00 pcs,0,0,-1.00 pcs,-1.00 pcs,0.00x0.00x0.00,0,?0.00,?315.00,?315.00,?315.00,0.00%
+Oil Free Ultra Moisturizing Lotion,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Lotion,cosrx,1,1,117.00 pcs,117.00 pcs,0,0,117.00 pcs,117.00 pcs,0.00x0.00x0.00,0,?0.00,?475.00,?475.00,?475.00,0.00%
+AHA 7 Whitehead Power Liquid,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Toner,cosrx,1,1,108.00 pcs,108.00 pcs,0,0,108.00 pcs,108.00 pcs,0.00x0.00x0.00,0,?0.00,?390.00,?390.00,?390.00,0.00%
+Centella Blemish Ampule,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Ampule,cosrx,1,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?580.00,?580.00,?580.00,0.00%
+Propolis Light Ampule,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Ampule,cosrx,1,1,69.00 pcs,69.00 pcs,0,0,69.00 pcs,69.00 pcs,0.00x0.00x0.00,0,?0.00,?580.00,?580.00,?580.00,0.00%
+ Aloe Vera Oli-free Moisture Cream,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Cream,cosrx,1,1,-2.00 pcs,-2.00 pcs,0,0,-2.00 pcs,-2.00 pcs,0.00x0.00x0.00,0,?0.00,?400.00,?400.00,?400.00,0.00%
+Cooling Aqua Facial Mist,N/A,N/A,N/A,N/A,Cosmetics/personal Care,MIST,cosrx,1,1,0.00 pcs,0.00 pcs,0,0,0.00 pcs,0.00 pcs,0.00x0.00x0.00,0,?0.00,?300.00,?300.00,?300.00,0.00%
+AHA/BHA/PHA 30days miracle acne clear body cleanser ,N/A,N/A,N/A,N/A,Cosmetics/personal Care,body cleanser ,some by mi,1,1,19.00 pcs,19.00 pcs,20,0,39.00 pcs,39.00 pcs,0.00x0.00x0.00,0,?0.00,?355.00,?355.00,?355.00,0.00%
+RED TEATREE CICASSOSIDE FINAL SOLUTION SERUM,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Serum,some by mi,1,1,92.00 pcs,92.00 pcs,0,0,92.00 pcs,92.00 pcs,0.00x0.00x0.00,0,?0.00,?450.00,?450.00,?450.00,0.00%
+Xiaomi Mijia iHealth Thermometer,N/A,N/A,Xiaomi-Mijia-iHealth-Thermometer,N/A,N/A,N/A,Xiaomi,1,1,4.00 pcs,4.00 box/s,0,0,4.00 pcs,4.00 box/s,0.00x0.00x0.00,0,?0.00,?813.00,"?1,200.00","?1,000.00",48.00%
+Plextone GS3,Black,N/A,Plextone-GS3-Black,N/A,Audio,Sound Card For PC,Plextone,1,0,881.00 pcs,881.00 box/s,0,6,875.00 pcs,875.00 box/s,0.00x0.00x0.00,0,?0.00,?188.00,?449.00,?400.00,139.00%
+Haylou Smart Watch LS02,Black,N/A,Haylou-Smart-Watch-LS02-Black,N/A,Wearables,Smart Watch,Haylou,1,0,"1,705.00 pcs","1,705.00 box/s",0,1,"1,704.00 pcs","1,704.00 box/s",0.00x0.00x0.00,0,?0.00,?825.00,"?1,399.00","?1,390.00",70.00%
+foundation brush-flat,Rose Gold,N/A,N/A,N/A,Cosmetics/personal Care,Makeup Brushes,None,1,1,200.00 pcs,200.00 pcs,0,0,200.00 pcs,200.00 pcs,0.00x0.00x0.00,0,?0.00,?15.00,?15.00,?15.00,0.00%
+ANLUD Webcam,N/A,N/A,GH-ANLUD-CAMERA,N/A,Electronic Device,Security Cameras,ANLUD,0,1,165.00 pcs,0.00 box/s,0,0,165.00 pcs,,0.00x0.00x0.00,0,?0.00,?467.00,?929.00,?900.00,99.00%
+Gekkopod mini octopus mobile phone  bluetooth selfie stand,Blue,N/A,GH-ROOSTAND-Gekkopod-Blue,N/A,Camera Accessories,N/A,ROOSTAND,1,1,50.00 pcs,50.00 box/s,0,0,50.00 pcs,50.00 box/s,0.00x0.00x0.00,0,?0.00,?358.00,?400.00,?380.00,12.00%
+Gekkopod mini octopus mobile phone  bluetooth selfie stand,Green,N/A,GH-ROOSTAND-Gekkopod-Green,N/A,Camera Accessories,N/A,ROOSTAND,1,1,49.00 pcs,49.00 box/s,0,0,49.00 pcs,49.00 box/s,0.00x0.00x0.00,0,?0.00,?358.00,?400.00,?380.00,12.00%
+Gekkopod mini octopus mobile phone  bluetooth selfie stand,Purple,N/A,GH-ROOSTAND-Gekkopod-Purple,N/A,Camera Accessories,N/A,ROOSTAND,1,1,50.00 pcs,50.00 box/s,0,0,50.00 pcs,50.00 box/s,0.00x0.00x0.00,0,?0.00,?358.00,?400.00,?380.00,12.00%
+Gekkopod mini octopus mobile phone  bluetooth selfie stand,Pink,N/A,GH-ROOSTAND-Gekkopod-Pink,N/A,Camera Accessories,N/A,ROOSTAND,1,1,50.00 pcs,50.00 box/s,0,0,50.00 pcs,50.00 box/s,0.00x0.00x0.00,0,?0.00,?358.00,?400.00,?380.00,12.00%
+Gekkopod mini octopus mobile phone  bluetooth selfie stand, 01 Black,N/A,GH-ROOSTAND-Gekkopod-Black,N/A,Camera Accessories,N/A,ROOSTAND,1,1,100.00 pcs,100.00 box/s,0,0,100.00 pcs,100.00 box/s,0.00x0.00x0.00,0,?0.00,?358.00,?400.00,?380.00,12.00%
+Wonder Pore Freshner,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Toner,ETUDE HOUSE,1,1,29.00 pcs,29.00 pcs,0,0,29.00 pcs,29.00 pcs,0.00x0.00x0.00,0,?0.00,?211.00,?211.00,?211.00,0.00%
+Redmi Airdots 2,Black,N/A,GH-REDMIAIRDOTS2-BLK,6934177708,Audio,Airbuds,Xiaomi,100,200,178.00 pcs,1.78 box/s,"1,000.00",7,"1,171.00 pcs",11.71 box/s,0.00x0.00x0.00,0,?0.00,?636.00,?958.00,?940.00,51.00%
+Xiaomi Redmi TV Speaker,Black,N/A,RedMi-speaker-Black,N/A,Audio,Bluetooth Speaker,Xiaomi,1,1,100.00 pcs,100.00 box/s,0,0,100.00 pcs,100.00 box/s,0.00x0.00x0.00,0,?0.00,"?1,125.00","?1,600.00","?1,600.00",42.00%
+Mijobs NFC V-shaped Strap for Mi Band 5,Black,N/A,NFC-STRAP-MB5-16MM-BLACK,N/A,Wearables,Watch,Mijobs,1,0,0.00 pcs,0.00 box/s,200,0,200.00 pcs,200.00 box/s,0.00x0.00x0.00,0,?0.00,?267.00,?379.00,?350.00,42.00%
+Mijobs NFC V-shaped Strap for Mi Band 5,Blue,N/A,NFC-STRAP-MB5-16MM-BLUE,N/A,Wearables,Watch,Mijobs,1,0,0.00 pcs,0.00 box/s,50,0,50.00 pcs,50.00 box/s,0.00x0.00x0.00,0,?0.00,?289.00,?379.00,?350.00,31.00%
+Mijobs NFC V-shaped Strap for Mi Band 5,Purple,N/A,NFC-STRAP-MB5-16MM-PURPLE,N/A,Wearables,Watch,Mijobs,1,0,0.00 pcs,0.00 box/s,50,0,50.00 pcs,50.00 box/s,0.00x0.00x0.00,0,?0.00,?289.00,?379.00,?350.00,31.00%
+Mijobs NFC V-shaped Strap for Mi Band 5,Silver,N/A,NFC-STRAP-MB5-16MM-SILVER,N/A,Wearables,Watch,Mijobs,1,0,100.00 pcs,100.00 box/s,100,0,200.00 pcs,200.00 box/s,0.00x0.00x0.00,0,?0.00,?247.00,?379.00,?350.00,53.00%
+Mijobs NFC V-shaped Strap for Mi Band 5,Gold,N/A,NFC-STRAP-MB5-16MM-GOLD,N/A,Wearables,Watch,Mijobs,1,0,100.00 pcs,100.00 box/s,0,0,100.00 pcs,100.00 box/s,0.00x0.00x0.00,0,?0.00,?282.00,?379.00,?350.00,34.00%
+Mijobs NFC V-shaped Strap for Mi Band 5,Rose Gold,N/A,NFC-STRAP-MB5-16MM-R.GOLD,N/A,Wearables,Watch,Mijobs,1,0,0.00 pcs,0.00 box/s,100,0,100.00 pcs,100.00 box/s,0.00x0.00x0.00,0,?0.00,?282.00,?379.00,?350.00,34.00%
+Mi Band 3/4/5 Double Color Silicone Strap,Black/Grey,N/A,N/A,N/A,Wearables,Watch,None,1,0,200.00 pcs,200.00 box/s,0,0,200.00 pcs,200.00 box/s,0.00x0.00x0.00,0,?0.00,?50.00,?80.00,?60.00,60.00%
+Mi Band 3/4/5 Double Color Silicone Strap,Black/WineRed,N/A,N/A,N/A,Wearables,Watch,None,1,0,100.00 pcs,100.00 box/s,0,0,100.00 pcs,100.00 box/s,0.00x0.00x0.00,0,?0.00,?50.00,?80.00,?60.00,60.00%
+Mi Band 3/4/5 Double Color Silicone Strap,Yellow/Grey,N/A,N/A,N/A,Wearables,Watch,None,1,0,100.00 pcs,100.00 box/s,0,0,100.00 pcs,100.00 box/s,0.00x0.00x0.00,0,?0.00,?50.00,?80.00,?60.00,60.00%
+Mi Band 3/4/5 Double Color Silicone Strap,Black/SkyBlue,N/A,N/A,N/A,Wearables,Watch,None,1,0,100.00 pcs,100.00 box/s,0,0,100.00 pcs,100.00 box/s,0.00x0.00x0.00,0,?0.00,?50.00,?80.00,?60.00,60.00%
+Mi Band 3/4/5 Double Color Silicone Strap,Black/DarkGreen,N/A,N/A,N/A,Wearables,Watch,None,1,0,100.00 pcs,100.00 box/s,0,0,100.00 pcs,100.00 box/s,0.00x0.00x0.00,0,?0.00,?50.00,?80.00,?60.00,60.00%
+Mi Band 3/4/5 Double Color Silicone Strap,Grey/MidnightBlue,N/A,N/A,N/A,Wearables,Watch,None,1,0,100.00 pcs,100.00 box/s,0,0,100.00 pcs,100.00 box/s,0.00x0.00x0.00,0,?0.00,?50.00,?80.00,?60.00,60.00%
+Mi Band 3/4/5 Double Color Silicone Strap,Purple/Grey,N/A,N/A,N/A,Wearables,Watch,None,1,0,100.00 pcs,100.00 box/s,0,0,100.00 pcs,100.00 box/s,0.00x0.00x0.00,0,?0.00,?50.00,?80.00,?60.00,60.00%
+Mi Band 3/4/5 Double Color Silicone Strap,Orange/MidnightBlue,N/A,N/A,N/A,Wearables,Watch,None,1,0,100.00 pcs,100.00 box/s,0,0,100.00 pcs,100.00 box/s,0.00x0.00x0.00,0,?0.00,?50.00,?80.00,?60.00,60.00%
+Mi Band 3/4/5 Double Color Silicone Strap,Black/Yellow,N/A,N/A,N/A,Wearables,Watch,None,1,0,150.00 pcs,150.00 box/s,0,0,150.00 pcs,150.00 box/s,0.00x0.00x0.00,0,?0.00,?50.00,?80.00,?60.00,60.00%
+Mi Band 3/4/5 Double Color Silicone Strap,Black/Red,N/A,N/A,N/A,Wearables,Watch,None,1,0,200.00 pcs,200.00 box/s,0,0,200.00 pcs,200.00 box/s,0.00x0.00x0.00,0,?0.00,?50.00,?80.00,?60.00,60.00%
+Mi Band 5 Magnetic Charging Cable,Black,N/A,MB5-CHARGING-CABLE,N/A,Wearables,Smart Watch,Xiaomi,1,0,500.00 pcs,500.00 box/s,0,0,500.00 pcs,500.00 box/s,0.00x0.00x0.00,0,?0.00,?28.00,?99.00,?85.00,254.00%
+HayLou LS02 Silicone Strap,Black,N/A,LS02-SILICONE-STRAP-BLACK,N/A,Wearables,Smart Watch,None,1,0,200.00 pcs,200.00 box/s,0,0,200.00 pcs,200.00 box/s,0.00x0.00x0.00,0,?0.00,?33.00,?60.00,?40.00,82.00%
+HayLou LS02 Silicone Strap,White,N/A,LS02-SILICONE-STRAP-White,N/A,Wearables,Smart Watch,None,1,0,"3,000.00 pcs","3,000.00 box/s",0,0,"3,000.00 pcs","3,000.00 box/s",0.00x0.00x0.00,0,?0.00,?33.00,?60.00,?40.00,82.00%
+HayLou LS02 Silicone Strap,Red,N/A,LS02-SILICONE-STRAP-Red,N/A,Wearables,Smart Watch,None,1,0,200.00 pcs,200.00 box/s,0,0,200.00 pcs,200.00 box/s,0.00x0.00x0.00,0,?0.00,?33.00,?60.00,?40.00,82.00%
+HayLou LS02 Silicone Strap,Cyan,N/A,LS02-SILICONE-STRAP-Cyan,N/A,Wearables,Smart Watch,None,1,0,100.00 pcs,100.00 box/s,0,0,100.00 pcs,100.00 box/s,0.00x0.00x0.00,0,?0.00,?33.00,?60.00,?40.00,82.00%
+HayLou LS02 Silicone Strap,Gray,N/A,LS02-SILICONE-STRAP-GRAY,N/A,Wearables,Smart Watch,None,1,0,200.00 pcs,200.00 box/s,0,0,200.00 pcs,200.00 box/s,0.00x0.00x0.00,0,?0.00,?33.00,?60.00,?40.00,82.00%
+HayLou LS02 Silicone Strap,Pink,N/A,LS02-SILICONE-STRAP-Pink,N/A,Wearables,Smart Watch,None,1,0,100.00 pcs,100.00 box/s,0,0,100.00 pcs,100.00 box/s,0.00x0.00x0.00,0,?0.00,?33.00,?60.00,?40.00,82.00%
+HayLou LS02 Silicone Strap,Orange,N/A,LS02-SILICONE-STRAP-Orange,N/A,Wearables,Smart Watch,None,1,0,100.00 pcs,100.00 box/s,0,0,100.00 pcs,100.00 box/s,0.00x0.00x0.00,0,?0.00,?33.00,?60.00,?40.00,82.00%
+HayLou LS02 Silicone Strap,Midnight Blue,N/A,LS02-SILICONE-STRAP-MIDNIGHTNAVY,N/A,Wearables,Smart Watch,None,1,0,200.00 pcs,200.00 box/s,0,0,200.00 pcs,200.00 box/s,0.00x0.00x0.00,0,?0.00,?33.00,?60.00,?40.00,82.00%
+QCY M10, 01 Black,N/A,QCY-M10,N/A,Audio,Airbuds,QCY,1,1,69.00 pcs,69.00 box/s,0,0,69.00 pcs,69.00 box/s,0.00x0.00x0.00,0,?0.00,?541.00,?600.00,?600.00,11.00%
+COSRX Ultimate Nourishing Rice Spa Overnight Mask,N/A,N/A,N/A,N/A,Cosmetics/personal Care,SLEEPING MASK,cosrx,1,1,0.00 pcs,0.00 pcs,88,0,88.00 pcs,88.00 pcs,0.00x0.00x0.00,0,?0.00,?367.00,?367.00,?367.00,0.00%
+MIRACCLE GREEN TEA TOX BUBLE CLEANSER,N/A,N/A,N/A,N/A,Cosmetics/personal Care,CONCEALER,some by mi,1,1,0.00 pcs,0.00 pcs,100,0,100.00 pcs,100.00 pcs,0.00x0.00x0.00,0,?0.00,?325.00,?325.00,?325.00,0.00%
+RED TEATREE CICASSOSIDE FINAL SOLUTION TONER,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Toner,some by mi,50,1,0.00 pcs,0.00 box/s,50,0,50.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?350.00,?350.00,?350.00,0.00%
+Sabbat vooplay-100,Cereal,N/A,Sabbat-vooplay100-Cereal,N/A,Audio,Airbuds,Sabbat,30,1,76.00 pcs,2.53 box/s,0,0,76.00 pcs,2.53 box/s,0.00x0.00x0.00,0,?0.00,"?1,623.00","?1,800.00","?1,600.00",11.00%
+Sabbat vooplay-100,Lynn,N/A,Sabbat-vooplay100-Lynn,N/A,Audio,Airbuds,Sabbat,30,1,75.00 pcs,2.50 box/s,0,0,75.00 pcs,2.50 box/s,0.00x0.00x0.00,0,?0.00,"?1,623.00","?1,800.00","?1,600.00",11.00%
+Sabbat vooplay-100,Reef,N/A,Sabbat-vooplay100-Reef,N/A,Audio,Airbuds,Sabbat,30,1,71.00 pcs,2.37 box/s,0,0,71.00 pcs,2.37 box/s,0.00x0.00x0.00,0,?0.00,"?1,623.00","?1,800.00","?1,600.00",11.00%
+Sabbat vooplay-100,Shadow,N/A,Sabbat-vooplay100-Shadow,N/A,Audio,Airbuds,Sabbat,30,1,92.00 pcs,3.07 box/s,0,0,92.00 pcs,3.07 box/s,0.00x0.00x0.00,0,?0.00,"?1,623.00","?1,800.00","?1,600.00",11.00%
+Sabbat vooplay-100,Glacier,N/A,Sabbat-vooplay100-Glacier,N/A,Audio,Airbuds,Sabbat,30,1,97.00 pcs,3.23 box/s,0,0,97.00 pcs,3.23 box/s,0.00x0.00x0.00,0,?0.00,"?1,623.00","?1,800.00","?1,600.00",11.00%
+Sabbat vooplay-100,Moss,N/A,Sabbat-vooplay100-Moss,N/A,Audio,Airbuds,Sabbat,30,1,62.00 pcs,2.07 box/s,0,0,62.00 pcs,2.07 box/s,0.00x0.00x0.00,0,?0.00,"?1,623.00","?1,800.00","?1,600.00",11.00%
+XiaoMi Air Cleaner Purifier Filter,Blue,N/A,XiaoMi-Purifier Filter-Air Cleaner-Blue,N/A,Electronic Device,Air Purifier,Xiaomi,1,1,0.00 pcs,0.00 box/s,48,0,48.00 pcs,48.00 box/s,0.00x0.00x0.00,0,?0.00,?821.34,"?1,499.00","?1,200.00",83.00%
+XiaoMi Air Anti-Bacterial Purifier Filter,Purple,N/A,XiaoMi-Purifier Filter-Air Anti-Bacterial-Purple,N/A,Electronic Device,Air Purifier,Xiaomi,1,0,0.00 pcs,0.00 box/s,48,0,48.00 pcs,48.00 box/s,0.00x0.00x0.00,0,?0.00,?947.70,"?1,499.00","?1,200.00",58.00%
+Yuja Niacin Brightening Toner 150ml,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Toner,some by mi,50,1,0.00 pcs,0.00 box/s,50,0,50.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?365.00,?365.00,?365.00,0.00%
+REAL CICA 92% COOL CALMING SOOTHING GEL,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Soothing Gel ,some by mi,60,1,0.00 pcs,0.00 pcs,60,0,60.00 pcs,1.00 pcs,0.00x0.00x0.00,0,?0.00,?275.00,?275.00,?275.00,0.00%
+BANILA CO SKIN CARE NOURISHING KIT,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Kit SET,BANILA CO,1,1,0.00 pcs,0.00 pcs,60,0,60.00 pcs,60.00 pcs,0.00x0.00x0.00,0,?0.00,?175.00,?175.00,?175.00,0.00%
+BANILA CO CLEAN IT ZERO SPECIAL KIT,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Kit SET,BANILA CO,1,1,0.00 pcs,0.00 pcs,100,0,100.00 pcs,100.00 pcs,0.00x0.00x0.00,0,?0.00,?165.00,?165.00,?165.00,0.00%
+BANILA CO CLEAN IT ZERO SPECIAL DUO,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Cleanser,BANILA CO,100,1,0.00 pcs,0.00 box/s,100,0,100.00 pcs,1.00 box/s,0.00x0.00x0.00,0,?0.00,?85.00,?85.00,?85.00,0.00%
+BANILA CO SKIN CARE STARTER KIT,N/A,N/A,N/A,N/A,Cosmetics/personal Care,Kit SET,BANILA CO,1,1,0.00 pcs,0.00 pcs,60,0,60.00 pcs,60.00 pcs,0.00x0.00x0.00,0,?0.00,?105.00,?105.00,?105.00,0.00%

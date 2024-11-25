@@ -1,0 +1,327 @@
+b<!DOCTYPE html>
+<html>
+
+<head>
+<!-- TABLES CSS CODE -->
+<?php include"comman/code_css_form.php"; ?>
+
+<style>
+  .skin-blue .content-header {
+    padding: 10px;
+    margin-bottom: 15px;
+}
+.quick-exp {
+    padding: 10px;
+    box-shadow: 3px 1px 6px 4px #888888;
+    margin:15px
+}
+.booking-table{
+  margin: 10px;
+}
+.table .Total{
+  padding: 42px 0px 0px 10px;
+}
+</style>
+</head>
+
+<body class="hold-transition skin-blue sidebar-mini">
+<div class="wrapper">
+
+  <!-- Left side column. contains the logo and sidebar -->
+  
+  <?php include"sidebar.php"; ?>
+
+  <!-- Content Wrapper. Contains page content -->
+  <div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <h1>
+        <?=$page_title;?>
+        <small>Add New Booking</small>
+      </h1>
+      <ol class="breadcrumb">
+        <li><a href="<?php echo $base_url; ?>dashboard"><i class="fa fa-dashboard"></i> Home</a></li>
+        <li class="active"><?=$page_title;?></li>
+      </ol>
+    </section>
+
+
+
+
+      <div class="quick-exp box box-primary">
+            <div class="box-header with-border">
+              <h3 class="box-title">Booking Form</h3>
+            </div>
+            <!-- /.box-header -->
+            <!-- form start -->
+            <form role="form" id="booking-form">
+              <div class="col-md-12 ">
+               
+              <div class="row">
+              <div class="form-group col-md-2">
+                  <label for="exampleInputPassword1">Booked Date</label>
+                  <input type="date" class="form-control" id="exampleInputPassword1" readonly>
+                </div>
+                <div class="form-group col-md-5">
+                  <label for="exampleInputEmail1">First Name</label>
+                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="First Name">
+                </div>
+                <div class="form-group col-md-5">
+                  <label for="exampleInputPassword1">Last Name</label>
+                  <input type="text" class="form-control" id="exampleInputPassword1" placeholder="Last Name...">
+                </div>
+              </div>
+               <div class="row">
+                <div class="form-group col-md-6">
+                  <label for="exampleInputEmail1">Contact</label>
+                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
+                </div>
+                <div class="form-group col-md-6">
+                  <label for="exampleInputPassword1">Address</label>
+                  <textarea type="text" class="form-control" id="address" rows="2"> </textarea>
+                </div>
+              </div>
+              <center>
+                <div class="row col-md-12 align-center ">
+                <button class="btn btn-success"><i class="fa fa-plus"></i></button>
+                <button class="btn btn-danger"><i class="fa fa-solid fa-minus"></i></button>
+                </div>
+                </center>
+
+                <table class="table table-bordered table-hover mt-1 booking-table">
+                <tr>
+                  <th>1</th>
+                  <td>
+                  <div class="form-group">
+                  <div class="form-group" data-select2-id="13">
+                  <label>Select Breed</label>
+                  <select class="form-control breed " >
+                  <option selected="selected" data-select2-id="11">Alabama</option>
+                  <option data-select2-id="21">Alaska</option>
+                  <option disabled="disabled" data-select2-id="22">California (disabled)</option>
+                  <option data-select2-id="23">Delaware</option>
+                  <option data-select2-id="24">Tennessee</option>
+                  <option data-select2-id="25">Texas</option>
+                  <option data-select2-id="26">Washington</option>
+                  </select>
+                  </div>
+                </div>
+                  </td>
+                  <td>
+                  <div class="form-group ">
+                  <label for="exampleInputEmail1">Qty</label>
+                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter ">
+                </div>
+                  </td>
+                  <td>
+                  <div class="form-group ">
+                  <label for="exampleInputEmail1">Unit Price</label>
+                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter ">
+                </div>
+                  </td>
+                  <td class="Total">
+                    Total Amt:$000
+                  </td>
+                </tr>
+                  
+                </table>
+
+                <div class="row col-md-12">
+                
+                <div class="form-group col-md-3">
+                  <label for="exampleInputEmail1">Amt Paid</label>
+                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter ">
+                </div>
+                  <div class="form-group col-md-3">
+                  <label for="exampleInputEmail1">Due</label>
+                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter ">
+                </div>
+                  <div class="form-group col-md-3">
+                  <label for="exampleInputEmail1">Total Collected</label>
+                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter " disable>
+                </div>
+                <div class="form-group col-md-3">
+                  <label for="exampleInputEmail1">Total Left</label>
+                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter " disable>
+                </div>
+              </div>
+              <div class="row col-md-12">
+                
+                <div class="form-group col-md-6">
+                  <label for="exampleInputEmail1">Sub Total</label>
+                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter ">
+                </div>
+                 
+                <div class="form-group col-md-6">
+                  <label for="exampleInputEmail1">Net Total</label>
+                  <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter..." disable>
+                </div>
+              </div>
+              </div>
+              <!-- /.box-body -->
+
+              <div class="box-footer">
+                <button type="submit" class="btn btn-primary">Submit</button>
+              </div>
+            </form>
+          </div>
+
+
+
+
+
+     <?php include"footer.php"; ?>
+  <!-- Add the sidebar's background. This div must be placed
+       immediately after the control sidebar -->
+  <div class="control-sidebar-bg"></div>
+</div>
+<!-- ./wrapper -->
+
+<!-- SOUND CODE -->
+<?php include"comman/code_js_sound.php"; ?>
+<!-- TABLES CODE -->
+<?php include"comman/code_js_datatable.php"; ?>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    //datatables
+   var table = $('#example2').DataTable({ 
+
+      /* FOR EXPORT BUTTONS START*/
+  dom:'<"row margin-bottom-12"<"col-sm-12"<"pull-left"l><"pull-right"fr><"pull-right margin-left-10 "B>>>tip',
+ /* dom:'<"row"<"col-sm-12"<"pull-left"B><"pull-right">>> <"row margin-bottom-12"<"col-sm-12"<"pull-left"l><"pull-right"fr>>>tip',*/
+      buttons: {
+        buttons: [
+            {
+                className: 'btn bg-red color-palette btn-flat hidden delete_btn pull-left',
+                text: 'Delete',
+                action: function ( e, dt, node, config ) {
+                    multi_delete();
+                }
+            },
+            { extend: 'copy', className: 'btn bg-teal color-palette btn-flat',exportOptions: { columns: [1,2,3,4]} },
+            { extend: 'excel', className: 'btn bg-teal color-palette btn-flat',exportOptions: { columns: [1,2,3,4]} },
+            { extend: 'pdf', className: 'btn bg-teal color-palette btn-flat',exportOptions: { columns: [1,2,3,4]} },
+            { extend: 'print', className: 'btn bg-teal color-palette btn-flat',exportOptions: { columns: [1,2,3,4]} },
+            { extend: 'csv', className: 'btn bg-teal color-palette btn-flat',exportOptions: { columns: [1,2,3,4]} },
+            { extend: 'colvis', className: 'btn bg-teal color-palette btn-flat',text:'Columns' },  
+
+            ]
+        },
+        /* FOR EXPORT BUTTONS END */
+
+        "processing": true, //Feature control the processing indicator.
+        "serverSide": true, //Feature control DataTables' server-side processing mode.
+        "order": [], //Initial no order.
+        "responsive": true,
+        language: {
+            processing: '<div class="text-primary bg-primary" style="position: relative;z-index:100;overflow: visible;">Processing...</div>'
+        },
+        // Load data for the table's content from an Ajax source
+        "ajax": {
+            "url": "<?php echo site_url('brands/ajax_list')?>",
+            "type": "POST",
+            
+            complete: function (data) {
+             $('.column_checkbox').iCheck({
+                checkboxClass: 'icheckbox_square-orange',
+                /*uncheckedClass: 'bg-white',*/
+                radioClass: 'iradio_square-orange',
+                increaseArea: '10%' // optional
+              });
+             call_code();
+              //$(".delete_btn").hide();
+             },
+
+        },
+
+        //Set column definition initialisation properties.
+        "columnDefs": [
+        { 
+            "targets": [ 0,5 ], //first column / numbering column
+            "orderable": false, //set not orderable
+        },
+        {
+            "targets" :[0],
+            "className": "text-center",
+        },
+        
+        ],
+    });
+    new $.fn.dataTable.FixedHeader( table );
+});
+</script>
+<script src="<?php echo $theme_link; ?>js/brand.js"></script>
+<!-- Make sidebar menu hughlighter/selector -->
+<script>$(".<?php echo basename(__FILE__,'.php');?>-active-li").addClass("active");</script>
+
+<script>
+  $(function () {
+    //Initialize Select2 Elements
+    $('.breed').select2()
+
+    //Datemask dd/mm/yyyy
+    $('#datemask').inputmask('dd/mm/yyyy', { 'placeholder': 'dd/mm/yyyy' })
+    //Datemask2 mm/dd/yyyy
+    $('#datemask2').inputmask('mm/dd/yyyy', { 'placeholder': 'mm/dd/yyyy' })
+    //Money Euro
+    $('[data-mask]').inputmask()
+
+    //Date range picker
+    $('#reservation').daterangepicker()
+    //Date range picker with time picker
+    $('#reservationtime').daterangepicker({ timePicker: true, timePickerIncrement: 30, locale: { format: 'MM/DD/YYYY hh:mm A' }})
+    //Date range as a button
+    $('#daterange-btn').daterangepicker(
+      {
+        ranges   : {
+          'Today'       : [moment(), moment()],
+          'Yesterday'   : [moment().subtract(1, 'days'), moment().subtract(1, 'days')],
+          'Last 7 Days' : [moment().subtract(6, 'days'), moment()],
+          'Last 30 Days': [moment().subtract(29, 'days'), moment()],
+          'This Month'  : [moment().startOf('month'), moment().endOf('month')],
+          'Last Month'  : [moment().subtract(1, 'month').startOf('month'), moment().subtract(1, 'month').endOf('month')]
+        },
+        startDate: moment().subtract(29, 'days'),
+        endDate  : moment()
+      },
+      function (start, end) {
+        $('#daterange-btn span').html(start.format('MMMM D, YYYY') + ' - ' + end.format('MMMM D, YYYY'))
+      }
+    )
+
+    //Date picker
+    $('#datepicker').datepicker({
+      autoclose: true
+    })
+
+    //iCheck for checkbox and radio inputs
+    $('input[type="checkbox"].minimal, input[type="radio"].minimal').iCheck({
+      checkboxClass: 'icheckbox_minimal-blue',
+      radioClass   : 'iradio_minimal-blue'
+    })
+    //Red color scheme for iCheck
+    $('input[type="checkbox"].minimal-red, input[type="radio"].minimal-red').iCheck({
+      checkboxClass: 'icheckbox_minimal-red',
+      radioClass   : 'iradio_minimal-red'
+    })
+    //Flat red color scheme for iCheck
+    $('input[type="checkbox"].flat-red, input[type="radio"].flat-red').iCheck({
+      checkboxClass: 'icheckbox_flat-green',
+      radioClass   : 'iradio_flat-green'
+    })
+
+    //Colorpicker
+    $('.my-colorpicker1').colorpicker()
+    //color picker with addon
+    $('.my-colorpicker2').colorpicker()
+
+    //Timepicker
+    $('.timepicker').timepicker({
+      showInputs: false
+    })
+  })
+</script>
+<script src="<?php echo $theme_link; ?>js/booking.js"></script>
+</body>
+</html>
